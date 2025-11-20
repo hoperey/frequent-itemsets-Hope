@@ -1,0 +1,4001 @@
+transaction_id,items
+1,cookies;grapes;chocolate;milk;olive oil;shampoo;oranges
+2,kiwi;tomatoes;peanut butter;cereal;grapes;apples;bananas
+3,flour;olive oil;grapes
+4,onion;pens;cookies;flour;peanut butter;milk
+5,yogurt;pencil
+6,butter;potatoes;cereal;coffee
+7,tomatoes;eggs
+8,tea;bread
+9,toothpaste;cookies
+10,tomatoes;peanut butter;chocolate;onion;oranges
+11,flour;peanut butter
+12,flour;kiwi
+13,butter;toothpaste;chocolate;yogurt;tea
+14,butter;oranges;yogurt
+15,cakes;yogurt;flour;onion;milk;salt
+16,flour;salt;pens;eggs;toothpaste;grapes;cookies
+17,salt;soap
+18,oranges;cereal;salt;napkins
+19,toothpaste;potatoes;bread;milk;cakes
+20,bread;pencil;shampoo;peanut butter;onion;rice;cookies
+21,olive oil;napkins;tomatoes
+22,cookies;potatoes
+23,yogurt;pencil;sugar;bananas;onion;shampoo;detergent
+24,bread;apples;cookies;butter;coffee
+25,peanut butter;pencil
+26,toothpaste;apples;bread
+27,rice;kiwi;pencil;salt;potatoes;pens
+28,olive oil;onion;oranges;rice;eggs;tomatoes;butter
+29,apples;salt;cakes;olive oil;juice;rice
+30,cakes;juice;tomatoes;napkins
+31,milk;detergent
+32,yogurt;bread;napkins;pencil;sugar;cereal
+33,onion;sugar;soap
+34,chocolate;shampoo;napkins;bread;flour;juice;cookies
+35,oranges;coffee;grapes
+36,flour;olive oil;apples;bananas;tea;salt
+37,flour;oranges
+38,coffee;oranges
+39,cakes;butter;coffee;olive oil;kiwi;napkins
+40,detergent;cakes;pens
+41,kiwi;pencil;tea
+42,pens;toothpaste;juice;kiwi;soap
+43,coffee;kiwi;cookies;napkins;toothpaste;butter;flour
+44,pencil;rice;butter
+45,cakes;oranges;shampoo;kiwi;juice
+46,apples;tomatoes;toothpaste;eggs;pencil;cookies;napkins
+47,napkins;detergent;cereal;soap;juice
+48,eggs;apples;bread
+49,peanut butter;pencil;napkins;potatoes;onion
+50,cereal;juice;salt;detergent
+51,yogurt;juice;detergent;bread;bananas;pencil
+52,oranges;cakes;soap
+53,cakes;bananas
+54,tomatoes;pens;coffee;peanut butter;toothpaste;bread
+55,bread;cereal;salt;cakes
+56,soap;milk;sugar;toothpaste
+57,oranges;apples;toothpaste;kiwi
+58,cereal;olive oil
+59,milk;tea;oranges;cakes
+60,peanut butter;yogurt;shampoo;sugar
+61,apples;sugar;toothpaste;coffee;juice;oranges
+62,cookies;kiwi;potatoes;butter
+63,cereal;coffee;bread;olive oil
+64,bread;juice;tomatoes;pencil;butter
+65,apples;coffee
+66,bread;yogurt;shampoo
+67,pencil;apples;juice;bananas;shampoo;tea
+68,bananas;chocolate;potatoes
+69,milk;bananas;sugar;chocolate;tea
+70,cakes;kiwi;tea
+71,pens;potatoes;toothpaste;detergent;cookies;pencil
+72,rice;pens;grapes
+73,coffee;pens;cakes
+74,yogurt;kiwi;eggs;bananas
+75,flour;onion;toothpaste;tea;sugar
+76,flour;grapes;onion
+77,coffee;butter;oranges;tea;olive oil
+78,coffee;grapes;cookies;bread;rice
+79,bread;bananas;juice;sugar;cereal;rice
+80,salt;pencil;sugar;bread;juice;onion;peanut butter
+81,bread;bananas;pencil
+82,onion;chocolate
+83,oranges;coffee;salt;cookies;sugar
+84,sugar;pens;yogurt;onion;tea;potatoes
+85,milk;onion;cereal;coffee;napkins;toothpaste
+86,rice;sugar;onion;butter;pens;apples;potatoes
+87,cereal;pencil;salt;toothpaste
+88,shampoo;cereal;olive oil;detergent;yogurt
+89,tomatoes;peanut butter;bread;coffee;salt;sugar;yogurt
+90,cakes;sugar
+91,onion;potatoes;grapes
+92,cakes;detergent
+93,oranges;toothpaste;cereal;shampoo;salt;peanut butter
+94,eggs;napkins;soap
+95,potatoes;apples;kiwi
+96,flour;rice;toothpaste;juice;cakes
+97,toothpaste;milk
+98,salt;shampoo;olive oil;pencil;yogurt
+99,detergent;shampoo;milk;eggs;cookies;pens;salt
+100,napkins;cakes;butter;shampoo
+101,peanut butter;cakes
+102,coffee;salt;tomatoes;milk
+103,flour;eggs;potatoes
+104,cereal;oranges;olive oil;detergent;yogurt;butter;flour
+105,juice;cereal;pens;eggs;grapes
+106,eggs;detergent;apples;rice;potatoes;olive oil
+107,pens;flour;napkins;butter;pencil
+108,grapes;eggs;coffee;soap;yogurt
+109,milk;grapes;soap;tomatoes;pencil
+110,toothpaste;rice;juice
+111,eggs;salt;cereal;toothpaste
+112,coffee;eggs;butter;pens
+113,tomatoes;detergent;grapes;juice
+114,flour;oranges;bananas;grapes
+115,onion;grapes;potatoes
+116,milk;detergent;cookies
+117,cereal;toothpaste;tea;milk;eggs;rice
+118,cookies;yogurt;sugar
+119,grapes;sugar
+120,eggs;soap;detergent;tea;kiwi;bananas
+121,cakes;kiwi;tea;eggs;potatoes;pencil
+122,cookies;bananas;rice;butter;cereal;coffee;detergent
+123,olive oil;coffee
+124,pens;napkins
+125,pencil;chocolate
+126,toothpaste;potatoes;cereal;tomatoes;chocolate;bread;salt
+127,detergent;toothpaste;pencil;butter
+128,cakes;tomatoes;butter;shampoo
+129,toothpaste;eggs;coffee
+130,napkins;salt
+131,napkins;cereal;tea
+132,coffee;butter;apples;onion
+133,cakes;pens
+134,cakes;detergent;napkins;shampoo;grapes
+135,peanut butter;flour
+136,cakes;sugar;chocolate;detergent;tea
+137,coffee;tea;toothpaste;butter;sugar
+138,flour;cookies;onion;salt
+139,rice;onion
+140,detergent;butter;peanut butter
+141,onion;peanut butter
+142,chocolate;rice;sugar
+143,milk;butter
+144,juice;peanut butter
+145,milk;napkins;juice;pencil;apples;peanut butter;potatoes
+146,detergent;shampoo;coffee;rice;juice
+147,detergent;cookies;oranges;soap
+148,oranges;juice;potatoes;sugar;tomatoes
+149,cookies;pens;flour
+150,eggs;shampoo;toothpaste;flour;potatoes;pencil
+151,pencil;sugar;peanut butter;napkins;grapes;toothpaste
+152,kiwi;cereal;salt;olive oil;milk;coffee;bananas
+153,cakes;rice;oranges
+154,apples;pens;shampoo
+155,detergent;peanut butter;grapes;cookies;potatoes;tea;shampoo
+156,toothpaste;oranges;coffee;cookies;milk;soap;pencil
+157,onion;pencil;juice;butter;cookies;salt;oranges
+158,potatoes;oranges;juice;yogurt
+159,peanut butter;shampoo;cookies;toothpaste
+160,sugar;soap;detergent;milk;bread;butter;cakes
+161,tomatoes;bananas;pencil;salt;bread
+162,tomatoes;flour
+163,grapes;butter;peanut butter;olive oil;eggs;shampoo;tomatoes
+164,shampoo;butter;rice;pencil;napkins
+165,detergent;tea
+166,coffee;salt;kiwi;yogurt;pens
+167,napkins;peanut butter;coffee;onion;pens;eggs;butter
+168,toothpaste;tomatoes
+169,bread;salt;cookies;soap
+170,apples;toothpaste;cereal;grapes;kiwi;bread
+171,napkins;shampoo;juice;cereal
+172,milk;peanut butter;shampoo;napkins
+173,grapes;cakes
+174,yogurt;sugar;butter;apples;detergent;cereal;bananas
+175,cookies;toothpaste;potatoes
+176,peanut butter;olive oil;butter;pens;detergent
+177,cakes;toothpaste;potatoes;eggs;onion
+178,olive oil;milk;pencil;bananas;napkins;eggs
+179,coffee;olive oil;butter;apples;peanut butter
+180,sugar;napkins;pencil;oranges;flour;butter;cakes
+181,coffee;eggs;toothpaste;salt
+182,cakes;eggs;flour
+183,bananas;salt;detergent;eggs;potatoes
+184,bananas;milk;olive oil;coffee;kiwi
+185,kiwi;toothpaste;apples;potatoes;pens
+186,potatoes;oranges;cakes;soap;milk;yogurt;sugar
+187,soap;tomatoes;pencil;yogurt;detergent;coffee;butter
+188,salt;napkins;bananas;oranges;cakes
+189,peanut butter;flour;chocolate;bananas;cereal;juice;eggs
+190,kiwi;shampoo;tomatoes;tea;potatoes;apples;grapes
+191,juice;peanut butter;tea;chocolate
+192,potatoes;cakes;pens;rice;yogurt
+193,tomatoes;eggs;cakes
+194,potatoes;flour;toothpaste;bread;apples
+195,peanut butter;yogurt;oranges;shampoo;tea
+196,sugar;pencil;tea;milk;flour;napkins
+197,onion;eggs;detergent;kiwi
+198,eggs;tea;peanut butter
+199,peanut butter;grapes;pens;coffee;onion;milk;apples
+200,juice;napkins;pens;shampoo;toothpaste;potatoes
+201,tea;flour;onion
+202,bread;milk;salt;juice;shampoo;detergent
+203,bananas;sugar;soap;flour;grapes;peanut butter;rice
+204,milk;tomatoes;toothpaste;potatoes;yogurt;chocolate;cereal
+205,onion;milk;chocolate
+206,olive oil;butter;pens;tomatoes;milk;detergent
+207,peanut butter;coffee;cookies;toothpaste;oranges
+208,flour;soap;chocolate
+209,soap;apples
+210,cookies;toothpaste;chocolate;bread
+211,eggs;chocolate;juice;coffee;cookies;cakes
+212,salt;flour
+213,oranges;toothpaste;napkins;tea;potatoes;salt;cereal
+214,milk;bananas
+215,sugar;napkins
+216,kiwi;cakes
+217,milk;eggs;flour;rice;coffee;chocolate
+218,pens;potatoes;shampoo;cereal;salt;juice;olive oil
+219,pens;butter;bananas;chocolate;cereal
+220,shampoo;cakes;chocolate;kiwi;tea
+221,soap;butter
+222,cookies;toothpaste;tomatoes
+223,cereal;grapes;napkins;soap;yogurt;cookies;oranges
+224,cereal;oranges;pens;eggs;butter;kiwi
+225,cereal;flour;yogurt;eggs;oranges;soap
+226,apples;butter;pencil;oranges;toothpaste;napkins
+227,rice;cookies;grapes;milk
+228,tea;cakes
+229,salt;grapes;tomatoes;milk;napkins;oranges
+230,pens;cookies;chocolate;bananas;cakes;flour;eggs
+231,olive oil;kiwi;shampoo;flour
+232,bananas;sugar;flour;salt;apples;grapes
+233,soap;pencil;kiwi;napkins;shampoo
+234,tomatoes;salt
+235,potatoes;oranges;napkins;milk;sugar;salt
+236,salt;eggs;sugar;bread;potatoes;flour
+237,pencil;kiwi;soap;tea;juice;olive oil
+238,cereal;pencil;flour;shampoo;cookies;olive oil;yogurt
+239,soap;pens;kiwi;salt;pencil
+240,bread;chocolate;potatoes;detergent
+241,tomatoes;pencil
+242,chocolate;milk
+243,juice;coffee;napkins;olive oil;cereal;rice
+244,pencil;juice;detergent;potatoes;sugar;toothpaste;rice
+245,olive oil;cereal
+246,detergent;flour;kiwi
+247,chocolate;cookies;butter;flour
+248,grapes;butter;rice;sugar;coffee
+249,apples;rice;potatoes;soap
+250,potatoes;grapes
+251,cereal;eggs
+252,toothpaste;coffee;yogurt;chocolate;sugar
+253,salt;tomatoes;shampoo;grapes;oranges;napkins;eggs
+254,juice;tomatoes;milk;flour;coffee;cereal
+255,shampoo;pens;butter;cereal;olive oil
+256,tea;pencil
+257,peanut butter;napkins
+258,sugar;bananas;cookies;onion;olive oil;grapes
+259,cereal;sugar
+260,milk;bread;peanut butter
+261,cookies;apples;napkins;pencil
+262,milk;eggs;flour
+263,tea;oranges;onion;pencil;chocolate;grapes
+264,grapes;toothpaste;oranges;salt;pencil
+265,soap;pens;potatoes;juice;onion;apples
+266,yogurt;toothpaste;chocolate;tomatoes
+267,kiwi;cakes;pencil;soap;tomatoes
+268,sugar;coffee;flour;yogurt;oranges
+269,cookies;onion;shampoo;eggs;rice;detergent
+270,potatoes;cakes;juice;oranges;milk;kiwi;tomatoes
+271,potatoes;oranges;tomatoes;eggs;salt;cakes
+272,shampoo;salt;potatoes;oranges;detergent
+273,sugar;butter;juice;tea;olive oil
+274,sugar;toothpaste
+275,bananas;juice;chocolate;peanut butter;oranges
+276,tomatoes;eggs;flour;peanut butter;butter;soap;chocolate
+277,shampoo;onion
+278,detergent;olive oil;potatoes;juice
+279,kiwi;coffee;tomatoes;olive oil;rice
+280,cakes;shampoo
+281,yogurt;chocolate;peanut butter;eggs;pens
+282,juice;coffee;oranges;kiwi
+283,eggs;peanut butter;milk;chocolate;pencil;coffee
+284,potatoes;coffee;bananas;peanut butter;napkins;oranges
+285,sugar;soap;milk;tomatoes
+286,eggs;coffee;milk;tomatoes
+287,pencil;chocolate;apples;rice;potatoes;tomatoes;kiwi
+288,napkins;onion;flour;milk
+289,oranges;peanut butter;kiwi
+290,bananas;coffee;shampoo;eggs;sugar;oranges
+291,eggs;potatoes;tomatoes;detergent;pens;tea
+292,yogurt;shampoo;grapes;cereal;rice;coffee
+293,cakes;shampoo;sugar;potatoes;eggs;chocolate;soap
+294,flour;cakes;sugar;detergent;onion
+295,shampoo;toothpaste;peanut butter;eggs
+296,pens;yogurt;olive oil;kiwi;soap;sugar
+297,bread;juice;detergent
+298,kiwi;cookies;peanut butter;tomatoes
+299,butter;shampoo;olive oil
+300,pencil;tomatoes;flour
+301,tea;grapes;pens;juice;soap
+302,chocolate;cakes;onion;bananas;rice;cookies
+303,salt;kiwi
+304,coffee;potatoes;oranges;grapes;napkins;pens;cakes
+305,milk;detergent;flour;sugar;apples;bananas;shampoo
+306,cereal;potatoes;pencil;cookies
+307,cakes;sugar;cookies;juice
+308,pens;toothpaste;oranges
+309,napkins;grapes
+310,olive oil;cakes;tea;oranges;potatoes;cereal;apples
+311,tea;cakes;peanut butter;cereal;tomatoes;coffee
+312,tomatoes;chocolate;bananas;bread;butter;toothpaste;soap
+313,grapes;eggs;pencil;cakes;olive oil;salt
+314,chocolate;bread;grapes;tea;oranges
+315,cakes;kiwi;coffee;milk
+316,tea;coffee
+317,rice;toothpaste;tea;cakes;salt;tomatoes;soap
+318,oranges;toothpaste;bananas
+319,onion;bananas;salt;sugar
+320,soap;detergent;milk;grapes;eggs;salt
+321,peanut butter;tea;juice
+322,coffee;butter;juice;soap;rice;cereal;onion
+323,shampoo;eggs;yogurt;tomatoes;cakes;tea;olive oil
+324,butter;tomatoes;pencil;rice
+325,peanut butter;salt;juice;bananas;yogurt;coffee
+326,sugar;shampoo;pencil;yogurt
+327,shampoo;tea;flour;grapes;chocolate;pencil;rice
+328,pencil;butter;salt;soap;grapes;bananas
+329,soap;chocolate;bread;olive oil;napkins;coffee;tomatoes
+330,potatoes;shampoo
+331,milk;oranges
+332,chocolate;eggs;bananas
+333,potatoes;shampoo;detergent;rice;toothpaste;flour
+334,milk;chocolate
+335,salt;butter;cakes;cookies;grapes
+336,rice;napkins;bread;onion;butter;juice;milk
+337,shampoo;cereal;peanut butter;napkins
+338,cookies;milk;oranges
+339,rice;shampoo;tomatoes;salt;tea
+340,oranges;peanut butter;shampoo;potatoes;pencil;tomatoes;tea
+341,rice;chocolate;bread;cookies;juice;kiwi;soap
+342,cakes;napkins;grapes
+343,chocolate;toothpaste;milk;tomatoes
+344,sugar;soap
+345,detergent;pens;eggs;cereal;napkins;peanut butter;bananas
+346,salt;oranges;shampoo
+347,tea;milk;rice;pencil;olive oil
+348,cookies;potatoes
+349,yogurt;salt;flour;tea
+350,peanut butter;tomatoes;milk;kiwi;salt;butter
+351,milk;sugar;tomatoes;olive oil
+352,yogurt;potatoes;tomatoes;coffee;sugar;chocolate;shampoo
+353,bananas;grapes;tomatoes;bread
+354,cereal;pens;sugar;salt;apples;cakes;toothpaste
+355,peanut butter;sugar;cakes;cookies;soap;shampoo
+356,soap;sugar;flour;bananas;tea;grapes;tomatoes
+357,pens;detergent;toothpaste;cereal;coffee
+358,potatoes;salt;pencil;tea;yogurt;chocolate
+359,soap;milk;chocolate;olive oil
+360,kiwi;salt;cookies;flour;juice;milk
+361,cakes;potatoes;kiwi;juice;peanut butter
+362,pens;cakes;yogurt;salt;onion
+363,napkins;olive oil;toothpaste
+364,sugar;napkins;grapes;tomatoes;soap
+365,toothpaste;cakes;kiwi;peanut butter;rice;grapes
+366,peanut butter;napkins
+367,detergent;peanut butter;butter;apples;pencil;juice
+368,milk;bread;chocolate;soap;bananas
+369,juice;onion;chocolate;peanut butter;oranges
+370,olive oil;shampoo;butter;cookies;milk
+371,soap;chocolate
+372,chocolate;potatoes;onion;olive oil
+373,olive oil;bananas;milk;coffee;detergent
+374,toothpaste;potatoes;sugar;shampoo;bread;oranges
+375,salt;yogurt;soap;sugar
+376,coffee;napkins;tea;peanut butter;potatoes;cakes
+377,chocolate;coffee
+378,cookies;pens;peanut butter;potatoes;soap;chocolate;tea
+379,grapes;detergent;milk;salt;soap;eggs;peanut butter
+380,flour;juice;peanut butter;cakes;tomatoes;bread
+381,eggs;potatoes;pens;coffee;cookies;grapes;peanut butter
+382,cookies;onion;apples;flour;yogurt;cereal;oranges
+383,cereal;pens;olive oil;detergent;juice
+384,milk;cereal;butter;yogurt;coffee;cakes;bread
+385,salt;rice;toothpaste;coffee;tea
+386,bread;detergent;kiwi;cookies;milk;butter;potatoes
+387,sugar;peanut butter;cereal
+388,napkins;salt;cakes;rice;butter;soap;chocolate
+389,peanut butter;cookies;eggs;soap
+390,potatoes;peanut butter;bananas;tomatoes
+391,shampoo;bread;detergent;cereal
+392,butter;milk;kiwi
+393,cakes;olive oil;grapes;coffee;shampoo;bread
+394,flour;juice;kiwi
+395,coffee;detergent;kiwi;milk;apples
+396,yogurt;pens;salt;toothpaste;shampoo;cakes
+397,onion;peanut butter;salt;juice;tomatoes
+398,flour;bananas;toothpaste;detergent;tomatoes;cereal;pens
+399,bananas;soap;napkins
+400,peanut butter;bananas;apples
+401,kiwi;coffee;peanut butter;toothpaste
+402,napkins;milk;pencil;bread;flour;olive oil;kiwi
+403,coffee;yogurt
+404,toothpaste;bread;tea;tomatoes;apples;chocolate;yogurt
+405,onion;rice;soap;pencil
+406,salt;tomatoes;onion;coffee;juice;napkins
+407,detergent;salt;cakes
+408,bread;eggs
+409,shampoo;butter;coffee
+410,apples;bread;chocolate;cakes
+411,cookies;toothpaste
+412,yogurt;soap;olive oil;sugar
+413,cookies;peanut butter;rice;sugar;olive oil;shampoo;oranges
+414,potatoes;toothpaste;chocolate;pens;detergent
+415,cereal;cakes;coffee;eggs;sugar;pencil
+416,shampoo;chocolate
+417,cookies;juice
+418,olive oil;onion;peanut butter;butter;oranges;tomatoes
+419,shampoo;cookies;cereal;napkins
+420,olive oil;shampoo
+421,toothpaste;milk
+422,pens;toothpaste;peanut butter;grapes;butter;flour
+423,sugar;grapes;onion;milk;pens;apples;chocolate
+424,oranges;bananas;pencil
+425,oranges;juice;detergent;bananas
+426,pens;rice;milk;chocolate
+427,shampoo;eggs;tomatoes;milk;tea
+428,rice;soap
+429,milk;flour;pens;apples;eggs;toothpaste
+430,toothpaste;pencil;eggs;flour
+431,toothpaste;tea;potatoes
+432,onion;cookies;bananas;pens
+433,grapes;cakes;kiwi;bananas;juice;sugar
+434,shampoo;juice
+435,bananas;soap;shampoo
+436,cereal;juice;milk
+437,peanut butter;flour;pens;toothpaste;chocolate;olive oil
+438,salt;cakes;sugar;potatoes
+439,flour;pens;potatoes;milk;grapes;butter;peanut butter
+440,rice;pencil;butter;cakes;grapes;olive oil;salt
+441,eggs;salt;tea;cereal;toothpaste;oranges;potatoes
+442,rice;detergent;cakes;flour;sugar
+443,potatoes;toothpaste;napkins;grapes;butter;cereal;pencil
+444,milk;eggs;cookies;olive oil;kiwi;yogurt
+445,tomatoes;shampoo;pencil;rice;bananas;butter;chocolate
+446,juice;butter;eggs
+447,bananas;oranges;kiwi;soap;eggs;peanut butter;chocolate
+448,cereal;detergent;kiwi;pencil;yogurt;potatoes;apples
+449,onion;cookies;detergent
+450,cereal;soap;cakes
+451,salt;peanut butter;onion;flour;butter;olive oil
+452,sugar;bread;chocolate;olive oil
+453,toothpaste;kiwi;detergent;salt;cereal
+454,salt;pens;bananas;flour
+455,potatoes;grapes;milk;butter;peanut butter;shampoo;chocolate
+456,peanut butter;potatoes;onion;coffee;flour
+457,cakes;napkins;coffee;bread;toothpaste
+458,tea;yogurt;milk
+459,napkins;rice;toothpaste;shampoo;butter;salt;grapes
+460,bananas;oranges;detergent;pens;coffee;grapes
+461,pens;milk
+462,flour;oranges;tea;napkins;apples;kiwi;bread
+463,chocolate;juice;detergent;napkins;grapes
+464,pens;apples
+465,butter;peanut butter
+466,olive oil;pencil
+467,kiwi;potatoes;cakes
+468,bread;tea;butter
+469,tomatoes;chocolate;soap;toothpaste;cakes
+470,flour;sugar;coffee;pens;pencil;bananas;salt
+471,bananas;tomatoes;onion;detergent;toothpaste;butter;cakes
+472,apples;yogurt
+473,napkins;pencil
+474,coffee;kiwi;shampoo;bread;grapes;cookies;napkins
+475,detergent;butter;grapes;toothpaste;bananas;coffee;milk
+476,bananas;rice;toothpaste;pencil;yogurt;apples
+477,potatoes;soap;oranges
+478,yogurt;cakes;eggs;coffee
+479,milk;tomatoes;olive oil;tea;juice
+480,pencil;flour
+481,coffee;soap
+482,grapes;butter;shampoo;napkins
+483,tea;eggs;pencil
+484,eggs;tomatoes;peanut butter
+485,oranges;tomatoes;butter
+486,eggs;potatoes;salt
+487,kiwi;tomatoes;apples;sugar
+488,chocolate;butter;kiwi;milk;tomatoes
+489,pencil;shampoo;olive oil
+490,kiwi;grapes;tomatoes;tea;salt
+491,apples;peanut butter;pens;eggs;tomatoes
+492,cakes;yogurt;coffee;onion;tomatoes;oranges;milk
+493,butter;napkins;potatoes;oranges
+494,pencil;butter;pens
+495,detergent;oranges;chocolate;bread
+496,napkins;onion;toothpaste
+497,milk;sugar
+498,soap;coffee
+499,eggs;coffee;flour;yogurt;cereal;pens
+500,milk;sugar;yogurt;napkins;tea;kiwi;cakes
+501,rice;soap;salt;peanut butter
+502,napkins;cakes;yogurt;onion;milk;pens;soap
+503,chocolate;cookies;onion;rice;grapes
+504,toothpaste;cereal;flour;soap;potatoes;pens;tea
+505,pens;napkins
+506,sugar;cakes;bread
+507,potatoes;pencil;soap;onion;bananas;flour;sugar
+508,soap;olive oil;pens;bananas;chocolate
+509,tomatoes;kiwi;eggs;cookies;coffee;shampoo;rice
+510,bananas;soap;coffee
+511,kiwi;apples;bread;flour;olive oil
+512,flour;shampoo;rice;onion;olive oil;eggs;coffee
+513,olive oil;potatoes;rice;apples;cakes;juice
+514,pens;tomatoes;cookies;potatoes
+515,sugar;coffee;toothpaste;cereal
+516,detergent;tea;cakes;juice;flour;chocolate
+517,shampoo;salt;bananas;potatoes;grapes;soap;tea
+518,grapes;coffee
+519,kiwi;yogurt;toothpaste;chocolate;cookies;bread;tomatoes
+520,yogurt;coffee;butter;cereal;flour;cookies
+521,rice;pencil;soap;grapes;onion
+522,pencil;eggs;apples;cereal;butter
+523,oranges;kiwi;soap;pencil;butter;tomatoes;rice
+524,onion;toothpaste;cookies;bread
+525,napkins;salt;sugar;onion;detergent;toothpaste;peanut butter
+526,tea;toothpaste
+527,rice;sugar;toothpaste;napkins;peanut butter;bananas
+528,milk;salt;juice;cookies;potatoes;detergent;tomatoes
+529,potatoes;olive oil;eggs;pens
+530,milk;eggs;cereal;tomatoes;cakes;salt
+531,rice;yogurt;cakes;potatoes;oranges;tomatoes
+532,shampoo;juice;tea;apples
+533,milk;onion;eggs;olive oil;napkins
+534,napkins;pens;shampoo;yogurt;tomatoes
+535,grapes;flour;potatoes;olive oil;milk;cookies
+536,peanut butter;yogurt;eggs;flour;olive oil;chocolate
+537,olive oil;cookies;butter;chocolate;bananas
+538,shampoo;cereal;napkins;juice;chocolate;pens;salt
+539,sugar;bananas;shampoo
+540,tea;tomatoes;shampoo;cookies
+541,cereal;tea;pencil
+542,milk;cereal;juice
+543,tea;butter;sugar;napkins;tomatoes;yogurt
+544,peanut butter;olive oil;napkins;milk;pencil;bread;coffee
+545,milk;pens
+546,butter;milk
+547,milk;cakes;oranges;tea;yogurt;pens;cookies
+548,soap;napkins;oranges;peanut butter;salt;milk;shampoo
+549,eggs;shampoo;oranges;tomatoes;soap
+550,butter;chocolate;flour;cakes;yogurt;peanut butter
+551,tomatoes;toothpaste
+552,tea;oranges;soap;butter;onion;kiwi;cereal
+553,napkins;butter;salt
+554,coffee;milk;napkins;juice
+555,kiwi;toothpaste
+556,cookies;yogurt
+557,toothpaste;apples;pencil;onion;milk
+558,sugar;yogurt;pencil;toothpaste;shampoo;milk;bananas
+559,chocolate;bread;bananas;rice;coffee;salt;tomatoes
+560,soap;sugar
+561,flour;pencil;salt;bananas;tea;juice;apples
+562,detergent;oranges;milk
+563,flour;shampoo;apples;detergent;tea;yogurt
+564,pencil;milk
+565,oranges;flour;eggs;tomatoes;kiwi
+566,salt;chocolate
+567,milk;eggs;potatoes;oranges
+568,apples;yogurt;flour;rice;chocolate;kiwi
+569,potatoes;pens;sugar;coffee;flour;pencil;kiwi
+570,kiwi;milk
+571,eggs;tea
+572,salt;milk;cakes;butter;tomatoes
+573,peanut butter;grapes;sugar
+574,olive oil;onion;soap
+575,juice;cakes;napkins;eggs
+576,cakes;napkins
+577,oranges;apples;rice;toothpaste;yogurt;olive oil;onion
+578,pens;chocolate;butter;coffee;tomatoes;eggs
+579,oranges;grapes;apples;bread;cereal
+580,juice;soap
+581,peanut butter;pens;cereal;tea;onion;bananas
+582,potatoes;butter;bananas;olive oil;detergent;bread;kiwi
+583,salt;soap;oranges
+584,pencil;cakes;juice;tomatoes
+585,cookies;toothpaste;juice;sugar;rice
+586,apples;milk
+587,apples;yogurt;cakes;rice;bread;shampoo;soap
+588,bread;yogurt;rice;oranges;chocolate;eggs;milk
+589,cookies;grapes;yogurt;soap;cereal;milk;bread
+590,bread;oranges
+591,toothpaste;olive oil;chocolate;juice;napkins
+592,yogurt;chocolate;tomatoes;milk;eggs;juice
+593,cookies;flour;chocolate;bread;apples;grapes
+594,cakes;bananas
+595,chocolate;eggs;potatoes;rice;bananas
+596,pens;flour;yogurt;cookies;cereal;chocolate
+597,butter;oranges;chocolate;cookies
+598,juice;rice;cookies;soap;bread;grapes
+599,oranges;toothpaste;peanut butter;sugar;salt
+600,toothpaste;apples
+601,onion;peanut butter;sugar;cakes
+602,chocolate;napkins;onion;cakes;potatoes
+603,pens;grapes
+604,tea;apples;coffee
+605,eggs;sugar
+606,cereal;cakes
+607,napkins;juice;potatoes;butter;tomatoes
+608,flour;pens
+609,chocolate;toothpaste;olive oil;bananas;peanut butter;juice;bread
+610,soap;oranges;juice
+611,milk;cakes;peanut butter;bread;salt
+612,salt;shampoo;butter;flour;oranges
+613,milk;kiwi;potatoes
+614,yogurt;shampoo
+615,salt;pens;cookies;tea;cereal
+616,sugar;toothpaste;bread;cookies;tomatoes
+617,sugar;bananas;cereal
+618,potatoes;tomatoes;cakes;tea
+619,olive oil;juice;sugar;bread;rice
+620,soap;shampoo
+621,cakes;kiwi;flour;juice;soap;shampoo
+622,cookies;apples;juice
+623,milk;onion;soap
+624,tomatoes;bread;oranges;grapes
+625,onion;shampoo
+626,tomatoes;coffee;cookies
+627,toothpaste;juice
+628,pencil;soap;napkins
+629,eggs;pencil
+630,tea;cereal;rice
+631,butter;shampoo;potatoes;bananas
+632,cakes;peanut butter;olive oil;cereal;shampoo;butter
+633,juice;tomatoes;butter;eggs;milk
+634,onion;cakes;grapes;eggs;tea
+635,napkins;tea;olive oil;salt;eggs
+636,rice;grapes;salt;flour
+637,butter;juice
+638,tea;flour;yogurt;kiwi;cakes
+639,cakes;butter;napkins;pens;soap;chocolate;grapes
+640,eggs;tea;rice
+641,cakes;salt;tea
+642,grapes;tea;detergent;peanut butter;toothpaste;oranges
+643,onion;napkins;butter;potatoes;tomatoes;cakes
+644,tomatoes;juice
+645,flour;grapes;detergent
+646,coffee;onion
+647,coffee;rice;salt
+648,grapes;potatoes
+649,potatoes;cookies;pencil;bread;detergent;rice
+650,chocolate;soap
+651,kiwi;coffee;potatoes;yogurt;oranges;tomatoes
+652,pencil;napkins;salt;yogurt;tomatoes;tea;butter
+653,tea;flour;coffee;peanut butter;pens;tomatoes;onion
+654,peanut butter;milk;rice;apples
+655,soap;bananas;tomatoes;sugar;yogurt;olive oil;toothpaste
+656,kiwi;napkins;potatoes
+657,oranges;cakes;tea;salt
+658,tomatoes;coffee;shampoo
+659,bread;cereal
+660,oranges;tea;bread
+661,apples;juice
+662,shampoo;pens;yogurt;napkins;eggs
+663,eggs;kiwi;detergent;flour
+664,shampoo;oranges;bananas
+665,grapes;salt;bread;kiwi
+666,coffee;yogurt
+667,yogurt;oranges;tomatoes;coffee;detergent
+668,grapes;pencil;detergent;salt;tomatoes;sugar;cereal
+669,juice;kiwi;coffee
+670,onion;pens;bread
+671,peanut butter;sugar;cookies;juice;grapes;onion;olive oil
+672,napkins;potatoes;grapes;rice;apples;cereal
+673,peanut butter;detergent
+674,kiwi;grapes;cereal
+675,peanut butter;tomatoes;detergent
+676,sugar;soap
+677,napkins;bread;tomatoes;eggs;rice
+678,eggs;chocolate;rice;shampoo
+679,bread;shampoo
+680,bread;flour;butter;juice;potatoes
+681,kiwi;tomatoes;coffee;rice;soap;butter;cereal
+682,flour;juice;pens;onion;detergent;bread
+683,detergent;cakes;sugar;tomatoes;soap
+684,bananas;potatoes;juice;eggs;flour;tomatoes;pencil
+685,onion;milk;bananas
+686,tomatoes;pencil;onion;potatoes;bread
+687,oranges;tomatoes;eggs;soap
+688,salt;butter;bread;flour;pencil;apples
+689,pens;cookies;cereal;oranges;toothpaste;peanut butter;pencil
+690,kiwi;olive oil;peanut butter;eggs;juice;soap
+691,tea;pens;bread;eggs
+692,napkins;detergent;grapes;tomatoes;milk;onion;oranges
+693,soap;bananas;onion;shampoo;toothpaste;yogurt
+694,cakes;juice;chocolate;olive oil;milk;rice;apples
+695,sugar;butter;napkins;kiwi
+696,milk;sugar;shampoo
+697,butter;pens;tomatoes;onion
+698,cereal;pens;napkins;chocolate;juice
+699,yogurt;oranges;potatoes;tea;bread;onion
+700,grapes;rice;onion
+701,juice;cakes;bananas
+702,juice;chocolate;onion;butter;toothpaste
+703,soap;cookies;coffee;apples;napkins;rice
+704,shampoo;rice;detergent;tea;yogurt
+705,tomatoes;peanut butter;grapes;eggs
+706,yogurt;cereal
+707,flour;cereal;butter
+708,pens;grapes;pencil;eggs;toothpaste;coffee;apples
+709,milk;rice;apples;flour;bread
+710,sugar;butter;cereal;shampoo;onion;pencil
+711,toothpaste;bread;cereal;sugar
+712,soap;kiwi;apples;bread;coffee;pens;pencil
+713,peanut butter;sugar;kiwi;detergent
+714,coffee;butter
+715,salt;butter;milk;olive oil;tea;toothpaste;potatoes
+716,potatoes;cakes;juice
+717,soap;salt;coffee;oranges;chocolate;apples
+718,napkins;peanut butter;milk;toothpaste;cereal;onion;pencil
+719,bananas;onion;yogurt;chocolate;tea;cookies;coffee
+720,detergent;tea;bread;potatoes;pencil;tomatoes
+721,rice;peanut butter;juice;cakes;oranges;chocolate;milk
+722,rice;coffee;salt;bananas;cookies;olive oil;shampoo
+723,sugar;pens;soap;shampoo;yogurt;rice;milk
+724,peanut butter;toothpaste;pencil;juice;cakes;grapes
+725,oranges;detergent;shampoo;kiwi;bread;juice;coffee
+726,sugar;pens;juice;potatoes;milk
+727,coffee;pens;toothpaste
+728,salt;rice;tomatoes
+729,coffee;rice;salt;juice;apples
+730,butter;cereal;yogurt;napkins;tomatoes
+731,pencil;soap;detergent
+732,apples;bananas;onion;chocolate;salt
+733,onion;grapes;coffee;apples;salt;chocolate
+734,flour;tea;sugar
+735,kiwi;eggs;olive oil
+736,sugar;yogurt;bananas;pens;grapes;potatoes
+737,toothpaste;coffee;pencil;milk
+738,napkins;tea;onion;yogurt
+739,grapes;flour;milk;cereal;olive oil
+740,cookies;chocolate;bananas
+741,bread;juice;kiwi;grapes;cookies
+742,shampoo;eggs;cookies;bread;detergent
+743,potatoes;cereal;tea;coffee;salt;apples;olive oil
+744,kiwi;butter;milk;pens;olive oil
+745,cookies;peanut butter;juice;soap;detergent;cakes;kiwi
+746,onion;bread;pens;napkins;kiwi;rice
+747,pens;peanut butter;tomatoes;grapes;butter;cakes;kiwi
+748,detergent;coffee;cookies;apples;toothpaste;napkins;bananas
+749,napkins;potatoes
+750,olive oil;oranges
+751,kiwi;bread;salt;cookies;flour;potatoes;milk
+752,juice;kiwi;rice;bananas;peanut butter
+753,salt;pencil;cookies;kiwi
+754,apples;milk
+755,yogurt;coffee;rice;shampoo;flour;sugar;milk
+756,tomatoes;chocolate;pens;yogurt;olive oil;juice;onion
+757,toothpaste;butter;eggs;detergent;pens
+758,yogurt;cookies;oranges;tea;chocolate;grapes;tomatoes
+759,pens;detergent
+760,shampoo;rice;sugar;onion;eggs;napkins
+761,grapes;milk;cakes;toothpaste;detergent;juice
+762,shampoo;bananas;oranges;bread;salt
+763,flour;coffee
+764,kiwi;pencil;coffee;chocolate;cookies;cakes
+765,eggs;potatoes;juice;apples
+766,yogurt;detergent;pencil;cakes;napkins;tomatoes;bananas
+767,salt;cakes;coffee;butter;juice
+768,flour;eggs;onion;pens;cookies;bananas
+769,shampoo;tomatoes;napkins;salt;cookies
+770,grapes;kiwi;soap;pens;bananas
+771,apples;tomatoes;soap;sugar;toothpaste;salt
+772,olive oil;cereal;toothpaste;coffee
+773,juice;flour;toothpaste;coffee
+774,detergent;chocolate;tea;flour;juice;shampoo
+775,flour;apples;yogurt;rice;pens;salt;soap
+776,chocolate;kiwi;bananas;yogurt
+777,milk;pens;kiwi;bread;onion
+778,cookies;soap;cereal
+779,onion;coffee;kiwi;pens;bananas
+780,cookies;shampoo;flour;coffee;peanut butter;bread;oranges
+781,apples;juice;pencil;detergent;olive oil
+782,rice;milk;kiwi
+783,salt;olive oil;eggs;pens;cakes
+784,soap;coffee;peanut butter;shampoo
+785,milk;pens;olive oil
+786,salt;cereal;onion;peanut butter
+787,tea;milk;olive oil;salt;tomatoes;bread;butter
+788,salt;cookies;eggs;rice;butter;cakes;peanut butter
+789,pens;peanut butter;shampoo;pencil;cereal;soap
+790,kiwi;grapes
+791,potatoes;juice;onion;butter;yogurt
+792,bread;potatoes;juice;peanut butter
+793,bananas;tea;shampoo
+794,flour;eggs
+795,olive oil;peanut butter;juice
+796,eggs;pens;salt;juice;apples
+797,bread;onion;sugar;pencil;eggs;toothpaste;flour
+798,chocolate;onion;peanut butter
+799,rice;oranges;olive oil;cookies;eggs
+800,pencil;butter
+801,bread;milk;tomatoes;peanut butter;pencil;napkins
+802,coffee;toothpaste
+803,potatoes;bananas;oranges;toothpaste;yogurt;sugar;grapes
+804,sugar;napkins;soap;peanut butter;butter;rice;bananas
+805,salt;flour;detergent;tomatoes;bread;bananas;soap
+806,yogurt;pens;butter;detergent;onion;bananas
+807,flour;cereal;coffee;chocolate
+808,cereal;detergent;apples;cookies
+809,tea;shampoo;cookies;napkins;salt;sugar;pencil
+810,bananas;salt;eggs
+811,eggs;bread
+812,peanut butter;grapes;toothpaste;bread;pens;eggs
+813,olive oil;shampoo;napkins;bananas
+814,onion;salt;olive oil;tomatoes
+815,yogurt;apples
+816,oranges;cereal;coffee;salt;eggs;kiwi;detergent
+817,kiwi;cereal;pencil;oranges;potatoes
+818,toothpaste;coffee
+819,tomatoes;oranges
+820,rice;bread
+821,oranges;flour;toothpaste;milk;cereal;onion
+822,soap;pencil;salt;grapes;eggs
+823,cookies;apples;salt;chocolate;sugar;bananas;eggs
+824,bananas;oranges;rice;toothpaste;bread;juice;potatoes
+825,sugar;tomatoes;potatoes;eggs;flour;onion;pencil
+826,grapes;detergent;tomatoes;butter;cookies;oranges;chocolate
+827,peanut butter;potatoes;sugar;chocolate;apples
+828,potatoes;cookies;grapes;apples;peanut butter;sugar
+829,tomatoes;sugar;cereal;tea;pens
+830,olive oil;potatoes;tomatoes;detergent;cookies;sugar;pens
+831,onion;cookies;rice;juice
+832,toothpaste;oranges;potatoes;coffee;bananas;milk
+833,onion;napkins
+834,tea;milk;cakes;kiwi
+835,oranges;onion;salt;napkins
+836,coffee;sugar;potatoes;chocolate;salt
+837,yogurt;apples;salt;cakes;flour
+838,pencil;butter;pens;rice;oranges;coffee;chocolate
+839,detergent;toothpaste;shampoo;tea
+840,napkins;kiwi;rice;tomatoes
+841,milk;onion;bread;oranges
+842,oranges;grapes;pencil;bread;salt;apples;pens
+843,soap;cereal;toothpaste;grapes;butter;milk
+844,detergent;potatoes;rice;onion;cookies;eggs
+845,peanut butter;milk;flour;bread;toothpaste;bananas
+846,chocolate;olive oil;apples;cakes;yogurt
+847,milk;shampoo;tomatoes;detergent;peanut butter;napkins
+848,potatoes;detergent;napkins;rice;grapes;cookies;eggs
+849,flour;oranges;bread;chocolate;bananas
+850,cereal;chocolate;onion;cakes;flour;grapes;pencil
+851,salt;kiwi;tea;bread;olive oil;pens;milk
+852,bread;rice;onion;salt;detergent;napkins;peanut butter
+853,oranges;bread;onion;toothpaste;cookies;napkins;detergent
+854,tea;napkins;detergent;apples
+855,milk;shampoo;tomatoes;cookies;bananas;bread
+856,butter;cereal;oranges;tomatoes;toothpaste;rice;sugar
+857,cookies;flour;cereal;soap;yogurt;chocolate;juice
+858,detergent;cereal;yogurt;pens;grapes
+859,bananas;milk;yogurt
+860,olive oil;bananas;potatoes
+861,yogurt;bread
+862,soap;grapes;peanut butter
+863,cereal;shampoo
+864,detergent;olive oil;tomatoes;cookies;pens;cereal
+865,potatoes;rice;sugar;coffee;bread;milk
+866,coffee;toothpaste;oranges
+867,eggs;milk;kiwi
+868,onion;olive oil
+869,pens;potatoes;sugar;juice;tomatoes;cakes;detergent
+870,bananas;cookies;olive oil;cakes;coffee;oranges
+871,apples;pencil;bread;cereal;rice;napkins
+872,pencil;flour
+873,eggs;tea;kiwi;pencil;milk
+874,detergent;flour;tomatoes;peanut butter
+875,pens;bread;kiwi;apples;tea;chocolate
+876,cookies;apples
+877,cereal;salt;pens;chocolate;kiwi
+878,pencil;bread;chocolate
+879,butter;soap;eggs;kiwi;cereal;olive oil
+880,detergent;rice;napkins;butter;toothpaste;cakes
+881,sugar;tea;soap;milk
+882,cookies;flour;napkins;soap;tea;tomatoes;juice
+883,olive oil;soap;coffee
+884,juice;yogurt;onion;salt;apples;soap
+885,potatoes;detergent
+886,pencil;tomatoes;bananas;milk;cookies;rice
+887,bananas;eggs
+888,peanut butter;juice;rice;napkins;shampoo
+889,onion;peanut butter
+890,bananas;olive oil;flour
+891,yogurt;bananas;rice;cookies;salt;apples
+892,tomatoes;butter;soap
+893,soap;onion;apples;oranges
+894,peanut butter;tea
+895,butter;flour;onion;toothpaste
+896,apples;bread;rice;pens;olive oil
+897,oranges;olive oil
+898,coffee;cookies;olive oil;bread
+899,bread;shampoo;detergent;onion;peanut butter;cakes
+900,coffee;toothpaste;grapes
+901,cookies;bread;oranges;eggs;flour
+902,flour;salt;cereal;rice;bread;butter;apples
+903,bread;cakes;potatoes;bananas;onion;coffee;chocolate
+904,oranges;rice;detergent;salt
+905,cereal;butter;rice;onion
+906,onion;cakes;bread;cereal;flour
+907,cakes;tea;potatoes
+908,cookies;tomatoes
+909,napkins;apples;eggs;pencil;butter;grapes;cakes
+910,salt;napkins;butter;rice
+911,butter;soap;cookies;eggs;peanut butter;oranges
+912,pencil;detergent
+913,bananas;tea;onion;pencil;coffee;eggs
+914,toothpaste;cookies;salt
+915,apples;olive oil;coffee;kiwi;onion;peanut butter;juice
+916,chocolate;bread;rice;cakes
+917,detergent;coffee;chocolate;rice
+918,pencil;cereal;pens;chocolate;soap
+919,shampoo;rice;milk;flour
+920,butter;cakes
+921,pencil;eggs;kiwi;oranges;soap;chocolate
+922,detergent;apples;rice
+923,napkins;milk;salt;sugar;bread
+924,juice;soap;olive oil;tea;tomatoes;grapes
+925,bread;detergent;kiwi
+926,coffee;bread;chocolate;tea;grapes
+927,cookies;tea;onion;rice;peanut butter
+928,salt;olive oil;napkins;shampoo
+929,eggs;peanut butter
+930,potatoes;yogurt;coffee;pens;soap
+931,tomatoes;yogurt
+932,flour;salt;peanut butter;butter
+933,soap;butter;shampoo;flour;eggs;pencil
+934,shampoo;pens;yogurt;rice
+935,milk;cakes
+936,bread;tomatoes;kiwi;napkins;onion;juice;pencil
+937,detergent;juice
+938,soap;tomatoes
+939,bread;potatoes
+940,eggs;sugar
+941,cakes;peanut butter;shampoo
+942,milk;olive oil;bread;pens;tomatoes;apples;grapes
+943,tea;salt;pencil;cakes;flour;detergent;butter
+944,shampoo;milk;rice;toothpaste
+945,pencil;sugar;toothpaste;rice;cakes;butter;cookies
+946,shampoo;sugar
+947,pens;bread;potatoes;sugar
+948,apples;milk
+949,peanut butter;detergent;apples;napkins
+950,sugar;apples;pencil;peanut butter;flour
+951,chocolate;onion
+952,pencil;soap;cakes;yogurt;eggs
+953,flour;bread;tomatoes;pencil;cakes
+954,butter;peanut butter;salt;chocolate;olive oil;soap
+955,pens;onion;oranges;rice
+956,peanut butter;cookies;toothpaste
+957,shampoo;butter;tea;sugar;cakes;kiwi
+958,grapes;potatoes;juice;rice
+959,peanut butter;butter
+960,shampoo;apples;flour
+961,potatoes;apples
+962,cereal;coffee;pens;sugar;napkins
+963,toothpaste;bananas;coffee;tomatoes
+964,juice;butter;soap
+965,detergent;rice
+966,bread;eggs;apples
+967,cakes;eggs
+968,cakes;bananas;onion;toothpaste;kiwi
+969,cereal;detergent;onion;coffee;potatoes;yogurt
+970,bananas;cookies;bread
+971,sugar;onion;chocolate;juice;cereal
+972,cakes;pencil
+973,apples;yogurt;butter;cookies
+974,cakes;apples;bananas;detergent;potatoes
+975,tomatoes;cakes;yogurt;napkins
+976,coffee;juice
+977,tea;potatoes
+978,kiwi;milk;cakes;cookies;yogurt;butter;soap
+979,tea;shampoo;chocolate;kiwi;apples;olive oil;onion
+980,milk;bread;bananas;napkins
+981,shampoo;peanut butter;butter;tea;cakes;kiwi;napkins
+982,tea;salt;toothpaste
+983,yogurt;oranges;potatoes;shampoo
+984,bread;chocolate;toothpaste;apples
+985,olive oil;eggs;chocolate;tomatoes;shampoo;apples;sugar
+986,cakes;salt;oranges;eggs
+987,napkins;potatoes;peanut butter
+988,pens;salt;cookies;kiwi
+989,oranges;bananas;pens;olive oil;tomatoes;pencil
+990,onion;kiwi
+991,onion;kiwi;bananas;eggs;napkins
+992,bread;juice;rice;cookies;sugar;tea
+993,apples;cereal
+994,napkins;tomatoes;flour;soap;salt;grapes;rice
+995,pens;chocolate;soap;tea;grapes;olive oil
+996,butter;bananas;chocolate;napkins;pens;potatoes
+997,cereal;kiwi
+998,flour;eggs
+999,onion;cakes;rice
+1000,pens;kiwi;eggs;salt;peanut butter;rice
+1001,toothpaste;pencil;shampoo;juice;tomatoes;soap;detergent
+1002,soap;coffee;napkins;tomatoes;butter;sugar
+1003,tea;salt;chocolate;pens;pencil
+1004,salt;cakes;peanut butter;butter;kiwi;onion;eggs
+1005,bread;chocolate;detergent;flour;toothpaste;onion
+1006,bananas;peanut butter
+1007,grapes;milk;shampoo;potatoes;apples;toothpaste
+1008,cereal;salt;grapes
+1009,butter;potatoes;juice;grapes;flour;rice;oranges
+1010,bread;chocolate;cakes
+1011,bread;sugar;tomatoes
+1012,soap;cereal;chocolate;bananas;detergent;yogurt
+1013,rice;napkins;kiwi;sugar;bananas
+1014,eggs;tomatoes;olive oil;grapes;detergent;yogurt;rice
+1015,pens;cookies;flour;apples;eggs
+1016,sugar;bananas
+1017,potatoes;salt;olive oil;flour
+1018,juice;soap;shampoo
+1019,olive oil;tomatoes;cookies;cereal;potatoes;soap
+1020,potatoes;milk;coffee;tomatoes;detergent
+1021,juice;soap;milk;bananas;onion;bread
+1022,milk;detergent;onion;napkins;soap
+1023,onion;cakes;cookies;bananas;milk;eggs;cereal
+1024,tomatoes;cookies;pens;pencil
+1025,tea;onion;salt;grapes
+1026,yogurt;tea;shampoo;potatoes
+1027,bananas;flour;onion;chocolate;potatoes
+1028,tomatoes;cookies;chocolate;grapes;napkins;sugar;oranges
+1029,apples;coffee;cookies;sugar
+1030,detergent;grapes;coffee;cereal;bread
+1031,detergent;potatoes;tea;olive oil;coffee;apples
+1032,bananas;bread;yogurt;juice;peanut butter
+1033,butter;juice;toothpaste
+1034,apples;oranges;onion;coffee;milk;toothpaste;pencil
+1035,kiwi;grapes;peanut butter;eggs
+1036,eggs;olive oil;kiwi
+1037,napkins;tomatoes;rice;onion
+1038,toothpaste;grapes;napkins;cookies;bread;potatoes
+1039,napkins;soap;yogurt;grapes
+1040,tea;sugar;cakes;olive oil
+1041,juice;bread;eggs;grapes
+1042,butter;flour;oranges;yogurt;shampoo;onion
+1043,milk;tomatoes;chocolate;onion;bread;coffee;sugar
+1044,flour;pens;cookies;peanut butter;oranges;cereal;potatoes
+1045,coffee;shampoo;butter;oranges;kiwi;salt
+1046,onion;milk;sugar
+1047,milk;pencil;toothpaste;eggs;oranges;salt;peanut butter
+1048,salt;oranges;cookies
+1049,salt;potatoes;grapes
+1050,pens;sugar;shampoo;butter
+1051,onion;kiwi;milk
+1052,grapes;butter;flour
+1053,flour;olive oil;coffee;apples;rice;bananas
+1054,detergent;milk;bread;pencil;sugar;cakes;tea
+1055,chocolate;rice;pencil;onion;cakes;shampoo;oranges
+1056,onion;flour;bananas
+1057,apples;butter;pens;flour;onion
+1058,oranges;rice;shampoo
+1059,napkins;salt;pencil;flour;shampoo;cookies
+1060,soap;bananas;eggs;salt;kiwi
+1061,toothpaste;bananas;cakes;soap;eggs
+1062,juice;onion;potatoes;flour;napkins;detergent
+1063,toothpaste;yogurt;pencil;peanut butter
+1064,juice;potatoes;flour;pens;salt;detergent
+1065,olive oil;cookies
+1066,milk;soap;pens
+1067,shampoo;grapes;rice;toothpaste
+1068,onion;toothpaste;bananas;milk;yogurt;tea
+1069,yogurt;cookies;bananas;juice;tea;flour;salt
+1070,tomatoes;eggs;olive oil;yogurt
+1071,eggs;bananas;yogurt;coffee;potatoes
+1072,potatoes;rice;juice
+1073,sugar;shampoo;peanut butter;rice;cookies
+1074,onion;apples;bread
+1075,toothpaste;napkins
+1076,apples;napkins;cakes;cereal;detergent
+1077,pens;shampoo;tomatoes;apples;cakes
+1078,butter;cereal;grapes;tomatoes;oranges;detergent
+1079,tea;bananas;oranges;pencil;grapes;coffee;peanut butter
+1080,sugar;coffee;toothpaste;bananas;grapes;juice
+1081,rice;yogurt;peanut butter;toothpaste;chocolate
+1082,tomatoes;sugar
+1083,chocolate;eggs;oranges;pencil
+1084,oranges;peanut butter;cakes;olive oil;juice;tea
+1085,coffee;pens;cereal;juice
+1086,tomatoes;detergent
+1087,peanut butter;pencil;sugar;napkins;yogurt;milk;bread
+1088,tea;milk;sugar;peanut butter;cakes;bread
+1089,napkins;olive oil;soap;tomatoes;shampoo;sugar;cookies
+1090,peanut butter;onion;apples;juice;detergent;flour;salt
+1091,cereal;pens
+1092,bananas;coffee;tea;cereal;apples
+1093,onion;peanut butter;milk;soap;bananas;potatoes;pencil
+1094,salt;apples;juice;coffee;yogurt;shampoo
+1095,grapes;rice;onion;coffee;detergent
+1096,bananas;milk;detergent;potatoes;toothpaste
+1097,coffee;toothpaste;soap;pens;cereal;chocolate
+1098,sugar;salt
+1099,grapes;cereal;peanut butter;coffee;yogurt;soap
+1100,oranges;potatoes;butter;grapes
+1101,eggs;yogurt;rice;cookies
+1102,salt;bananas;butter;pens
+1103,napkins;cakes
+1104,shampoo;sugar;cereal;rice
+1105,chocolate;bananas
+1106,tomatoes;shampoo;olive oil
+1107,detergent;olive oil
+1108,onion;coffee;detergent
+1109,sugar;salt;oranges;eggs;pencil;juice;pens
+1110,milk;cereal;chocolate;grapes;flour;onion
+1111,cookies;apples;potatoes;toothpaste;grapes;coffee;sugar
+1112,coffee;toothpaste
+1113,kiwi;sugar
+1114,sugar;cereal
+1115,onion;peanut butter;butter;salt
+1116,cookies;butter;potatoes;yogurt;apples
+1117,olive oil;kiwi;napkins;butter;rice;toothpaste
+1118,butter;potatoes;peanut butter;cakes
+1119,oranges;sugar;coffee
+1120,shampoo;juice;oranges;apples;cakes;coffee
+1121,kiwi;eggs
+1122,tomatoes;pencil
+1123,rice;shampoo;tea;sugar;coffee
+1124,tomatoes;toothpaste;milk
+1125,toothpaste;kiwi
+1126,sugar;toothpaste;detergent;flour;potatoes
+1127,bread;chocolate;onion;tomatoes;tea;coffee
+1128,salt;toothpaste;napkins;grapes
+1129,detergent;cookies
+1130,detergent;toothpaste;yogurt;peanut butter
+1131,milk;olive oil;kiwi;soap
+1132,kiwi;salt;butter;napkins;bananas;soap;potatoes
+1133,toothpaste;soap;peanut butter;cereal;cookies;sugar
+1134,yogurt;detergent;eggs
+1135,coffee;cereal
+1136,pencil;olive oil;peanut butter;soap;yogurt;butter;tea
+1137,rice;oranges;napkins
+1138,toothpaste;salt
+1139,kiwi;shampoo;tomatoes;potatoes;onion;bananas
+1140,kiwi;eggs;yogurt;cakes;salt;coffee
+1141,tomatoes;cereal
+1142,apples;potatoes;shampoo
+1143,peanut butter;eggs;sugar;olive oil;flour;kiwi
+1144,salt;sugar;pencil
+1145,tea;tomatoes;peanut butter;apples;sugar;bread;onion
+1146,peanut butter;juice;chocolate
+1147,juice;apples;tea;butter;pens;rice
+1148,peanut butter;grapes
+1149,pencil;soap;salt
+1150,eggs;soap;onion;cereal;butter;kiwi;coffee
+1151,detergent;milk;onion
+1152,eggs;chocolate;pens;cereal;oranges;potatoes
+1153,milk;olive oil;apples;bananas;salt;detergent;oranges
+1154,napkins;pencil;oranges;bananas;detergent;salt;soap
+1155,toothpaste;pencil;rice;olive oil;shampoo
+1156,tea;flour;rice;pencil;apples
+1157,napkins;cakes;tea;bread;milk;cereal
+1158,chocolate;bananas;grapes;peanut butter;cakes;tea
+1159,cookies;detergent;tomatoes;potatoes
+1160,butter;toothpaste;bread;bananas;detergent;sugar;napkins
+1161,detergent;oranges;sugar
+1162,juice;coffee;butter;eggs;apples;cakes
+1163,olive oil;detergent;coffee;pens;tea
+1164,peanut butter;yogurt;bananas;sugar
+1165,bread;juice;salt;cakes;peanut butter;tomatoes;shampoo
+1166,peanut butter;grapes
+1167,napkins;tomatoes;milk;olive oil
+1168,butter;bread
+1169,butter;bread;apples
+1170,cookies;rice;toothpaste;peanut butter;chocolate;oranges;coffee
+1171,chocolate;rice;bread;cakes;napkins
+1172,bananas;coffee;tomatoes
+1173,potatoes;napkins;pens
+1174,cakes;shampoo;yogurt;cereal;tea
+1175,bread;cookies
+1176,yogurt;toothpaste
+1177,detergent;sugar;flour;eggs;bread
+1178,pencil;apples;peanut butter
+1179,eggs;salt;bananas;kiwi;tea
+1180,butter;coffee;kiwi;bread;soap
+1181,cakes;onion;coffee;rice;salt
+1182,apples;olive oil;pens;bananas;napkins;cereal
+1183,kiwi;shampoo
+1184,flour;peanut butter;bread;onion
+1185,grapes;tomatoes
+1186,cereal;cookies
+1187,cookies;tomatoes;pencil;sugar;oranges;onion;coffee
+1188,rice;cookies;tea;tomatoes;milk;potatoes;flour
+1189,oranges;toothpaste;napkins;milk;eggs;cereal;tea
+1190,salt;bread;tomatoes;eggs;bananas;milk;toothpaste
+1191,eggs;coffee
+1192,bread;rice
+1193,oranges;napkins;onion;soap;rice
+1194,napkins;kiwi;oranges;butter;eggs;cereal;olive oil
+1195,kiwi;shampoo;tea;milk;juice;grapes
+1196,oranges;bread
+1197,grapes;napkins;potatoes;apples;bananas
+1198,eggs;butter;oranges;tea;yogurt;onion;peanut butter
+1199,olive oil;napkins
+1200,pencil;soap;oranges;flour;apples
+1201,detergent;cookies;tea;coffee;sugar
+1202,juice;tomatoes;chocolate;coffee;toothpaste
+1203,onion;rice;bananas;eggs
+1204,onion;sugar;tea;olive oil;shampoo;juice;salt
+1205,tea;napkins;bananas;shampoo;salt;flour;chocolate
+1206,milk;bananas;onion
+1207,cakes;napkins
+1208,oranges;sugar;napkins;shampoo;grapes
+1209,coffee;juice
+1210,bananas;soap;cookies;cereal
+1211,toothpaste;potatoes;chocolate;peanut butter;cookies;bananas;grapes
+1212,potatoes;napkins;salt;apples;cakes;sugar;grapes
+1213,milk;apples;rice
+1214,juice;sugar;pens;soap;olive oil;flour;napkins
+1215,oranges;kiwi;cookies
+1216,flour;oranges;onion;pencil;coffee
+1217,soap;salt;juice;coffee;peanut butter;butter;oranges
+1218,cereal;bananas;rice;coffee
+1219,cookies;butter
+1220,pens;yogurt;chocolate
+1221,yogurt;shampoo;cookies;toothpaste;peanut butter;grapes
+1222,kiwi;eggs;yogurt
+1223,napkins;tomatoes
+1224,apples;rice
+1225,peanut butter;pens
+1226,detergent;milk;kiwi;oranges;salt;napkins;bread
+1227,pens;cakes;rice;bananas;napkins
+1228,tomatoes;sugar;rice;cereal;apples;butter
+1229,onion;cookies;kiwi
+1230,chocolate;flour;napkins;eggs;salt;coffee
+1231,butter;juice;onion
+1232,potatoes;detergent
+1233,rice;yogurt;bananas;juice;chocolate
+1234,cereal;pencil;bread;coffee
+1235,toothpaste;bananas;juice;chocolate;grapes;butter
+1236,yogurt;grapes;napkins
+1237,cookies;oranges;shampoo;olive oil;chocolate;flour
+1238,salt;pens;kiwi;chocolate;coffee;yogurt
+1239,cookies;salt;flour
+1240,cakes;pens
+1241,eggs;flour;oranges
+1242,napkins;juice;pencil;potatoes;cereal
+1243,toothpaste;rice;onion;napkins;oranges;flour
+1244,onion;tea;milk;kiwi;yogurt;oranges;grapes
+1245,juice;butter;oranges;olive oil;pencil;flour;shampoo
+1246,yogurt;coffee;flour;peanut butter;tomatoes
+1247,napkins;cereal;detergent;toothpaste;butter
+1248,pencil;cakes
+1249,salt;pencil;flour
+1250,potatoes;apples;cereal;grapes;toothpaste;cakes
+1251,olive oil;bananas;cereal;bread;onion;cakes;soap
+1252,kiwi;shampoo;cakes;cookies;bananas;butter;eggs
+1253,pens;cereal
+1254,tea;peanut butter;cakes
+1255,tomatoes;grapes;cakes;coffee;potatoes;olive oil;tea
+1256,grapes;toothpaste;milk;soap;rice
+1257,toothpaste;apples;oranges;eggs
+1258,coffee;bananas;potatoes;cereal;eggs;milk;tea
+1259,cereal;tomatoes;sugar;shampoo;yogurt;chocolate
+1260,olive oil;chocolate
+1261,cookies;eggs
+1262,toothpaste;bananas;chocolate;rice
+1263,oranges;cereal;olive oil;yogurt;cookies;butter;juice
+1264,detergent;cereal;eggs;chocolate;olive oil;cookies;yogurt
+1265,butter;olive oil;pencil;juice
+1266,chocolate;tea
+1267,napkins;olive oil;cookies;detergent;peanut butter
+1268,chocolate;oranges;onion;toothpaste;tomatoes
+1269,soap;rice
+1270,oranges;kiwi;yogurt;butter
+1271,potatoes;napkins
+1272,cereal;grapes;peanut butter
+1273,milk;detergent;tea;pens;shampoo
+1274,grapes;peanut butter;kiwi;bananas;apples;pencil;soap
+1275,coffee;pens;salt
+1276,shampoo;toothpaste;sugar;milk;yogurt
+1277,flour;detergent;chocolate;peanut butter
+1278,potatoes;tea
+1279,toothpaste;yogurt;peanut butter;rice
+1280,potatoes;yogurt;cakes
+1281,bananas;salt
+1282,milk;shampoo;olive oil;rice;tomatoes;kiwi
+1283,bananas;salt;rice;oranges;detergent;flour
+1284,yogurt;sugar;juice;toothpaste;apples;onion
+1285,potatoes;toothpaste;salt;apples;olive oil
+1286,peanut butter;detergent;potatoes;shampoo
+1287,cookies;detergent;bananas;milk
+1288,cookies;sugar;apples;onion;napkins;pens;olive oil
+1289,tea;tomatoes;salt;juice;onion
+1290,flour;butter;kiwi;apples;bananas;napkins
+1291,tomatoes;olive oil;soap;onion;napkins
+1292,olive oil;juice;chocolate;soap
+1293,pencil;chocolate;eggs
+1294,apples;peanut butter;tea;sugar
+1295,tomatoes;cereal;shampoo;pens;peanut butter
+1296,pencil;pens;milk
+1297,tomatoes;potatoes;kiwi;napkins;cakes;pencil
+1298,coffee;oranges;toothpaste;peanut butter;eggs;onion
+1299,apples;pens
+1300,butter;pens;tomatoes;olive oil;flour;tea;peanut butter
+1301,onion;rice;eggs
+1302,napkins;bananas;sugar;toothpaste
+1303,grapes;apples;potatoes
+1304,sugar;detergent;cookies;peanut butter
+1305,rice;napkins;cakes;grapes;cookies
+1306,napkins;oranges;chocolate;detergent
+1307,pencil;bread;salt;coffee;cakes;tea
+1308,chocolate;olive oil
+1309,grapes;bread;tomatoes;peanut butter;olive oil;oranges;yogurt
+1310,milk;tea;yogurt;juice;butter
+1311,pens;tea;juice;peanut butter
+1312,oranges;olive oil;onion;rice
+1313,yogurt;salt
+1314,sugar;butter;chocolate;kiwi
+1315,tea;potatoes;apples;oranges;bread;napkins
+1316,napkins;pens;coffee;yogurt
+1317,cereal;potatoes
+1318,flour;onion;soap;shampoo;butter;sugar
+1319,cookies;pens;flour;toothpaste;bananas;juice;napkins
+1320,grapes;detergent;tea
+1321,chocolate;milk;shampoo;coffee
+1322,sugar;grapes;cookies
+1323,milk;potatoes;flour
+1324,milk;cereal;tomatoes;pencil
+1325,cookies;oranges;apples;eggs;cakes;toothpaste;cereal
+1326,onion;kiwi
+1327,olive oil;juice
+1328,cookies;bread;bananas;oranges;sugar
+1329,apples;kiwi;soap;juice;sugar;napkins;peanut butter
+1330,rice;tea;grapes
+1331,potatoes;butter
+1332,tea;olive oil;tomatoes;pencil;bread;eggs
+1333,cakes;oranges;juice;pens;peanut butter;eggs;apples
+1334,cereal;onion;detergent;potatoes;tomatoes;eggs
+1335,apples;kiwi;toothpaste;napkins;bread;pencil
+1336,detergent;chocolate;tea;peanut butter;tomatoes;flour;coffee
+1337,rice;tea
+1338,pencil;cereal;olive oil;flour;pens
+1339,salt;cookies
+1340,cookies;milk;napkins;chocolate;peanut butter
+1341,bananas;tomatoes;yogurt;cakes;juice;onion
+1342,toothpaste;sugar;shampoo;flour
+1343,pens;peanut butter;pencil;cereal;kiwi;detergent
+1344,detergent;chocolate
+1345,apples;napkins;kiwi
+1346,shampoo;tomatoes;cookies;potatoes;soap
+1347,kiwi;yogurt;oranges;chocolate;onion
+1348,onion;soap;cookies;flour
+1349,napkins;butter;soap;tea;detergent
+1350,soap;napkins;bread;milk;oranges;eggs;flour
+1351,cookies;bread
+1352,napkins;flour;milk;grapes;kiwi
+1353,juice;oranges;cakes;coffee;apples;tomatoes;onion
+1354,salt;potatoes;napkins;sugar;toothpaste;juice
+1355,napkins;toothpaste
+1356,peanut butter;napkins;olive oil
+1357,coffee;grapes;bananas;pencil
+1358,eggs;shampoo
+1359,eggs;shampoo;toothpaste;bananas
+1360,rice;sugar
+1361,yogurt;napkins;cereal;oranges;potatoes;tea;onion
+1362,cookies;napkins;detergent;yogurt;olive oil
+1363,soap;bread
+1364,eggs;tea;peanut butter;salt;juice
+1365,bananas;milk
+1366,tea;grapes;coffee;eggs
+1367,pencil;tea
+1368,pens;tea;juice;cakes
+1369,cakes;sugar;tomatoes
+1370,oranges;sugar;juice;yogurt;tomatoes;apples;butter
+1371,bananas;toothpaste;pencil;olive oil
+1372,butter;grapes;detergent;salt;eggs
+1373,eggs;salt;peanut butter;juice;soap;cakes
+1374,cereal;coffee
+1375,olive oil;coffee;yogurt;sugar;chocolate
+1376,onion;napkins;oranges;cereal;peanut butter
+1377,juice;sugar;soap;flour
+1378,tomatoes;kiwi;peanut butter;yogurt;milk;bananas
+1379,detergent;pencil;kiwi;rice;soap;bananas
+1380,sugar;olive oil;cereal;coffee;butter;yogurt;kiwi
+1381,soap;bread;olive oil;toothpaste;rice
+1382,rice;napkins
+1383,toothpaste;butter;pencil
+1384,juice;onion;rice;flour;oranges;cookies
+1385,sugar;pencil;pens
+1386,oranges;cereal;pens;butter
+1387,yogurt;bread;cakes;soap
+1388,cookies;potatoes;onion
+1389,cakes;sugar
+1390,napkins;pencil;bananas;onion;yogurt
+1391,milk;grapes;bread;butter
+1392,rice;bananas;detergent;chocolate;cakes;soap;apples
+1393,tomatoes;salt
+1394,sugar;oranges;shampoo;cereal;detergent;rice
+1395,tomatoes;soap;detergent;pens;chocolate;toothpaste;oranges
+1396,cookies;olive oil;bread
+1397,tomatoes;cakes;cookies;salt;coffee
+1398,eggs;cakes;toothpaste;cereal;kiwi;oranges
+1399,rice;cereal
+1400,shampoo;pens;bread;juice
+1401,chocolate;cookies;salt;pencil;detergent
+1402,cakes;butter;shampoo;soap;oranges;rice;olive oil
+1403,chocolate;sugar;apples;salt;shampoo;napkins;grapes
+1404,juice;cakes;milk;butter;onion;potatoes;salt
+1405,chocolate;cookies;butter;pencil;napkins;toothpaste;flour
+1406,apples;soap;bread;sugar;tomatoes
+1407,sugar;cereal;yogurt
+1408,salt;pens;bananas;butter;tomatoes
+1409,detergent;pens;coffee;pencil;kiwi
+1410,bread;olive oil;oranges
+1411,pens;salt;toothpaste;grapes
+1412,rice;shampoo
+1413,milk;apples;onion;kiwi;salt;potatoes;yogurt
+1414,tomatoes;cookies;olive oil;napkins;bread;tea
+1415,milk;pens;soap;yogurt;flour;cakes;chocolate
+1416,bread;rice;salt
+1417,onion;tomatoes;pens;chocolate
+1418,soap;eggs;flour
+1419,grapes;flour
+1420,toothpaste;onion
+1421,yogurt;juice;soap;pencil
+1422,bread;potatoes;bananas;rice;tomatoes;peanut butter
+1423,apples;pencil
+1424,napkins;cookies;flour;cereal;onion
+1425,peanut butter;napkins;eggs;milk
+1426,cereal;peanut butter;onion;pens;rice
+1427,potatoes;grapes;peanut butter;bread;cakes
+1428,shampoo;cakes;rice;peanut butter;coffee;salt
+1429,tomatoes;apples;detergent;milk;salt
+1430,soap;cereal;tea;onion;detergent;napkins;chocolate
+1431,bread;oranges;juice;butter;grapes;shampoo
+1432,cakes;detergent;tea;bananas
+1433,bread;olive oil
+1434,eggs;sugar;onion;coffee;rice;oranges
+1435,bananas;rice;milk;tomatoes;bread;cakes
+1436,toothpaste;milk;tomatoes;salt
+1437,pencil;potatoes;milk;juice;yogurt;grapes;oranges
+1438,butter;chocolate;pencil;peanut butter;bread
+1439,bread;salt;cereal;shampoo;tomatoes;yogurt
+1440,napkins;potatoes;butter;pencil;coffee;salt;soap
+1441,juice;onion;potatoes;flour;rice
+1442,detergent;bread
+1443,toothpaste;pencil;cookies
+1444,bananas;shampoo;tea;napkins;toothpaste
+1445,cookies;potatoes;tea;tomatoes;cereal
+1446,rice;yogurt;olive oil;butter
+1447,cereal;apples;bread;eggs;peanut butter;tomatoes
+1448,oranges;cakes;napkins;kiwi;coffee
+1449,peanut butter;cookies
+1450,chocolate;kiwi;salt;potatoes;grapes
+1451,toothpaste;detergent
+1452,butter;apples;coffee;bananas;shampoo
+1453,milk;cereal;juice;peanut butter
+1454,juice;oranges;eggs;tomatoes
+1455,bread;rice;cakes;soap;tomatoes
+1456,cereal;yogurt
+1457,soap;peanut butter;potatoes;cookies;sugar
+1458,pencil;sugar;milk;tea;kiwi
+1459,olive oil;onion;napkins;shampoo
+1460,detergent;butter;pencil;tomatoes;chocolate
+1461,rice;pencil;salt;cereal;bananas;grapes
+1462,coffee;toothpaste;olive oil;cookies;salt;detergent
+1463,potatoes;napkins;bread;salt;toothpaste;detergent;bananas
+1464,toothpaste;pencil;tomatoes;detergent
+1465,potatoes;milk;sugar;cakes
+1466,pencil;peanut butter;napkins;grapes;butter;bananas
+1467,olive oil;kiwi
+1468,pencil;pens;juice;flour;coffee;chocolate
+1469,bread;tea;milk;peanut butter;bananas;eggs
+1470,grapes;cookies;chocolate;coffee;flour;tomatoes
+1471,soap;bananas;tomatoes
+1472,sugar;salt;toothpaste;shampoo;bread
+1473,rice;cereal;tomatoes;bread
+1474,kiwi;pencil;butter;apples;toothpaste;onion;juice
+1475,yogurt;detergent
+1476,soap;napkins;sugar;chocolate;tomatoes
+1477,milk;apples;onion
+1478,grapes;onion
+1479,cereal;detergent
+1480,potatoes;cakes;cereal;pens;salt;pencil;soap
+1481,onion;tomatoes;potatoes;eggs;flour;oranges
+1482,pencil;grapes;cookies;yogurt;potatoes
+1483,shampoo;napkins;cakes;apples;pencil;flour;peanut butter
+1484,onion;peanut butter;soap
+1485,coffee;apples
+1486,pencil;pens
+1487,peanut butter;bananas;napkins;soap;olive oil
+1488,napkins;flour;tea;grapes;bread;apples
+1489,salt;oranges;butter;pens;detergent
+1490,napkins;tea
+1491,pencil;grapes;yogurt;peanut butter;onion
+1492,tea;shampoo;flour;olive oil;coffee
+1493,toothpaste;milk;shampoo;potatoes;chocolate;tea
+1494,pens;chocolate;detergent;yogurt;cereal
+1495,tomatoes;detergent;milk;rice
+1496,yogurt;napkins;kiwi
+1497,napkins;sugar;cakes;cereal;juice
+1498,tea;bread
+1499,yogurt;rice;olive oil;bananas
+1500,coffee;pencil
+1501,flour;cookies
+1502,flour;napkins;milk;yogurt;soap;rice
+1503,butter;potatoes
+1504,olive oil;kiwi;tea;grapes;flour;soap;shampoo
+1505,kiwi;bananas
+1506,kiwi;yogurt;salt;juice;pencil;olive oil
+1507,yogurt;peanut butter;shampoo;olive oil
+1508,kiwi;potatoes;chocolate;coffee;milk
+1509,onion;shampoo
+1510,apples;cakes;detergent;coffee;peanut butter
+1511,yogurt;tomatoes;milk;rice;tea;eggs
+1512,chocolate;cakes;potatoes;pens;flour
+1513,pencil;pens;toothpaste
+1514,chocolate;grapes;flour;oranges;eggs;apples
+1515,oranges;tomatoes;yogurt;detergent;onion;eggs;napkins
+1516,juice;soap;bananas;potatoes;peanut butter
+1517,soap;sugar;salt;tea;apples
+1518,potatoes;soap;shampoo;cereal
+1519,shampoo;tea;olive oil;soap;toothpaste;salt
+1520,onion;sugar;tomatoes;bananas;coffee
+1521,milk;peanut butter;cereal;tomatoes;olive oil
+1522,sugar;coffee;eggs;salt;tomatoes;apples
+1523,bread;cakes
+1524,pencil;olive oil;cookies;juice
+1525,bread;olive oil;tea;cookies
+1526,cookies;shampoo
+1527,apples;toothpaste;coffee;cakes
+1528,flour;tea;potatoes;detergent;coffee;soap;pens
+1529,milk;eggs;bread;chocolate;cookies;juice;yogurt
+1530,onion;chocolate;flour;juice;oranges;tea
+1531,pens;tomatoes;juice;pencil;milk
+1532,cereal;shampoo;oranges;chocolate;soap
+1533,soap;bread;peanut butter;cakes;salt;cereal
+1534,napkins;pens;yogurt;potatoes;olive oil
+1535,napkins;toothpaste;milk
+1536,olive oil;cookies;tea;kiwi;flour;cakes;grapes
+1537,yogurt;chocolate;toothpaste;juice;sugar;pencil;cereal
+1538,cookies;chocolate
+1539,peanut butter;bananas;bread;oranges;juice;rice
+1540,chocolate;sugar;peanut butter;napkins
+1541,potatoes;pens
+1542,sugar;peanut butter
+1543,rice;napkins;apples
+1544,tea;oranges
+1545,pens;detergent
+1546,sugar;shampoo;napkins;yogurt;soap;onion
+1547,milk;olive oil;toothpaste;shampoo;potatoes
+1548,salt;tomatoes;soap;sugar;coffee;toothpaste;cereal
+1549,flour;soap;coffee;bananas;shampoo
+1550,butter;tomatoes;pencil;napkins;tea;apples;peanut butter
+1551,sugar;cookies;salt;butter;bananas;kiwi;olive oil
+1552,juice;onion;eggs;cakes;bread;apples
+1553,rice;grapes
+1554,cereal;cakes;shampoo;tomatoes
+1555,salt;soap;peanut butter;grapes;cakes;pencil
+1556,coffee;pencil
+1557,pens;grapes;salt
+1558,bread;tomatoes;cookies;kiwi;yogurt
+1559,potatoes;rice;bread;tomatoes
+1560,sugar;pens;yogurt
+1561,salt;rice
+1562,juice;sugar
+1563,kiwi;salt;potatoes;pens;bread
+1564,cookies;juice;onion;cakes;napkins
+1565,olive oil;eggs;detergent;juice;milk;grapes
+1566,toothpaste;pens;oranges;detergent
+1567,pens;flour
+1568,butter;kiwi
+1569,milk;sugar;pens
+1570,tomatoes;olive oil;cereal;potatoes;chocolate
+1571,yogurt;cakes;butter;cereal;detergent;flour
+1572,apples;toothpaste
+1573,peanut butter;yogurt;apples;grapes;cakes;milk
+1574,bread;eggs;rice;pens;salt;kiwi
+1575,olive oil;peanut butter;grapes;tomatoes;chocolate;butter
+1576,oranges;sugar;bananas;onion;tea;juice
+1577,butter;pencil;cereal
+1578,olive oil;salt;shampoo;coffee;yogurt;napkins
+1579,shampoo;butter;cakes;salt
+1580,cereal;toothpaste;coffee;grapes
+1581,milk;apples;sugar;cakes;napkins;shampoo;coffee
+1582,pens;napkins;soap
+1583,tomatoes;oranges;butter;apples;shampoo;pens
+1584,shampoo;cookies;rice;pens;onion;toothpaste;sugar
+1585,eggs;rice;apples;cookies
+1586,chocolate;onion;shampoo;apples;flour
+1587,grapes;butter;coffee;toothpaste;tea;rice;kiwi
+1588,sugar;flour
+1589,napkins;chocolate;bananas
+1590,napkins;cereal;apples;onion
+1591,soap;cookies;pencil;milk;peanut butter;bread;cakes
+1592,onion;rice;oranges
+1593,milk;oranges;napkins;olive oil;peanut butter;pencil
+1594,butter;onion;grapes
+1595,bread;toothpaste;apples;cereal;salt;coffee;shampoo
+1596,salt;pencil
+1597,butter;cookies;toothpaste;napkins;chocolate
+1598,bananas;flour;grapes;milk;cereal;butter
+1599,salt;apples;soap;onion;coffee
+1600,grapes;flour
+1601,pencil;oranges;toothpaste;cookies;kiwi;tomatoes;yogurt
+1602,oranges;kiwi;grapes;detergent
+1603,grapes;coffee;bread;cakes;kiwi
+1604,cakes;coffee;juice;oranges;shampoo
+1605,shampoo;cookies
+1606,juice;bananas
+1607,salt;oranges;milk;juice;shampoo
+1608,sugar;pencil
+1609,kiwi;juice
+1610,juice;peanut butter;pencil;onion;toothpaste;olive oil
+1611,pens;flour;pencil;sugar;soap;coffee
+1612,apples;toothpaste;onion;flour;soap;cereal
+1613,kiwi;coffee;salt;napkins;soap;apples
+1614,coffee;onion;kiwi;apples;oranges
+1615,onion;milk;salt;bread;napkins;rice
+1616,detergent;shampoo;rice;cakes;milk
+1617,juice;milk
+1618,pencil;olive oil;tea;sugar
+1619,potatoes;olive oil;cakes;napkins;sugar;yogurt
+1620,chocolate;apples;potatoes;juice
+1621,olive oil;juice;pencil
+1622,onion;oranges;coffee;detergent
+1623,toothpaste;coffee;pencil;peanut butter;olive oil;yogurt;sugar
+1624,pens;coffee;yogurt;kiwi
+1625,bananas;napkins;flour;apples;toothpaste
+1626,cereal;cakes;napkins;chocolate;eggs;pens
+1627,eggs;cereal;soap;rice
+1628,chocolate;apples
+1629,tea;grapes
+1630,cookies;potatoes;napkins;flour;kiwi;salt
+1631,chocolate;bananas;apples;kiwi;toothpaste;potatoes
+1632,flour;bread;rice
+1633,cakes;rice;onion;grapes
+1634,bread;kiwi;grapes
+1635,milk;eggs;salt;soap;shampoo;juice;yogurt
+1636,sugar;toothpaste;cakes
+1637,chocolate;yogurt;pencil;oranges
+1638,potatoes;milk
+1639,onion;eggs;chocolate
+1640,pencil;cakes;bananas;onion
+1641,peanut butter;potatoes;yogurt;cookies;grapes;salt
+1642,milk;olive oil;napkins;cereal
+1643,tomatoes;detergent;soap;coffee;sugar;bananas;olive oil
+1644,eggs;chocolate;cakes;bread;flour;tomatoes
+1645,chocolate;detergent;napkins;butter
+1646,soap;bananas;kiwi;cookies;shampoo;detergent
+1647,cakes;soap;cereal;sugar;pencil
+1648,yogurt;chocolate;bread;tomatoes;milk
+1649,peanut butter;shampoo
+1650,tea;flour;peanut butter;grapes;napkins;bread
+1651,coffee;pencil;flour;detergent;cereal;shampoo
+1652,napkins;salt;butter;eggs
+1653,rice;shampoo
+1654,bread;oranges;tea
+1655,peanut butter;olive oil
+1656,tomatoes;butter;toothpaste;cookies;juice;shampoo
+1657,chocolate;bananas
+1658,onion;coffee;kiwi;napkins;yogurt;milk
+1659,butter;onion;milk;bread
+1660,sugar;peanut butter
+1661,soap;apples;detergent;olive oil
+1662,soap;flour;cereal
+1663,flour;toothpaste;coffee;tomatoes;salt
+1664,pencil;pens;cereal
+1665,shampoo;grapes;chocolate;milk;sugar
+1666,apples;napkins;soap;coffee;pens;rice;yogurt
+1667,pens;pencil;soap
+1668,sugar;salt;peanut butter;apples;detergent;soap;grapes
+1669,potatoes;coffee;soap
+1670,cereal;soap;oranges;eggs;onion
+1671,kiwi;coffee;shampoo;sugar;tomatoes
+1672,kiwi;rice;bananas
+1673,napkins;grapes;tomatoes;kiwi;bananas;onion;potatoes
+1674,flour;peanut butter;oranges
+1675,juice;chocolate;apples;yogurt;salt
+1676,soap;yogurt;cookies;milk;pens
+1677,oranges;eggs;cereal;milk;sugar
+1678,detergent;yogurt;sugar;onion;olive oil
+1679,toothpaste;butter;kiwi;apples;oranges;flour;bananas
+1680,cakes;coffee;napkins;toothpaste;bananas
+1681,tomatoes;peanut butter;salt;shampoo;flour;rice;tea
+1682,sugar;soap;olive oil;pens;napkins;pencil;tomatoes
+1683,cakes;rice;pencil;toothpaste;eggs
+1684,rice;kiwi;onion;tea;grapes;cookies;tomatoes
+1685,peanut butter;oranges;cereal;napkins
+1686,cookies;chocolate;oranges;kiwi;olive oil
+1687,pens;shampoo;yogurt;bread
+1688,olive oil;bananas;toothpaste
+1689,oranges;toothpaste
+1690,coffee;soap;onion;bananas;apples
+1691,cookies;milk;salt;toothpaste
+1692,toothpaste;oranges;tomatoes;cakes;shampoo
+1693,detergent;butter;yogurt
+1694,grapes;kiwi;rice
+1695,cookies;soap;yogurt;oranges
+1696,apples;butter;oranges;flour;rice;tomatoes;kiwi
+1697,bananas;cereal;flour;tea;grapes;pens;salt
+1698,kiwi;eggs;tea;potatoes;flour;grapes
+1699,apples;juice;eggs;onion;detergent;kiwi
+1700,chocolate;cakes;onion
+1701,grapes;pens
+1702,apples;coffee
+1703,oranges;flour;kiwi
+1704,yogurt;olive oil;grapes;cereal;bread;juice;pens
+1705,salt;onion;cereal;soap
+1706,cookies;flour;cereal;kiwi;tea
+1707,rice;apples;soap;salt
+1708,eggs;cereal
+1709,flour;oranges;butter;chocolate;bananas
+1710,cereal;pens
+1711,napkins;kiwi;yogurt;bread
+1712,salt;eggs
+1713,milk;coffee;tomatoes;salt;eggs;tea;yogurt
+1714,detergent;oranges;yogurt;apples;sugar;peanut butter;flour
+1715,olive oil;flour;apples;grapes;cookies
+1716,cakes;pencil;tomatoes;juice
+1717,chocolate;napkins;peanut butter
+1718,potatoes;eggs;cereal
+1719,bananas;cakes;toothpaste;chocolate;sugar;flour;detergent
+1720,milk;butter;salt;bananas
+1721,pens;peanut butter;eggs;apples;cookies;pencil
+1722,coffee;olive oil;cookies;kiwi;butter;grapes;napkins
+1723,flour;eggs;salt
+1724,shampoo;apples;oranges
+1725,oranges;onion;juice;potatoes;cereal
+1726,tomatoes;rice;cereal
+1727,olive oil;tomatoes;pencil
+1728,toothpaste;sugar;tomatoes;chocolate;kiwi;cookies;cereal
+1729,cakes;sugar;peanut butter
+1730,shampoo;onion;milk;pencil;soap;cakes
+1731,chocolate;soap
+1732,yogurt;detergent;shampoo;pencil;olive oil
+1733,pencil;potatoes;pens;soap;cakes;apples
+1734,pencil;tomatoes;sugar;potatoes;rice
+1735,eggs;toothpaste;sugar;peanut butter
+1736,detergent;oranges;coffee;milk;onion
+1737,onion;apples;olive oil
+1738,chocolate;napkins;onion;toothpaste;cereal;detergent;olive oil
+1739,eggs;napkins;sugar;oranges
+1740,bananas;cookies;eggs;yogurt;onion
+1741,bread;tea;olive oil;napkins;chocolate
+1742,juice;eggs;toothpaste;cereal;chocolate;cookies;pencil
+1743,bananas;chocolate;grapes;potatoes;bread
+1744,toothpaste;potatoes;milk;cookies;sugar;peanut butter
+1745,yogurt;apples;juice;eggs;bananas;salt;tea
+1746,soap;tomatoes;onion;pencil;yogurt
+1747,bread;sugar;olive oil;eggs;pens
+1748,tomatoes;kiwi;salt;peanut butter;eggs;soap;rice
+1749,butter;cereal;soap
+1750,sugar;apples;tomatoes;pens;cakes;napkins;juice
+1751,pens;peanut butter
+1752,pencil;yogurt;tomatoes;rice;detergent;tea;oranges
+1753,napkins;rice;olive oil
+1754,shampoo;cereal
+1755,onion;juice;rice
+1756,bread;pens;shampoo
+1757,kiwi;yogurt;bananas;potatoes;detergent;onion;juice
+1758,oranges;coffee;grapes;cakes
+1759,napkins;kiwi;apples;juice;butter
+1760,bananas;kiwi
+1761,apples;eggs;butter
+1762,detergent;coffee;pencil;chocolate;salt
+1763,chocolate;soap;eggs
+1764,juice;tea;pencil;yogurt;soap;olive oil
+1765,toothpaste;soap
+1766,milk;grapes;sugar;juice;pencil;bread;olive oil
+1767,cakes;chocolate;flour;sugar;coffee;shampoo;olive oil
+1768,pens;onion;apples;salt;olive oil;yogurt
+1769,chocolate;bananas
+1770,salt;shampoo;cookies;sugar;cakes;onion;chocolate
+1771,tomatoes;tea;cereal;toothpaste;cakes;coffee
+1772,kiwi;eggs;potatoes;sugar;olive oil;tea;oranges
+1773,olive oil;bananas;oranges;cakes;soap;napkins
+1774,toothpaste;yogurt;shampoo;cookies
+1775,cakes;cereal;yogurt;tomatoes;kiwi
+1776,grapes;yogurt;salt;eggs;butter
+1777,bread;detergent;cookies
+1778,milk;napkins;bananas;soap;tea;yogurt;cookies
+1779,oranges;coffee;onion;toothpaste;tea;chocolate
+1780,eggs;pencil;soap;cookies;toothpaste;milk;juice
+1781,tomatoes;cookies;coffee;onion
+1782,cookies;chocolate;oranges;pencil;yogurt;onion;peanut butter
+1783,apples;sugar;grapes;peanut butter;butter;kiwi;onion
+1784,salt;chocolate;milk;flour;kiwi
+1785,apples;toothpaste;salt;potatoes;peanut butter
+1786,napkins;toothpaste;potatoes
+1787,peanut butter;potatoes;chocolate;coffee;pencil;soap
+1788,bananas;salt;potatoes;bread;tea;juice;milk
+1789,detergent;cereal;cakes;potatoes;tea;onion;grapes
+1790,potatoes;cereal;flour;juice
+1791,napkins;soap;sugar
+1792,yogurt;grapes;butter;onion;olive oil;cereal;coffee
+1793,tea;soap;oranges;peanut butter;onion
+1794,soap;kiwi;oranges;yogurt;eggs;olive oil;peanut butter
+1795,sugar;toothpaste
+1796,yogurt;milk;flour;tea;cakes;potatoes;oranges
+1797,cereal;onion;apples
+1798,kiwi;potatoes;eggs;pencil
+1799,yogurt;juice;napkins;rice;cakes;tomatoes;grapes
+1800,olive oil;coffee
+1801,pencil;potatoes;salt;chocolate;onion;cookies
+1802,cookies;cakes
+1803,napkins;sugar;rice;eggs;tomatoes
+1804,eggs;butter;shampoo;chocolate;apples
+1805,cookies;tomatoes
+1806,napkins;olive oil
+1807,grapes;detergent;butter
+1808,kiwi;rice;onion;cakes;salt;tea;cereal
+1809,milk;kiwi;salt;oranges
+1810,rice;soap;pens;tea;apples;onion;butter
+1811,napkins;oranges;bread;pens;peanut butter;butter
+1812,cookies;cereal;detergent;coffee;shampoo;juice;tomatoes
+1813,rice;apples;butter;flour;soap;yogurt
+1814,bananas;milk
+1815,cereal;yogurt;bananas;butter;milk;pencil
+1816,tomatoes;cookies
+1817,sugar;chocolate;detergent;butter;tomatoes;cereal
+1818,apples;cakes;potatoes;grapes;bread;soap;detergent
+1819,shampoo;milk;peanut butter;cakes;tea;yogurt;bread
+1820,olive oil;cereal;kiwi;bananas
+1821,bananas;onion;potatoes
+1822,cereal;milk;tea;butter
+1823,pencil;oranges;bread
+1824,eggs;yogurt;soap;toothpaste
+1825,bread;pencil
+1826,potatoes;cereal;bananas;salt;chocolate;milk;toothpaste
+1827,onion;chocolate;peanut butter;coffee;salt;pens;bread
+1828,yogurt;pens;napkins;oranges;olive oil;soap
+1829,eggs;grapes;cakes;oranges;butter
+1830,cookies;pens
+1831,coffee;tomatoes
+1832,coffee;butter;potatoes;flour
+1833,apples;kiwi;eggs;flour
+1834,kiwi;cookies;rice;sugar;napkins
+1835,tea;peanut butter
+1836,butter;kiwi;shampoo;grapes;tomatoes;yogurt
+1837,rice;tea;soap;detergent;milk
+1838,apples;olive oil;potatoes;milk
+1839,eggs;butter;juice
+1840,chocolate;cakes;coffee;sugar;cereal;tea;flour
+1841,shampoo;tea;toothpaste
+1842,peanut butter;butter;detergent;cereal;bread;tea
+1843,sugar;tomatoes;pens
+1844,tomatoes;oranges;cakes;yogurt
+1845,juice;tomatoes;chocolate;potatoes;butter;cakes
+1846,pencil;olive oil
+1847,milk;detergent;cakes;bread;coffee;shampoo;butter
+1848,cookies;soap;apples;sugar;kiwi;pens;chocolate
+1849,pencil;tea
+1850,bananas;shampoo;yogurt
+1851,flour;rice;bananas;napkins;pens;oranges;bread
+1852,juice;pencil;napkins;eggs
+1853,chocolate;cookies;coffee
+1854,cakes;cookies;potatoes;detergent;olive oil;toothpaste;milk
+1855,apples;soap;cereal
+1856,olive oil;bananas;toothpaste;napkins
+1857,tea;apples
+1858,toothpaste;coffee;potatoes;rice;juice;apples
+1859,rice;soap;tea;apples
+1860,pencil;napkins
+1861,tomatoes;olive oil;potatoes
+1862,cookies;napkins;apples;potatoes;bread
+1863,detergent;soap;chocolate
+1864,chocolate;pencil;rice;butter
+1865,shampoo;yogurt
+1866,tea;pencil;apples
+1867,onion;cookies;peanut butter;bananas
+1868,soap;pens;coffee
+1869,yogurt;onion
+1870,butter;cookies;pens;napkins;milk
+1871,soap;olive oil;eggs;milk
+1872,kiwi;grapes
+1873,potatoes;tea;olive oil
+1874,cakes;juice
+1875,coffee;pencil;sugar;chocolate;apples;cereal;cakes
+1876,peanut butter;napkins;tomatoes;pencil
+1877,potatoes;olive oil;rice
+1878,butter;cookies;bread
+1879,cakes;pencil;kiwi;olive oil;tea;soap;napkins
+1880,olive oil;rice
+1881,potatoes;flour;cookies
+1882,soap;bananas;butter
+1883,potatoes;pencil;grapes
+1884,onion;tomatoes;pencil;grapes;olive oil;cereal
+1885,sugar;flour;cookies;yogurt;cereal;cakes
+1886,olive oil;pencil
+1887,juice;sugar;olive oil;milk;rice;toothpaste;shampoo
+1888,pens;cakes;yogurt;shampoo;grapes;tomatoes;toothpaste
+1889,juice;salt
+1890,peanut butter;detergent;butter
+1891,kiwi;pencil;tomatoes;milk;cakes;rice
+1892,sugar;cookies;kiwi;apples
+1893,milk;coffee;rice;chocolate;soap;detergent;toothpaste
+1894,chocolate;cakes;salt;milk;kiwi;peanut butter
+1895,tomatoes;kiwi;milk;cookies;bananas
+1896,onion;olive oil;tea;flour;juice;bananas
+1897,coffee;sugar;chocolate;cakes;eggs;kiwi
+1898,potatoes;bananas;oranges;kiwi;cereal;butter
+1899,bread;tea;shampoo;rice;flour;salt;napkins
+1900,pencil;oranges
+1901,pens;olive oil;grapes;yogurt;butter
+1902,milk;peanut butter;grapes;napkins;detergent;soap;tea
+1903,soap;napkins;olive oil
+1904,yogurt;shampoo
+1905,eggs;olive oil;onion;sugar;milk;kiwi
+1906,apples;yogurt;cereal
+1907,apples;toothpaste;bread;tea;chocolate;detergent
+1908,sugar;flour;peanut butter;butter
+1909,cookies;yogurt;olive oil;grapes;butter;detergent
+1910,bananas;potatoes;butter;milk
+1911,juice;cakes;cereal;cookies
+1912,tea;chocolate
+1913,tomatoes;bread;milk;pens
+1914,peanut butter;salt;grapes;napkins;pens;apples
+1915,flour;butter;rice;bread
+1916,kiwi;eggs
+1917,bread;cereal;pens;flour;cookies;yogurt;milk
+1918,soap;potatoes;shampoo
+1919,pencil;chocolate;potatoes
+1920,tomatoes;napkins;rice;toothpaste;onion
+1921,napkins;rice;salt;potatoes;apples;toothpaste
+1922,rice;soap;onion
+1923,potatoes;oranges
+1924,cakes;toothpaste;soap;kiwi;milk
+1925,apples;kiwi;onion;detergent;olive oil;juice;pens
+1926,bananas;milk
+1927,tomatoes;butter;potatoes
+1928,apples;olive oil;detergent;soap;juice;butter;chocolate
+1929,tomatoes;onion;milk;detergent
+1930,shampoo;yogurt;potatoes;napkins;cakes;oranges
+1931,juice;butter;cookies
+1932,bananas;kiwi
+1933,peanut butter;kiwi;bread;shampoo;pens;cereal
+1934,apples;flour;grapes
+1935,pencil;eggs;potatoes
+1936,peanut butter;flour;eggs;cookies
+1937,yogurt;cookies;flour;kiwi;peanut butter
+1938,oranges;coffee;cookies;chocolate
+1939,bananas;potatoes
+1940,pencil;coffee;rice
+1941,pencil;potatoes;shampoo;coffee;toothpaste;napkins;sugar
+1942,tea;kiwi;butter;napkins
+1943,chocolate;bread;soap;toothpaste;tea;detergent;bananas
+1944,potatoes;salt
+1945,eggs;shampoo;detergent
+1946,cookies;pencil
+1947,butter;potatoes;bananas;yogurt;oranges;tomatoes;eggs
+1948,tea;salt;napkins;pencil;detergent
+1949,pens;coffee;oranges;soap;salt;cookies;onion
+1950,napkins;flour;eggs;tomatoes;pens
+1951,flour;tomatoes;cookies;rice;apples;kiwi
+1952,chocolate;detergent
+1953,cookies;juice;tea
+1954,milk;peanut butter;toothpaste;potatoes
+1955,pens;cakes;kiwi;olive oil;cookies;grapes
+1956,milk;cookies;detergent;tea;toothpaste;oranges;onion
+1957,grapes;pencil;rice;olive oil;tea;juice;coffee
+1958,oranges;detergent;pens;sugar;pencil;tomatoes
+1959,potatoes;chocolate
+1960,tomatoes;cakes;oranges
+1961,pens;potatoes
+1962,detergent;milk;sugar
+1963,pens;coffee;shampoo;apples;peanut butter
+1964,potatoes;juice
+1965,bananas;rice;bread;tomatoes;apples;onion;pens
+1966,toothpaste;bread;olive oil;sugar;flour
+1967,yogurt;butter;tomatoes;eggs;milk
+1968,cereal;soap;sugar;grapes;cookies;onion;tomatoes
+1969,oranges;toothpaste;cakes;yogurt;salt;shampoo;onion
+1970,yogurt;juice;chocolate;pencil;onion
+1971,kiwi;oranges;chocolate;coffee
+1972,cakes;peanut butter
+1973,kiwi;oranges;cereal
+1974,apples;sugar;kiwi;butter;detergent;salt
+1975,cakes;butter
+1976,bananas;detergent
+1977,juice;salt
+1978,sugar;apples
+1979,peanut butter;soap;olive oil;onion
+1980,soap;tea;milk;kiwi
+1981,pens;olive oil;kiwi;potatoes
+1982,eggs;detergent
+1983,bananas;peanut butter;tomatoes;oranges;coffee;flour
+1984,tomatoes;flour
+1985,potatoes;yogurt;olive oil
+1986,coffee;shampoo;soap;oranges;yogurt;potatoes
+1987,pencil;bananas;eggs;cakes
+1988,oranges;potatoes;napkins
+1989,apples;potatoes
+1990,tomatoes;napkins;kiwi;toothpaste
+1991,yogurt;peanut butter;oranges;butter
+1992,chocolate;tea;bananas;detergent;tomatoes;napkins
+1993,bread;detergent;shampoo;milk;cookies
+1994,napkins;bananas;rice;pencil;potatoes;onion
+1995,milk;shampoo;chocolate;olive oil;salt
+1996,tomatoes;pens;olive oil;shampoo
+1997,bananas;juice;cakes;apples
+1998,kiwi;peanut butter;eggs
+1999,soap;oranges;flour
+2000,toothpaste;tomatoes;tea;kiwi;rice
+2001,kiwi;soap;eggs;cereal;olive oil;onion;yogurt
+2002,salt;coffee
+2003,napkins;cereal;tea;chocolate;cakes;juice
+2004,toothpaste;bananas;potatoes;detergent
+2005,cereal;salt;bananas
+2006,eggs;juice;toothpaste;soap;rice;detergent
+2007,detergent;cereal;juice;grapes;pencil
+2008,bread;rice;tomatoes;potatoes
+2009,butter;soap
+2010,sugar;shampoo
+2011,cereal;bread;rice;juice;tomatoes
+2012,coffee;sugar;yogurt;onion;tea
+2013,detergent;yogurt;pencil;tea;eggs
+2014,onion;oranges
+2015,potatoes;salt;coffee;pens;chocolate;shampoo;toothpaste
+2016,salt;apples;oranges;shampoo;flour;detergent;cakes
+2017,cookies;pens;bread;apples
+2018,milk;shampoo;kiwi;bananas;cereal
+2019,onion;pens;tea;butter;eggs;tomatoes;sugar
+2020,cereal;tea;onion;apples;chocolate
+2021,grapes;sugar;olive oil;cookies
+2022,napkins;toothpaste;cereal;detergent;rice;shampoo;pens
+2023,pencil;coffee;juice;toothpaste;tomatoes;flour
+2024,chocolate;rice;yogurt;pencil;eggs
+2025,pencil;peanut butter;kiwi;tomatoes
+2026,tomatoes;grapes
+2027,pens;kiwi;cakes;chocolate;eggs;sugar
+2028,kiwi;shampoo;bread;peanut butter;soap;grapes
+2029,peanut butter;pens;kiwi;cookies;eggs;flour;butter
+2030,cookies;onion;detergent;tea;toothpaste
+2031,soap;apples;chocolate;flour;olive oil
+2032,butter;bread;sugar;pens
+2033,cakes;apples;shampoo;toothpaste;cereal;grapes;napkins
+2034,potatoes;chocolate
+2035,salt;coffee;tomatoes;peanut butter;cereal;cookies
+2036,soap;onion;sugar;salt;napkins;pens
+2037,pencil;milk
+2038,eggs;rice;onion;shampoo;yogurt;bread;tomatoes
+2039,flour;kiwi;milk;olive oil;cookies
+2040,soap;bread;pens;butter;tomatoes;yogurt;kiwi
+2041,tomatoes;grapes
+2042,apples;potatoes;grapes;tomatoes;eggs
+2043,milk;toothpaste
+2044,tea;rice;cookies;salt;shampoo;detergent;potatoes
+2045,cakes;eggs;bread
+2046,juice;butter;bananas;toothpaste;oranges;salt;apples
+2047,kiwi;cookies;flour;toothpaste;sugar;juice;pencil
+2048,peanut butter;bread;rice
+2049,oranges;napkins
+2050,cereal;soap;kiwi;napkins
+2051,pens;oranges
+2052,oranges;cereal;pens;eggs;salt
+2053,shampoo;yogurt;tomatoes;potatoes;apples;detergent;coffee
+2054,bananas;cookies;yogurt;rice;cakes;sugar
+2055,apples;yogurt;bread;chocolate;milk;juice
+2056,grapes;olive oil;potatoes
+2057,chocolate;cookies;cereal
+2058,salt;milk
+2059,tomatoes;milk;butter
+2060,detergent;onion;tomatoes;tea
+2061,peanut butter;toothpaste;chocolate;soap;cakes;cereal;bread
+2062,onion;bread;rice;butter;soap
+2063,sugar;yogurt
+2064,napkins;pencil;shampoo
+2065,butter;salt;kiwi;eggs;pencil
+2066,tea;chocolate;oranges
+2067,yogurt;bananas;olive oil;bread;pens
+2068,tea;soap;grapes;cookies
+2069,salt;pencil;rice
+2070,cakes;oranges;cereal;chocolate
+2071,potatoes;salt;cookies;apples
+2072,apples;coffee;cereal;toothpaste
+2073,salt;flour;butter;bananas;onion;potatoes
+2074,cereal;olive oil;juice;butter;milk;tea
+2075,oranges;pens;coffee;eggs;cereal;yogurt
+2076,onion;juice;napkins;bananas
+2077,pens;cookies;shampoo;yogurt
+2078,salt;eggs;cookies;peanut butter;apples;potatoes
+2079,apples;toothpaste
+2080,milk;soap;bananas;coffee
+2081,grapes;oranges;cakes;juice;pens;soap;cereal
+2082,sugar;butter;yogurt;eggs;rice;onion;bananas
+2083,salt;napkins;sugar;grapes;onion;potatoes
+2084,toothpaste;napkins;pencil;salt;juice;pens;rice
+2085,kiwi;grapes;cookies;napkins;pens;apples
+2086,kiwi;salt;pencil
+2087,yogurt;tomatoes;onion
+2088,chocolate;apples;toothpaste;tea;pencil;grapes;milk
+2089,cookies;juice
+2090,oranges;bread;coffee;eggs
+2091,yogurt;milk;toothpaste;cookies
+2092,salt;potatoes;pens
+2093,shampoo;cookies;bread;detergent;napkins;peanut butter;cakes
+2094,napkins;butter;yogurt;eggs;chocolate;cakes;cookies
+2095,bread;peanut butter
+2096,tomatoes;tea;butter;pens;pencil;cookies;coffee
+2097,cereal;oranges;bananas;cakes;grapes;kiwi;apples
+2098,cereal;toothpaste;pens;onion;kiwi;cakes;juice
+2099,cereal;olive oil;salt;sugar
+2100,toothpaste;potatoes;pencil;bread;juice;oranges;cookies
+2101,eggs;shampoo;olive oil;onion
+2102,onion;oranges;butter;pencil;yogurt
+2103,sugar;kiwi;oranges;flour;shampoo;juice;chocolate
+2104,cakes;grapes
+2105,rice;butter;grapes;detergent;shampoo
+2106,bread;cookies;tomatoes;tea
+2107,cereal;potatoes;soap;olive oil;pencil
+2108,coffee;juice;flour;milk;rice;napkins
+2109,eggs;pencil
+2110,peanut butter;onion;soap
+2111,butter;napkins;pencil
+2112,juice;cakes
+2113,flour;cookies
+2114,bananas;butter
+2115,oranges;kiwi;butter
+2116,soap;kiwi;flour
+2117,butter;napkins;kiwi;tomatoes;soap;detergent;rice
+2118,peanut butter;olive oil;chocolate;apples;juice;tomatoes;bread
+2119,detergent;sugar;pencil;toothpaste;tea;cookies;tomatoes
+2120,oranges;yogurt;rice;coffee
+2121,potatoes;apples;detergent;pencil;coffee
+2122,rice;bread
+2123,yogurt;apples
+2124,tea;detergent;peanut butter;apples;cakes;pencil
+2125,detergent;cookies;bananas
+2126,peanut butter;flour
+2127,olive oil;yogurt;eggs;oranges;detergent;juice
+2128,sugar;coffee
+2129,napkins;tea;bread;chocolate;toothpaste
+2130,tea;sugar
+2131,coffee;detergent;juice;milk;olive oil;bread;chocolate
+2132,grapes;potatoes;cereal;pencil;cookies;coffee;oranges
+2133,napkins;grapes;cakes;pencil
+2134,cereal;tomatoes;onion;eggs
+2135,kiwi;butter;shampoo;salt;coffee;napkins;flour
+2136,rice;bread;toothpaste;coffee;olive oil;yogurt
+2137,pens;butter;sugar;onion;bananas
+2138,coffee;cookies;cereal;soap;flour;peanut butter
+2139,peanut butter;cookies;apples;napkins
+2140,potatoes;toothpaste;coffee;oranges;bread;olive oil;sugar
+2141,yogurt;sugar;cakes;potatoes;bananas;soap
+2142,apples;toothpaste;bananas;cereal
+2143,cookies;juice;napkins;sugar
+2144,pencil;tea
+2145,apples;juice;milk;oranges;rice;potatoes;soap
+2146,potatoes;tomatoes;tea;milk;oranges;chocolate
+2147,pencil;tomatoes;peanut butter
+2148,bananas;detergent;tea
+2149,eggs;pencil;soap
+2150,bread;sugar
+2151,sugar;rice;peanut butter;cereal;coffee;yogurt
+2152,milk;onion;olive oil;oranges;cereal;butter
+2153,sugar;tomatoes;toothpaste
+2154,rice;eggs;soap;shampoo;pens;cereal
+2155,milk;shampoo
+2156,salt;tea;flour;rice;cereal;detergent;shampoo
+2157,toothpaste;grapes;pens;tomatoes;milk
+2158,sugar;cakes;peanut butter;bread;rice;oranges
+2159,peanut butter;juice;eggs;pencil;onion;oranges
+2160,apples;toothpaste;juice;tomatoes;butter
+2161,kiwi;coffee;sugar;juice;pens;potatoes;peanut butter
+2162,coffee;juice;cookies;olive oil;cereal
+2163,potatoes;napkins;oranges;cookies;shampoo;coffee
+2164,potatoes;sugar;salt;olive oil;chocolate;apples;soap
+2165,onion;cookies;oranges;apples;potatoes
+2166,cookies;kiwi;olive oil;napkins;juice;cakes
+2167,olive oil;shampoo
+2168,juice;cookies;sugar;soap;detergent
+2169,cakes;bread;shampoo
+2170,cookies;pencil;oranges;salt;apples;tomatoes;detergent
+2171,cakes;yogurt;bread;chocolate;tea;butter;kiwi
+2172,detergent;peanut butter;kiwi;napkins;chocolate
+2173,butter;soap;onion;tea;napkins;juice;flour
+2174,pencil;potatoes;grapes;peanut butter;toothpaste
+2175,eggs;apples
+2176,sugar;bananas;salt;detergent;shampoo;coffee
+2177,shampoo;bananas;toothpaste;detergent;rice;oranges
+2178,toothpaste;butter;apples;yogurt;tea
+2179,olive oil;cereal;rice;shampoo;tea;bread
+2180,olive oil;oranges;rice;potatoes;tea
+2181,coffee;toothpaste;tea;pencil;soap;oranges;milk
+2182,sugar;soap;bananas;toothpaste;pens;salt;cakes
+2183,detergent;rice;olive oil;bread;milk
+2184,salt;tea;peanut butter;sugar;pens;onion;bananas
+2185,grapes;yogurt
+2186,kiwi;napkins;detergent
+2187,flour;cakes;kiwi;rice
+2188,eggs;pens;toothpaste;bananas;grapes;sugar;milk
+2189,bananas;oranges
+2190,chocolate;grapes;rice;salt;kiwi
+2191,shampoo;eggs;oranges;salt;peanut butter;butter;kiwi
+2192,bread;napkins;shampoo
+2193,peanut butter;flour;kiwi;chocolate;tomatoes;cereal;pens
+2194,onion;tomatoes;peanut butter;apples;salt;coffee
+2195,cereal;bananas
+2196,apples;chocolate;pens
+2197,oranges;coffee;tomatoes;napkins;chocolate;shampoo
+2198,napkins;onion;pens;kiwi;peanut butter;detergent;cakes
+2199,tea;olive oil;sugar;shampoo;butter;pencil
+2200,oranges;shampoo;pencil
+2201,eggs;oranges;peanut butter;bananas;napkins;soap;bread
+2202,kiwi;cookies;napkins;flour
+2203,coffee;grapes
+2204,peanut butter;bread;eggs
+2205,tea;oranges;pencil;detergent;tomatoes;potatoes;bananas
+2206,cakes;sugar;onion;napkins;grapes;butter
+2207,cookies;detergent;toothpaste;napkins;milk;salt;apples
+2208,coffee;pens
+2209,onion;coffee;juice;milk
+2210,coffee;juice;cakes
+2211,oranges;bananas;tea;pens;tomatoes
+2212,detergent;milk;napkins;chocolate;grapes;juice
+2213,napkins;olive oil
+2214,tea;pencil;detergent
+2215,flour;grapes;juice;onion
+2216,eggs;grapes;butter;cakes;napkins;onion
+2217,milk;pencil;cookies;shampoo;chocolate
+2218,onion;coffee;pencil;juice
+2219,flour;tomatoes;apples
+2220,pens;bananas;apples
+2221,cakes;juice;bananas;grapes;oranges;flour;tomatoes
+2222,bananas;salt;tea;cakes
+2223,milk;soap;detergent;cookies
+2224,oranges;olive oil;milk;butter;kiwi;cakes;tea
+2225,tea;flour;napkins;olive oil;potatoes;rice;eggs
+2226,peanut butter;cakes;bread;shampoo;milk;yogurt
+2227,olive oil;kiwi;grapes;rice;shampoo;cereal;tea
+2228,napkins;butter;bananas;kiwi;oranges;pens
+2229,flour;sugar;chocolate;butter;kiwi;juice
+2230,potatoes;bananas;cakes;shampoo
+2231,toothpaste;cookies;apples;cakes;pens;grapes;milk
+2232,eggs;sugar;tomatoes;juice
+2233,eggs;napkins;grapes;shampoo
+2234,flour;cereal
+2235,rice;pencil;juice;sugar;bananas
+2236,tea;grapes;toothpaste;sugar;eggs;yogurt
+2237,cereal;grapes;coffee;pencil
+2238,juice;kiwi;eggs;peanut butter;toothpaste
+2239,bread;yogurt;eggs;toothpaste;cakes
+2240,apples;butter;tomatoes
+2241,peanut butter;coffee;soap
+2242,butter;chocolate
+2243,bread;apples;cookies;sugar
+2244,salt;bread;pencil;tomatoes;flour;shampoo
+2245,shampoo;apples
+2246,bananas;tea;detergent;cereal;pens
+2247,tomatoes;butter
+2248,salt;oranges;flour;tomatoes;milk;eggs
+2249,bread;napkins;milk;flour
+2250,rice;potatoes;pencil;sugar;salt;grapes;cookies
+2251,bananas;rice
+2252,olive oil;shampoo;peanut butter;yogurt;grapes;butter;tea
+2253,juice;bread;grapes
+2254,tea;bananas;sugar;cookies;rice;juice;napkins
+2255,shampoo;cookies;bread;bananas;napkins;kiwi
+2256,chocolate;pens;oranges;pencil
+2257,potatoes;grapes;salt;chocolate
+2258,pens;chocolate;detergent;peanut butter
+2259,grapes;yogurt;rice;olive oil;potatoes;oranges
+2260,grapes;kiwi;sugar;napkins;soap;yogurt
+2261,olive oil;tea;detergent;kiwi;onion;pens
+2262,bananas;potatoes;onion;eggs;salt;olive oil
+2263,flour;olive oil
+2264,pens;cookies;pencil;shampoo;bread;soap
+2265,detergent;shampoo
+2266,butter;onion;peanut butter;cakes
+2267,cakes;chocolate;flour;toothpaste
+2268,cookies;cakes;shampoo;pens
+2269,tomatoes;tea;olive oil;oranges
+2270,detergent;flour;shampoo;pens
+2271,milk;cakes;pens
+2272,milk;bread;soap;potatoes;yogurt;shampoo;juice
+2273,pens;olive oil
+2274,napkins;onion;rice
+2275,apples;yogurt;cookies;pens;bread
+2276,detergent;kiwi;oranges;pencil;grapes;pens
+2277,grapes;yogurt;oranges;milk;olive oil
+2278,eggs;pencil;rice;oranges;onion;tea
+2279,cakes;peanut butter;juice;yogurt;shampoo;pens
+2280,kiwi;bananas;oranges;tea
+2281,pens;shampoo;pencil;peanut butter;detergent
+2282,milk;rice;chocolate;eggs;peanut butter;pens;bread
+2283,potatoes;apples
+2284,chocolate;toothpaste;onion;yogurt;flour;tomatoes
+2285,butter;kiwi;cookies;potatoes;cakes;yogurt
+2286,olive oil;pencil
+2287,salt;eggs;rice;potatoes
+2288,cereal;pencil
+2289,butter;salt;juice;rice;potatoes;tomatoes
+2290,peanut butter;butter
+2291,shampoo;flour;yogurt;peanut butter;bread
+2292,kiwi;flour;coffee;milk;oranges;juice
+2293,olive oil;yogurt;grapes
+2294,bananas;onion;apples;cakes;pens;shampoo
+2295,chocolate;cereal
+2296,pencil;shampoo;milk;toothpaste
+2297,cookies;shampoo;pencil;napkins
+2298,tomatoes;milk;butter;cookies
+2299,tomatoes;flour;oranges;salt
+2300,olive oil;coffee;butter
+2301,olive oil;oranges;salt;bananas;pencil
+2302,salt;onion
+2303,bananas;apples;cookies;oranges;peanut butter;onion
+2304,onion;bread;detergent
+2305,napkins;rice;peanut butter
+2306,onion;tomatoes;cereal
+2307,pencil;oranges
+2308,cereal;rice;bananas;pens;bread
+2309,eggs;cakes;salt;rice;napkins;bread
+2310,rice;sugar;pens;cookies;shampoo;potatoes;coffee
+2311,napkins;soap;tea;detergent;peanut butter
+2312,flour;cookies
+2313,pens;shampoo;salt;cakes
+2314,pencil;cookies;tomatoes;flour;yogurt;coffee;juice
+2315,soap;milk;detergent;napkins
+2316,pens;cakes;apples;potatoes;milk;bread
+2317,pens;juice;salt
+2318,salt;pens;soap;shampoo
+2319,soap;bread;juice;butter;napkins
+2320,flour;coffee;salt;pens;grapes;potatoes;olive oil
+2321,flour;yogurt;cereal;cookies;coffee
+2322,grapes;eggs;tomatoes
+2323,coffee;tea;eggs;detergent;butter;bananas;salt
+2324,cereal;chocolate
+2325,onion;yogurt;pens;butter;olive oil;pencil
+2326,flour;peanut butter;soap;tomatoes;rice;yogurt;cereal
+2327,cakes;apples;bananas
+2328,kiwi;olive oil
+2329,napkins;bananas;yogurt;peanut butter;sugar
+2330,flour;cakes
+2331,butter;cookies
+2332,soap;milk;butter;tomatoes;oranges
+2333,olive oil;pens
+2334,apples;potatoes
+2335,soap;onion
+2336,sugar;salt;cereal;bread;chocolate;apples
+2337,butter;toothpaste;onion;kiwi
+2338,detergent;eggs;peanut butter;pencil
+2339,flour;pens
+2340,butter;detergent;potatoes;toothpaste;tea;olive oil
+2341,cakes;eggs;apples;olive oil;chocolate;onion
+2342,kiwi;shampoo;flour;grapes
+2343,flour;shampoo;chocolate;detergent;kiwi
+2344,sugar;coffee;oranges;soap;salt;bananas;juice
+2345,yogurt;cereal;pencil;cakes;peanut butter;cookies
+2346,potatoes;soap
+2347,detergent;flour;grapes;eggs;cakes;milk
+2348,sugar;coffee;potatoes;bananas;salt
+2349,pens;apples;milk;tea;kiwi;eggs;butter
+2350,napkins;salt;cakes;toothpaste;detergent
+2351,tomatoes;kiwi;cereal;tea;bananas;onion
+2352,apples;yogurt;cookies
+2353,onion;shampoo;cookies
+2354,pencil;napkins
+2355,napkins;milk;pens
+2356,apples;peanut butter;cookies;pencil;butter
+2357,salt;chocolate;peanut butter;olive oil;tomatoes;oranges
+2358,cereal;chocolate;bread;detergent
+2359,cereal;coffee;milk;yogurt;detergent
+2360,salt;pens
+2361,potatoes;detergent;oranges
+2362,sugar;onion
+2363,kiwi;toothpaste;coffee
+2364,juice;toothpaste
+2365,yogurt;oranges;rice;salt;butter;cookies
+2366,apples;onion;butter;peanut butter
+2367,sugar;chocolate;soap;bread;onion
+2368,potatoes;kiwi
+2369,cereal;butter;tomatoes;milk;peanut butter;juice;oranges
+2370,eggs;coffee;peanut butter;olive oil;pencil;detergent
+2371,butter;detergent;kiwi;tomatoes;apples;soap
+2372,cereal;tomatoes;potatoes
+2373,yogurt;detergent;apples
+2374,oranges;juice;milk;olive oil
+2375,pencil;detergent;salt;sugar;olive oil
+2376,cakes;soap
+2377,eggs;detergent;tea;sugar;salt
+2378,tomatoes;cereal;detergent;olive oil;salt;pens
+2379,potatoes;pencil;shampoo;napkins
+2380,bread;cookies;butter;shampoo;cereal;salt;rice
+2381,grapes;chocolate;toothpaste
+2382,tea;pencil;kiwi;sugar;butter;detergent;onion
+2383,rice;apples;onion;shampoo
+2384,onion;apples;sugar;coffee
+2385,chocolate;bread
+2386,apples;butter;grapes;salt;milk;toothpaste
+2387,soap;bananas;bread;butter;juice
+2388,grapes;detergent;sugar;salt;flour;cakes
+2389,detergent;kiwi;bananas
+2390,grapes;potatoes;rice;milk
+2391,pens;cookies
+2392,shampoo;juice
+2393,kiwi;butter;onion;grapes
+2394,salt;yogurt;chocolate;apples
+2395,soap;pens;napkins;coffee;toothpaste;grapes;bananas
+2396,olive oil;potatoes;butter
+2397,rice;shampoo
+2398,butter;onion
+2399,olive oil;pens;tomatoes;salt;chocolate;napkins;pencil
+2400,sugar;butter
+2401,tea;cookies;yogurt;flour;peanut butter;pens
+2402,tomatoes;toothpaste;bananas;juice;detergent;olive oil;chocolate
+2403,rice;salt
+2404,grapes;yogurt;soap;apples;kiwi;salt
+2405,toothpaste;tomatoes;cakes;sugar
+2406,onion;milk;potatoes;grapes;olive oil;tea;detergent
+2407,butter;milk;salt
+2408,flour;onion;butter;rice;peanut butter
+2409,shampoo;bread;tomatoes;napkins
+2410,chocolate;tea;shampoo;yogurt
+2411,eggs;potatoes
+2412,cereal;pencil;rice;salt;soap;coffee
+2413,cereal;coffee;olive oil;butter
+2414,olive oil;cereal
+2415,cereal;toothpaste;bread;bananas
+2416,rice;detergent
+2417,toothpaste;salt;chocolate
+2418,eggs;bananas;yogurt;tea;juice;salt
+2419,apples;yogurt;pens;detergent
+2420,coffee;kiwi;rice;tea
+2421,yogurt;toothpaste;rice;grapes
+2422,toothpaste;pencil;soap;detergent;cakes
+2423,chocolate;coffee;detergent;soap
+2424,bananas;flour;olive oil;kiwi
+2425,pencil;butter;soap;grapes;yogurt
+2426,yogurt;sugar;shampoo;napkins;tea;bread
+2427,milk;coffee;juice
+2428,sugar;potatoes
+2429,toothpaste;soap;yogurt;apples
+2430,potatoes;onion;shampoo;tomatoes;olive oil;detergent;bananas
+2431,cakes;cereal;pencil
+2432,cakes;potatoes
+2433,chocolate;apples;cakes;tomatoes;rice;juice;detergent
+2434,soap;cereal;toothpaste;cakes;coffee;onion
+2435,cakes;kiwi;eggs;milk;salt
+2436,soap;salt;peanut butter
+2437,pencil;soap;butter;bananas;rice;cakes;coffee
+2438,grapes;flour;shampoo;sugar;tomatoes;eggs;cookies
+2439,chocolate;coffee;olive oil;apples
+2440,soap;oranges;salt;cookies;napkins;cakes
+2441,bananas;cereal;sugar
+2442,tomatoes;coffee;eggs;rice;pencil
+2443,peanut butter;sugar;eggs
+2444,detergent;bananas;milk;cereal;tomatoes;shampoo;onion
+2445,kiwi;toothpaste;soap;bananas;rice;coffee;chocolate
+2446,soap;apples
+2447,salt;milk;olive oil
+2448,toothpaste;apples;napkins;soap;pencil
+2449,sugar;pencil
+2450,cookies;shampoo;olive oil;chocolate
+2451,coffee;chocolate;cookies;rice;pencil
+2452,eggs;tomatoes;oranges;apples;yogurt;tea
+2453,bread;onion;olive oil;pens;sugar;chocolate
+2454,pencil;juice;toothpaste;peanut butter;bananas
+2455,napkins;toothpaste
+2456,juice;chocolate;bread;pencil
+2457,peanut butter;grapes;butter;rice
+2458,tea;pens;grapes;shampoo
+2459,sugar;bananas;cookies;tea
+2460,bananas;soap;cookies;tomatoes;olive oil;butter;juice
+2461,potatoes;napkins;pencil
+2462,tea;toothpaste;cakes;bananas
+2463,salt;chocolate
+2464,potatoes;kiwi
+2465,olive oil;tomatoes;coffee;sugar;pencil
+2466,grapes;rice;bread;tomatoes;pencil
+2467,onion;bread
+2468,olive oil;cakes;juice;chocolate
+2469,detergent;cereal;eggs;toothpaste;napkins;milk
+2470,rice;butter;bread;coffee;grapes;sugar;onion
+2471,peanut butter;butter;apples
+2472,cereal;grapes;pens;milk;butter
+2473,toothpaste;salt;kiwi;flour
+2474,grapes;salt;flour
+2475,peanut butter;toothpaste
+2476,pens;coffee;butter;onion;cakes;detergent
+2477,coffee;salt
+2478,shampoo;potatoes;toothpaste;napkins
+2479,yogurt;eggs;bread
+2480,bananas;tomatoes;napkins;tea;cereal
+2481,chocolate;sugar;potatoes;eggs;yogurt;flour;coffee
+2482,grapes;potatoes;yogurt;tea;pencil
+2483,grapes;peanut butter;napkins;cakes;eggs
+2484,milk;eggs;sugar;pencil;juice;shampoo
+2485,cereal;cookies;peanut butter;rice;yogurt
+2486,soap;pens;rice;eggs;kiwi;cereal;sugar
+2487,salt;chocolate;kiwi;olive oil
+2488,soap;flour;pencil;onion;cakes;eggs
+2489,peanut butter;shampoo;yogurt;rice;soap
+2490,apples;coffee;toothpaste;rice
+2491,kiwi;eggs;peanut butter;salt;cereal;shampoo;pencil
+2492,grapes;flour;milk
+2493,olive oil;tomatoes;sugar;peanut butter;chocolate;cereal
+2494,salt;cakes
+2495,detergent;tomatoes;chocolate
+2496,eggs;olive oil
+2497,yogurt;toothpaste;chocolate
+2498,cakes;rice;olive oil;toothpaste;tea;kiwi;yogurt
+2499,peanut butter;oranges;grapes
+2500,toothpaste;cakes;shampoo
+2501,rice;toothpaste;olive oil
+2502,cookies;coffee;pencil;toothpaste;tomatoes;olive oil;flour
+2503,oranges;apples;chocolate;grapes;coffee;shampoo;cereal
+2504,detergent;eggs;bananas;soap;cereal;milk
+2505,cookies;grapes;flour;cakes;pens;chocolate;napkins
+2506,soap;bananas;chocolate;olive oil
+2507,shampoo;pencil;soap;juice;toothpaste;oranges;milk
+2508,cookies;yogurt;rice;cereal;coffee;napkins
+2509,cakes;detergent;cereal
+2510,kiwi;coffee;oranges;toothpaste
+2511,napkins;cakes;eggs;milk;yogurt;potatoes;tea
+2512,coffee;shampoo;bread;butter;bananas
+2513,potatoes;peanut butter;grapes
+2514,chocolate;peanut butter;sugar
+2515,yogurt;sugar;cakes;tea;flour;coffee;potatoes
+2516,milk;potatoes;peanut butter
+2517,bread;flour;grapes;cereal;sugar
+2518,apples;bread;chocolate
+2519,olive oil;soap;cakes;sugar;shampoo;tomatoes;rice
+2520,potatoes;salt;bread;rice;onion;pencil;cakes
+2521,yogurt;detergent;tomatoes;cakes;shampoo;onion;apples
+2522,oranges;coffee;cookies;potatoes;kiwi;detergent;olive oil
+2523,cookies;onion;tea;napkins
+2524,apples;flour;onion;chocolate;bananas
+2525,kiwi;coffee;olive oil;oranges;butter
+2526,tomatoes;juice;flour;peanut butter;bread;cookies
+2527,bread;rice;cakes
+2528,toothpaste;rice;bananas
+2529,butter;olive oil;bananas;chocolate;kiwi;toothpaste
+2530,milk;sugar
+2531,cereal;flour
+2532,detergent;toothpaste;kiwi
+2533,juice;salt;soap;napkins;bananas;kiwi
+2534,cookies;shampoo;tomatoes;detergent;onion
+2535,cereal;napkins
+2536,apples;pencil;cookies;shampoo
+2537,onion;toothpaste;apples;milk;eggs;cereal;sugar
+2538,napkins;rice;coffee;olive oil
+2539,olive oil;peanut butter;sugar;bread;cakes
+2540,butter;olive oil;sugar;shampoo
+2541,rice;napkins
+2542,salt;olive oil
+2543,napkins;yogurt;rice;oranges;pencil
+2544,sugar;kiwi;toothpaste;pencil;flour;yogurt;salt
+2545,rice;onion;eggs;juice;detergent;cookies;kiwi
+2546,olive oil;sugar;salt;detergent
+2547,sugar;cereal
+2548,potatoes;salt;tomatoes;kiwi;eggs;onion
+2549,yogurt;salt;detergent
+2550,pens;butter;cookies;toothpaste;milk;cakes;olive oil
+2551,chocolate;potatoes;sugar;coffee
+2552,tea;salt;flour;potatoes;cereal;peanut butter;onion
+2553,apples;soap;juice;pens;tea
+2554,milk;toothpaste;eggs;olive oil;apples;pens;tea
+2555,cereal;bread;peanut butter
+2556,grapes;salt;pencil;eggs
+2557,onion;cereal;olive oil;shampoo
+2558,kiwi;oranges;cakes;yogurt
+2559,detergent;bananas;eggs;napkins
+2560,butter;eggs;juice
+2561,juice;coffee
+2562,chocolate;shampoo;peanut butter;cookies
+2563,milk;oranges;salt;pens;potatoes
+2564,sugar;onion;tomatoes
+2565,cakes;salt;bread;peanut butter;grapes
+2566,oranges;salt;chocolate
+2567,cereal;rice;salt;toothpaste;flour
+2568,chocolate;coffee;onion;bread;grapes
+2569,cookies;pens;pencil
+2570,napkins;juice;olive oil;chocolate;grapes
+2571,pencil;bananas;detergent;bread;olive oil;soap
+2572,napkins;peanut butter;coffee;oranges
+2573,oranges;tomatoes;butter;eggs;juice;detergent;napkins
+2574,tomatoes;toothpaste;sugar;salt;kiwi;eggs
+2575,pencil;butter
+2576,shampoo;potatoes;coffee;oranges;rice
+2577,coffee;toothpaste;bread;eggs;tea;chocolate;pens
+2578,grapes;soap;peanut butter;apples;eggs
+2579,apples;flour
+2580,pencil;potatoes;bread;flour
+2581,salt;toothpaste;olive oil;coffee;kiwi;eggs
+2582,tea;potatoes;kiwi;eggs;oranges;detergent
+2583,rice;kiwi;grapes;bananas
+2584,tea;oranges;salt
+2585,flour;cereal;onion;sugar
+2586,pencil;butter;flour
+2587,tea;grapes;milk
+2588,cookies;eggs;grapes;shampoo;cereal
+2589,juice;shampoo;soap;onion;cereal
+2590,cookies;tomatoes;rice;olive oil;yogurt
+2591,cookies;napkins;tea
+2592,salt;pens;kiwi;detergent;bananas;soap;bread
+2593,detergent;bread;olive oil;cookies
+2594,grapes;apples;eggs;pens;soap
+2595,tea;chocolate
+2596,oranges;pencil;sugar;flour
+2597,tomatoes;eggs;shampoo;cakes;apples;milk;chocolate
+2598,salt;bananas;oranges;pencil;cookies;tomatoes;peanut butter
+2599,milk;potatoes
+2600,detergent;bananas;juice
+2601,cereal;peanut butter;rice;sugar;olive oil;pens
+2602,pens;rice;potatoes
+2603,rice;chocolate;shampoo;toothpaste;juice;soap;tomatoes
+2604,napkins;cereal
+2605,soap;chocolate;bread;salt
+2606,grapes;coffee
+2607,detergent;bananas
+2608,potatoes;pens;grapes;butter;onion;eggs;sugar
+2609,yogurt;olive oil;juice;apples;rice;cookies;bananas
+2610,oranges;cookies;detergent;toothpaste;pens
+2611,shampoo;milk;pencil;sugar;soap;salt
+2612,sugar;detergent
+2613,bread;milk;salt;chocolate;kiwi
+2614,napkins;onion;milk;flour;olive oil
+2615,potatoes;flour;tomatoes
+2616,kiwi;soap;potatoes;shampoo;sugar;juice;cookies
+2617,bread;rice;sugar
+2618,toothpaste;butter;milk;salt
+2619,chocolate;potatoes;bananas;eggs;juice
+2620,rice;apples;potatoes
+2621,bananas;cakes;tomatoes;onion;yogurt;apples;peanut butter
+2622,detergent;tea;onion;soap;shampoo
+2623,toothpaste;bread;shampoo
+2624,butter;olive oil
+2625,coffee;rice;bread;napkins
+2626,toothpaste;kiwi;coffee;pencil;yogurt;eggs
+2627,bread;oranges;soap;rice;cereal;salt
+2628,milk;kiwi
+2629,toothpaste;cookies;peanut butter
+2630,tea;sugar;shampoo
+2631,tomatoes;olive oil;rice;soap;onion
+2632,flour;grapes;onion
+2633,tea;potatoes;peanut butter;pencil;bread;shampoo;grapes
+2634,chocolate;flour;tea;bread;tomatoes;rice
+2635,kiwi;yogurt;flour
+2636,potatoes;pencil;napkins;kiwi;milk;grapes;onion
+2637,eggs;pens;detergent;toothpaste
+2638,milk;sugar;apples;oranges
+2639,sugar;cereal;oranges;juice
+2640,milk;potatoes;detergent;yogurt;cakes
+2641,yogurt;pens;soap;onion;cakes
+2642,oranges;flour;butter;milk
+2643,cookies;potatoes;cereal;shampoo;butter
+2644,apples;cookies;sugar;kiwi
+2645,detergent;flour;coffee;napkins;potatoes;pens;juice
+2646,toothpaste;potatoes;bananas;shampoo;eggs;chocolate
+2647,butter;bananas;eggs;bread
+2648,toothpaste;pencil
+2649,yogurt;napkins;eggs;potatoes;cookies;bread
+2650,tomatoes;chocolate
+2651,napkins;pencil;pens
+2652,kiwi;butter
+2653,butter;bread;salt;napkins;yogurt;cereal;coffee
+2654,tea;tomatoes;apples;kiwi
+2655,napkins;cakes;peanut butter;olive oil;cookies;detergent;cereal
+2656,butter;kiwi;eggs;pens;tea;cakes;olive oil
+2657,eggs;olive oil;grapes;sugar;juice;peanut butter
+2658,kiwi;olive oil;juice;eggs;cookies;rice;peanut butter
+2659,pens;soap;tea;chocolate;grapes;rice;salt
+2660,toothpaste;bananas;soap;pencil;grapes
+2661,rice;grapes;coffee
+2662,peanut butter;pens
+2663,toothpaste;bread
+2664,tea;cakes;butter;shampoo
+2665,salt;toothpaste
+2666,bread;yogurt;kiwi;butter;eggs;pencil;toothpaste
+2667,salt;soap;eggs;rice;detergent;pens;tomatoes
+2668,tomatoes;coffee;tea;flour;salt
+2669,kiwi;tomatoes;soap;salt
+2670,napkins;rice;eggs;onion;kiwi;milk
+2671,napkins;tea;yogurt;soap;flour;rice;eggs
+2672,yogurt;salt;grapes
+2673,onion;sugar
+2674,peanut butter;rice;onion;sugar;tea;bananas
+2675,tomatoes;soap;bread
+2676,coffee;tea;soap
+2677,eggs;kiwi;peanut butter
+2678,tomatoes;salt;cookies;flour;pens;grapes
+2679,potatoes;butter;grapes
+2680,flour;cakes;shampoo;cereal;potatoes
+2681,peanut butter;cakes
+2682,detergent;shampoo
+2683,onion;pens;rice;soap;eggs
+2684,bread;chocolate;soap;detergent;milk;cereal;rice
+2685,cakes;salt;tea;oranges
+2686,milk;salt;pencil;pens;tea;cookies;soap
+2687,milk;kiwi;toothpaste;soap;bread;tea
+2688,salt;kiwi;flour;tea;toothpaste
+2689,juice;toothpaste;shampoo;napkins
+2690,pencil;oranges;detergent;tomatoes;apples;butter
+2691,juice;tea;detergent;potatoes;oranges
+2692,tea;oranges;detergent;chocolate;milk;peanut butter;shampoo
+2693,grapes;napkins;cereal;tea;eggs;oranges;onion
+2694,shampoo;sugar;coffee
+2695,olive oil;pens;potatoes
+2696,salt;apples;sugar;grapes;tea;eggs
+2697,cookies;oranges;pens;yogurt
+2698,onion;cakes;sugar;eggs;toothpaste;tomatoes;pens
+2699,grapes;napkins;cookies
+2700,tomatoes;kiwi;soap;eggs
+2701,eggs;detergent;milk;coffee;rice
+2702,sugar;tea
+2703,pencil;bread;napkins
+2704,rice;bread
+2705,onion;flour;tea;tomatoes;coffee
+2706,kiwi;bread;grapes;juice;chocolate
+2707,yogurt;apples
+2708,apples;olive oil;yogurt;onion;potatoes;napkins
+2709,chocolate;oranges;detergent;tomatoes;kiwi;salt
+2710,napkins;rice;butter;kiwi;olive oil;juice
+2711,potatoes;chocolate;peanut butter;tomatoes;shampoo;flour;tea
+2712,olive oil;potatoes;shampoo
+2713,bananas;cookies
+2714,peanut butter;kiwi;tea;rice
+2715,yogurt;kiwi;cakes;napkins;sugar;oranges
+2716,coffee;toothpaste;napkins;olive oil;butter;pens
+2717,shampoo;cookies;oranges;coffee;cakes
+2718,potatoes;cakes;napkins;onion
+2719,bananas;tea;juice;detergent;kiwi
+2720,tomatoes;salt;toothpaste;bread;peanut butter;shampoo
+2721,soap;onion;potatoes;yogurt;oranges;flour;eggs
+2722,peanut butter;pencil;soap
+2723,eggs;tomatoes;napkins;grapes;kiwi
+2724,detergent;eggs;sugar;napkins
+2725,juice;bananas;onion;tomatoes
+2726,rice;salt;juice;grapes
+2727,sugar;eggs
+2728,tea;juice;pencil
+2729,olive oil;rice;bread;napkins;coffee;tea;grapes
+2730,kiwi;toothpaste;rice
+2731,salt;oranges;cereal
+2732,cereal;apples;bananas;eggs;cookies
+2733,apples;cakes;coffee;rice
+2734,flour;chocolate;soap;bananas;potatoes
+2735,cakes;bread;pencil
+2736,sugar;cereal;detergent;shampoo;salt;chocolate;milk
+2737,apples;pens;eggs;butter;onion
+2738,bread;apples;soap;bananas;shampoo
+2739,flour;oranges;cookies
+2740,yogurt;napkins
+2741,rice;salt
+2742,bread;soap;peanut butter
+2743,peanut butter;olive oil;pencil;napkins;milk;juice
+2744,soap;onion
+2745,napkins;onion
+2746,bananas;detergent;kiwi
+2747,flour;bananas
+2748,rice;tomatoes;oranges;cakes;pencil
+2749,chocolate;shampoo;olive oil;oranges;flour;sugar
+2750,olive oil;onion
+2751,salt;bananas;apples
+2752,coffee;bread;rice
+2753,toothpaste;onion;juice;soap
+2754,potatoes;peanut butter;olive oil;oranges;flour
+2755,onion;coffee;shampoo
+2756,shampoo;oranges
+2757,peanut butter;yogurt;potatoes
+2758,salt;juice;napkins;coffee;bananas;cereal
+2759,grapes;yogurt;chocolate;toothpaste;napkins;rice
+2760,potatoes;kiwi
+2761,flour;apples;onion;napkins;peanut butter;grapes;pens
+2762,cookies;flour;bananas;oranges;grapes
+2763,detergent;eggs;potatoes;coffee;sugar;onion;flour
+2764,cakes;napkins;sugar;milk;rice;salt;flour
+2765,potatoes;toothpaste;chocolate;flour;peanut butter
+2766,rice;eggs;milk;shampoo;tomatoes;olive oil;chocolate
+2767,pencil;sugar
+2768,bananas;toothpaste;pens
+2769,flour;soap;oranges;pens;salt;rice;kiwi
+2770,pens;toothpaste;shampoo;eggs;chocolate
+2771,salt;soap;milk;cereal
+2772,cereal;onion;chocolate
+2773,pens;chocolate;sugar;cereal;soap
+2774,detergent;kiwi;shampoo
+2775,pens;juice;onion;cereal
+2776,yogurt;eggs;pencil;rice
+2777,grapes;cereal;eggs;rice;butter
+2778,potatoes;soap;peanut butter;napkins;toothpaste;kiwi;oranges
+2779,salt;toothpaste;cakes;milk;napkins
+2780,bananas;kiwi;oranges;tomatoes
+2781,apples;juice
+2782,tomatoes;salt;tea;onion
+2783,potatoes;cereal;olive oil;pens;bananas;rice;sugar
+2784,shampoo;detergent;coffee;rice
+2785,sugar;kiwi;yogurt;potatoes
+2786,pens;cookies;yogurt
+2787,detergent;butter;tea;pencil;shampoo;cookies
+2788,potatoes;shampoo
+2789,bananas;milk
+2790,detergent;eggs;yogurt;grapes;chocolate
+2791,rice;shampoo;grapes;napkins;tea
+2792,tomatoes;chocolate;oranges;rice
+2793,sugar;soap;potatoes
+2794,onion;salt
+2795,tomatoes;tea;napkins;grapes
+2796,pens;yogurt;rice;pencil;milk;kiwi
+2797,butter;grapes;cakes;yogurt;shampoo;tomatoes
+2798,cakes;sugar
+2799,shampoo;pencil;coffee;bananas
+2800,toothpaste;tomatoes;coffee;bananas
+2801,apples;grapes;sugar
+2802,onion;detergent;eggs;bananas;butter
+2803,eggs;coffee;rice;soap;bread;pencil;toothpaste
+2804,pens;coffee;milk;tea;bread
+2805,onion;napkins;potatoes;milk;bananas;flour
+2806,tomatoes;salt;pencil;bread;shampoo;juice;apples
+2807,kiwi;cakes;oranges
+2808,chocolate;oranges;potatoes
+2809,cakes;tomatoes;pencil;bananas;apples;chocolate
+2810,coffee;oranges
+2811,toothpaste;coffee;kiwi
+2812,cookies;juice;tea;oranges;kiwi;chocolate
+2813,rice;tomatoes
+2814,tomatoes;apples;cereal;soap;coffee;cookies;kiwi
+2815,tomatoes;eggs
+2816,onion;detergent;napkins;rice
+2817,peanut butter;juice;shampoo;rice;olive oil
+2818,tomatoes;rice
+2819,bread;potatoes;onion
+2820,cookies;oranges;kiwi;tomatoes;pencil;yogurt;eggs
+2821,yogurt;soap;peanut butter
+2822,pens;peanut butter;kiwi;cereal;milk;olive oil
+2823,cakes;apples;bread;peanut butter
+2824,oranges;juice;napkins
+2825,juice;pencil;tomatoes;shampoo
+2826,tomatoes;salt
+2827,chocolate;oranges;peanut butter;milk;olive oil;pens
+2828,shampoo;tea;detergent;chocolate
+2829,sugar;napkins;salt;onion;flour
+2830,yogurt;bananas;tea;rice;cereal;flour
+2831,salt;soap;toothpaste;shampoo;potatoes
+2832,eggs;pens;grapes
+2833,salt;eggs;potatoes
+2834,chocolate;apples;pencil;rice;potatoes
+2835,rice;cereal;juice;apples;onion;cakes
+2836,butter;coffee;onion
+2837,napkins;soap
+2838,sugar;butter;flour
+2839,napkins;pencil;yogurt
+2840,juice;tea;kiwi;oranges;salt
+2841,detergent;peanut butter;oranges;cookies;bread;cakes;soap
+2842,pens;napkins;apples
+2843,yogurt;coffee;sugar;pencil
+2844,cookies;milk;bread;potatoes;yogurt;chocolate
+2845,milk;chocolate;detergent;oranges
+2846,shampoo;chocolate
+2847,cakes;cereal;salt;flour;detergent
+2848,coffee;onion;milk;salt
+2849,flour;cakes;pens;detergent;cookies;napkins;peanut butter
+2850,grapes;salt;olive oil;kiwi;eggs
+2851,salt;tomatoes;napkins
+2852,butter;oranges;shampoo;eggs;onion
+2853,potatoes;chocolate;juice;detergent
+2854,flour;apples;salt
+2855,detergent;potatoes;butter;salt
+2856,salt;onion;cookies;peanut butter;juice
+2857,onion;peanut butter;cookies;soap;olive oil;cereal;tea
+2858,sugar;bread
+2859,potatoes;peanut butter;grapes
+2860,pens;tomatoes
+2861,toothpaste;potatoes;shampoo;eggs
+2862,yogurt;shampoo;eggs;olive oil;juice;milk
+2863,butter;onion;toothpaste;peanut butter;yogurt
+2864,milk;salt;detergent;apples;juice;grapes
+2865,detergent;chocolate;potatoes;salt
+2866,eggs;grapes;salt;cereal;detergent;yogurt;onion
+2867,salt;bananas;peanut butter
+2868,bananas;olive oil;juice;milk
+2869,oranges;milk;potatoes;kiwi;yogurt
+2870,cakes;tomatoes;eggs;rice;toothpaste;yogurt;bananas
+2871,coffee;oranges;napkins;soap;juice
+2872,pens;soap;tea;oranges;butter;olive oil
+2873,cereal;shampoo
+2874,cookies;bread;flour
+2875,juice;grapes;flour
+2876,bananas;flour;potatoes;milk;olive oil
+2877,salt;eggs;soap;grapes
+2878,peanut butter;napkins;apples;coffee;tea;shampoo
+2879,oranges;bananas;onion;cereal;flour
+2880,napkins;apples;rice;tea;bananas;peanut butter
+2881,olive oil;yogurt;soap;cereal
+2882,apples;peanut butter;butter
+2883,chocolate;eggs;tomatoes;pens;kiwi;napkins
+2884,bread;coffee;kiwi;yogurt;shampoo;milk
+2885,cookies;peanut butter;shampoo;grapes;olive oil
+2886,cereal;rice;cookies;bananas;eggs
+2887,cereal;onion
+2888,sugar;cereal;shampoo;peanut butter;pens;potatoes
+2889,toothpaste;juice;flour;bread
+2890,olive oil;grapes;sugar
+2891,cereal;rice
+2892,cereal;napkins;eggs;salt
+2893,soap;yogurt;napkins;detergent;peanut butter
+2894,cakes;oranges;sugar;juice;shampoo;apples;pencil
+2895,juice;apples;detergent;milk;napkins;potatoes
+2896,eggs;yogurt;kiwi;juice;chocolate
+2897,onion;pencil;chocolate
+2898,butter;pens
+2899,grapes;sugar;eggs;olive oil;shampoo;juice;potatoes
+2900,bread;toothpaste;cereal
+2901,grapes;detergent
+2902,apples;cookies;tomatoes
+2903,cakes;toothpaste;pencil;shampoo;peanut butter;tea;butter
+2904,butter;grapes;detergent;oranges
+2905,potatoes;cereal;bananas;onion;coffee;toothpaste;apples
+2906,napkins;pencil
+2907,pens;rice;apples;bananas;oranges
+2908,peanut butter;detergent;onion;butter
+2909,butter;onion
+2910,shampoo;apples;bananas
+2911,pencil;napkins;soap;cookies;tea;olive oil
+2912,juice;peanut butter;rice;bananas;sugar;detergent;flour
+2913,yogurt;chocolate;potatoes;salt;tea
+2914,rice;soap;chocolate;toothpaste;tea
+2915,potatoes;napkins;pens;chocolate
+2916,tomatoes;bread;milk;coffee;tea
+2917,toothpaste;shampoo;eggs;butter;pencil;coffee;tomatoes
+2918,coffee;olive oil
+2919,potatoes;coffee;butter;salt;pens;chocolate;tomatoes
+2920,milk;cereal;pens;tea;onion;bananas
+2921,cookies;olive oil;bananas;kiwi;apples
+2922,yogurt;flour;coffee;napkins
+2923,salt;chocolate
+2924,soap;olive oil;cookies;peanut butter;rice;chocolate
+2925,kiwi;flour;toothpaste;potatoes;onion
+2926,apples;kiwi;cakes;oranges;bananas;tea;potatoes
+2927,soap;sugar;cereal
+2928,kiwi;onion;apples;detergent;toothpaste;potatoes
+2929,cereal;rice
+2930,oranges;olive oil;milk;flour;juice;cereal;rice
+2931,soap;apples;tea;sugar;potatoes;yogurt;onion
+2932,cereal;sugar;pencil;detergent
+2933,bananas;napkins;grapes;cakes;yogurt;rice;apples
+2934,detergent;eggs;kiwi;pencil
+2935,tea;napkins;apples;onion;grapes;cakes;eggs
+2936,detergent;bread
+2937,tomatoes;olive oil;cookies;chocolate;pens;tea
+2938,kiwi;toothpaste;onion;chocolate;yogurt;cookies;sugar
+2939,bananas;salt;sugar;shampoo;cereal
+2940,pens;kiwi;apples;coffee;oranges;peanut butter
+2941,grapes;shampoo;bananas;bread;tomatoes;flour;milk
+2942,eggs;juice;milk;peanut butter;napkins;tea;bread
+2943,rice;shampoo;peanut butter;yogurt;bananas
+2944,coffee;pencil;cookies;potatoes
+2945,onion;detergent
+2946,cakes;apples;eggs;rice;bananas
+2947,rice;flour;coffee;napkins
+2948,shampoo;cookies;kiwi
+2949,milk;grapes;shampoo
+2950,chocolate;pencil;grapes;kiwi;pens
+2951,bananas;butter;pencil;oranges;tomatoes
+2952,tea;detergent;soap;olive oil
+2953,milk;cookies;grapes
+2954,tomatoes;rice;onion
+2955,chocolate;bread;detergent;oranges;rice
+2956,pens;cookies;butter;grapes;napkins;kiwi
+2957,sugar;milk;soap
+2958,chocolate;juice
+2959,apples;cookies;bread;coffee;milk;peanut butter
+2960,apples;sugar;shampoo;soap;oranges;yogurt
+2961,detergent;cereal;onion
+2962,detergent;olive oil;cakes;kiwi;juice;tomatoes;onion
+2963,oranges;potatoes;coffee;olive oil;pencil;bread
+2964,oranges;detergent;olive oil
+2965,yogurt;cakes
+2966,pens;chocolate;detergent;cookies;olive oil;milk;cereal
+2967,pencil;bananas
+2968,soap;grapes;onion;chocolate
+2969,shampoo;flour;milk;detergent;olive oil
+2970,yogurt;cakes;peanut butter;napkins;oranges
+2971,grapes;pens;oranges;tomatoes;potatoes
+2972,bananas;chocolate;milk;onion;detergent;flour;salt
+2973,sugar;salt;detergent;olive oil
+2974,eggs;milk;detergent;coffee;tomatoes
+2975,napkins;coffee;butter;bread;sugar;salt;bananas
+2976,butter;peanut butter;olive oil;flour
+2977,salt;cakes;onion;tea
+2978,onion;coffee;pens;butter
+2979,pencil;onion;milk;peanut butter
+2980,chocolate;salt;cereal
+2981,rice;cookies;peanut butter;cakes;cereal
+2982,coffee;rice;shampoo;salt;soap;cakes
+2983,cakes;soap;detergent;butter
+2984,toothpaste;coffee;oranges;milk;sugar;bananas
+2985,cookies;eggs;soap;apples
+2986,onion;bread
+2987,toothpaste;butter;olive oil;pens;onion
+2988,juice;pencil;napkins;kiwi
+2989,pencil;eggs;salt;cookies;milk
+2990,cookies;chocolate;juice
+2991,oranges;butter
+2992,butter;milk
+2993,pencil;cereal
+2994,juice;apples
+2995,coffee;butter
+2996,pencil;cakes;flour;butter
+2997,tea;cakes;oranges;apples;butter;peanut butter
+2998,flour;yogurt;eggs;cereal
+2999,grapes;yogurt;bananas;peanut butter;chocolate;sugar
+3000,napkins;cookies;kiwi;cakes
+3001,flour;cakes;toothpaste;yogurt;rice
+3002,butter;kiwi;apples
+3003,sugar;pencil;eggs
+3004,cereal;flour;kiwi;tomatoes;pens
+3005,shampoo;olive oil;oranges;chocolate;napkins;onion;sugar
+3006,grapes;butter;cereal;napkins;pencil
+3007,coffee;salt;apples;cakes;bread;sugar
+3008,shampoo;cereal;chocolate;potatoes;oranges
+3009,eggs;yogurt;soap;onion;kiwi;shampoo
+3010,tea;soap;butter;cakes
+3011,peanut butter;flour;onion;sugar;shampoo;cakes;apples
+3012,cakes;oranges;flour;tea;soap;apples;onion
+3013,tea;chocolate;onion;apples;cakes;cereal
+3014,shampoo;pencil;bananas;cereal;milk;rice;cookies
+3015,chocolate;bread;detergent;yogurt
+3016,flour;onion;bananas
+3017,chocolate;juice;flour;tomatoes;yogurt
+3018,juice;bread
+3019,bread;shampoo
+3020,peanut butter;potatoes;pencil
+3021,rice;flour;pens;sugar
+3022,oranges;flour;tomatoes
+3023,juice;rice;potatoes;butter;cakes;cereal
+3024,cakes;grapes;onion
+3025,oranges;olive oil;eggs;juice;milk;pens
+3026,cookies;toothpaste;chocolate
+3027,rice;potatoes;butter;toothpaste;tomatoes;cookies;soap
+3028,salt;yogurt
+3029,olive oil;grapes;juice;soap
+3030,yogurt;juice;detergent
+3031,milk;cakes;chocolate
+3032,butter;toothpaste;cookies;flour;tomatoes;tea
+3033,cakes;yogurt
+3034,bananas;oranges;onion;napkins;apples;potatoes;flour
+3035,napkins;soap;butter;detergent;chocolate;onion
+3036,toothpaste;tea;soap;sugar;peanut butter;napkins
+3037,soap;bread;napkins;toothpaste;cereal;tomatoes;detergent
+3038,milk;bananas;cereal;oranges;chocolate
+3039,cookies;pens;eggs;sugar
+3040,grapes;salt;napkins;onion
+3041,cereal;pencil
+3042,potatoes;shampoo;pencil;peanut butter;soap;eggs;chocolate
+3043,sugar;soap;cakes
+3044,grapes;flour;shampoo
+3045,napkins;soap;toothpaste;chocolate
+3046,toothpaste;milk;pens
+3047,cakes;potatoes
+3048,kiwi;peanut butter;rice;grapes;detergent;flour;onion
+3049,pencil;oranges;sugar;potatoes;rice;pens;bread
+3050,detergent;bananas;toothpaste;pencil;olive oil;cakes
+3051,tea;coffee
+3052,sugar;olive oil;yogurt
+3053,kiwi;potatoes
+3054,butter;juice;apples;bread;kiwi;salt;toothpaste
+3055,grapes;shampoo;soap;coffee
+3056,toothpaste;tea;sugar;yogurt;potatoes;rice
+3057,cookies;shampoo
+3058,pencil;olive oil;bananas;oranges;potatoes
+3059,coffee;shampoo;butter;potatoes;onion
+3060,eggs;butter
+3061,flour;bananas;sugar;apples;milk
+3062,pens;onion;potatoes
+3063,bread;cereal;apples;oranges;yogurt
+3064,bread;detergent
+3065,flour;toothpaste
+3066,napkins;cookies;tomatoes
+3067,toothpaste;coffee;sugar;chocolate;rice;pencil;cakes
+3068,coffee;salt;potatoes;butter
+3069,cakes;flour;pens;apples;cereal;olive oil
+3070,coffee;olive oil;sugar;napkins
+3071,soap;juice;detergent;peanut butter;potatoes;olive oil;milk
+3072,potatoes;flour
+3073,cakes;toothpaste;potatoes
+3074,olive oil;chocolate
+3075,soap;pens;coffee;sugar;tomatoes
+3076,yogurt;detergent;oranges
+3077,juice;pencil;soap;potatoes
+3078,detergent;grapes;coffee;chocolate;cookies
+3079,cakes;napkins;soap;cereal
+3080,pencil;cakes;peanut butter;yogurt;coffee
+3081,salt;eggs;tomatoes
+3082,tomatoes;apples
+3083,pencil;napkins;tomatoes
+3084,potatoes;juice;apples;cakes;tomatoes;grapes;oranges
+3085,chocolate;tea;tomatoes;bananas
+3086,sugar;coffee;kiwi
+3087,tomatoes;bananas
+3088,apples;onion;soap;tomatoes;shampoo;napkins
+3089,kiwi;butter;peanut butter;oranges;milk
+3090,toothpaste;bread
+3091,olive oil;kiwi;napkins
+3092,flour;peanut butter;grapes;onion;pencil;yogurt
+3093,yogurt;detergent;soap;flour;rice;bread;potatoes
+3094,soap;pens;cakes;sugar
+3095,salt;cereal;cookies;flour;oranges;tea;shampoo
+3096,tomatoes;juice
+3097,cookies;potatoes;juice;flour;oranges;shampoo
+3098,oranges;peanut butter;eggs;yogurt;tea;toothpaste;napkins
+3099,detergent;pencil;pens
+3100,sugar;cereal
+3101,bananas;chocolate;yogurt;soap;onion
+3102,oranges;juice;bananas;bread
+3103,rice;napkins;toothpaste;soap;salt
+3104,milk;salt;pencil;rice;apples
+3105,bread;pens;tomatoes
+3106,coffee;potatoes;bananas;milk;cakes
+3107,napkins;butter;toothpaste;kiwi;chocolate;tomatoes
+3108,bananas;apples;chocolate;coffee;kiwi
+3109,olive oil;onion;cereal;potatoes;coffee
+3110,olive oil;butter;bread;onion;shampoo;detergent;peanut butter
+3111,onion;pencil;eggs;chocolate;soap;grapes
+3112,peanut butter;toothpaste;bananas;coffee;grapes
+3113,oranges;detergent;pens;toothpaste;flour
+3114,flour;shampoo;bread;sugar
+3115,bananas;flour;coffee;shampoo;peanut butter;milk;onion
+3116,apples;flour;bananas;shampoo
+3117,soap;apples;pencil
+3118,oranges;butter
+3119,pens;grapes;bread;pencil;chocolate;soap
+3120,sugar;juice;cakes;peanut butter;kiwi;butter;coffee
+3121,peanut butter;cookies;pencil;napkins;onion;butter
+3122,coffee;rice;butter;salt;kiwi;apples;olive oil
+3123,tomatoes;coffee;cakes;detergent;grapes
+3124,milk;bread
+3125,peanut butter;bread;pens
+3126,pencil;cereal;yogurt
+3127,kiwi;peanut butter;sugar;oranges
+3128,potatoes;cookies
+3129,cakes;oranges
+3130,rice;cookies;shampoo;coffee
+3131,olive oil;toothpaste
+3132,cookies;detergent;coffee;sugar;milk;soap
+3133,tea;tomatoes
+3134,rice;eggs;onion;bread
+3135,grapes;tomatoes;bananas;napkins;oranges;yogurt;toothpaste
+3136,onion;detergent;toothpaste;eggs;salt;rice
+3137,coffee;eggs
+3138,kiwi;olive oil;soap;cereal;yogurt
+3139,detergent;oranges;flour
+3140,napkins;toothpaste;onion;yogurt;salt;rice;kiwi
+3141,bananas;shampoo
+3142,apples;tea;grapes
+3143,chocolate;coffee;cereal;olive oil;pens;apples;yogurt
+3144,tomatoes;milk;kiwi;cookies;detergent
+3145,coffee;cookies;bananas;salt;cakes
+3146,pencil;peanut butter;bananas;kiwi
+3147,sugar;milk
+3148,bread;eggs;oranges;milk;yogurt;pencil;cereal
+3149,chocolate;oranges
+3150,sugar;pens;grapes;peanut butter;salt
+3151,tomatoes;milk;kiwi
+3152,cookies;kiwi;bread;coffee
+3153,cookies;rice;cereal;tomatoes
+3154,juice;butter;sugar
+3155,tomatoes;sugar;toothpaste;butter;coffee;potatoes
+3156,soap;bananas
+3157,pens;tomatoes;coffee;butter
+3158,juice;milk;bananas;olive oil;peanut butter;apples;toothpaste
+3159,bananas;detergent;chocolate;soap;kiwi
+3160,yogurt;cakes;tomatoes;coffee
+3161,rice;kiwi;grapes
+3162,cereal;milk;yogurt;olive oil;cakes
+3163,apples;butter;onion;napkins;cakes
+3164,pencil;cereal
+3165,eggs;onion;pens;bread;potatoes;rice
+3166,soap;pens;peanut butter
+3167,cakes;cookies;pens;bread
+3168,napkins;apples;juice;onion;peanut butter;kiwi;chocolate
+3169,milk;rice;cookies;cakes
+3170,bananas;flour;cakes
+3171,bananas;oranges;coffee;onion;napkins;kiwi;milk
+3172,apples;cereal
+3173,cookies;apples;cereal;juice;yogurt;kiwi;flour
+3174,potatoes;cookies;chocolate
+3175,pens;eggs;butter;shampoo
+3176,onion;potatoes;kiwi;olive oil;rice;detergent;coffee
+3177,cakes;napkins;olive oil;milk;cereal;grapes;toothpaste
+3178,pencil;toothpaste
+3179,juice;toothpaste;peanut butter
+3180,pens;cookies;peanut butter
+3181,peanut butter;butter;rice
+3182,apples;detergent;oranges;toothpaste;tea
+3183,flour;shampoo;onion;butter
+3184,eggs;butter;yogurt;detergent;flour
+3185,milk;grapes;cakes;napkins;eggs
+3186,olive oil;potatoes;cookies
+3187,chocolate;bread;kiwi;butter
+3188,sugar;soap;apples;bananas;peanut butter;juice;cookies
+3189,bread;cakes;rice;napkins
+3190,apples;potatoes;detergent;olive oil;yogurt;eggs
+3191,pens;coffee;apples;cakes;kiwi;tomatoes;juice
+3192,sugar;pencil;milk;tea;soap;detergent;peanut butter
+3193,soap;tea;kiwi
+3194,detergent;onion;cakes;salt;bananas
+3195,tea;detergent;cakes;coffee
+3196,flour;pencil;grapes;oranges;kiwi
+3197,milk;flour;cereal;pencil;grapes;kiwi
+3198,pens;oranges;kiwi;shampoo;milk
+3199,cereal;chocolate;kiwi
+3200,bread;apples
+3201,pens;cookies;milk;salt;peanut butter;flour
+3202,tomatoes;coffee;cakes
+3203,cookies;tomatoes;soap;milk;detergent;sugar
+3204,cakes;bananas;olive oil;tea;milk;butter
+3205,apples;napkins;cereal
+3206,coffee;kiwi;tomatoes;olive oil;flour
+3207,butter;apples;cereal;tea;rice;shampoo
+3208,yogurt;grapes;kiwi;butter;onion
+3209,yogurt;flour;bananas
+3210,rice;onion;pens;kiwi;toothpaste;oranges;potatoes
+3211,juice;shampoo;flour;milk;bananas
+3212,cereal;chocolate
+3213,sugar;pencil;oranges;tea;bananas;pens;tomatoes
+3214,eggs;apples;yogurt;chocolate;bananas
+3215,rice;pens;juice;bananas;eggs;tomatoes
+3216,oranges;potatoes;pens
+3217,pencil;flour
+3218,yogurt;butter;tea;bread;detergent;napkins;coffee
+3219,coffee;shampoo;tomatoes;pens;sugar;butter
+3220,cereal;shampoo;olive oil;tomatoes;sugar;pens;soap
+3221,butter;salt;bread;cereal;grapes
+3222,soap;peanut butter;eggs
+3223,toothpaste;tomatoes;pencil;peanut butter;juice;soap
+3224,milk;juice;cookies;chocolate;tea;butter;napkins
+3225,detergent;soap;toothpaste;salt;peanut butter;tea
+3226,milk;juice;bread;tomatoes;butter;cookies;soap
+3227,cakes;juice;olive oil
+3228,oranges;cakes;butter;detergent;bananas;yogurt
+3229,tomatoes;bread;milk;yogurt;butter;oranges
+3230,bananas;pencil;napkins
+3231,milk;flour;tomatoes
+3232,potatoes;shampoo;bananas;cereal;chocolate;salt
+3233,tomatoes;salt;flour;olive oil;coffee;milk
+3234,grapes;bananas;apples;tomatoes
+3235,yogurt;tomatoes;onion;detergent
+3236,shampoo;chocolate
+3237,grapes;potatoes
+3238,salt;eggs;cookies;olive oil
+3239,peanut butter;olive oil;milk;tomatoes;bananas;butter;pens
+3240,detergent;peanut butter;napkins
+3241,oranges;potatoes;tomatoes;pens;eggs;napkins
+3242,bananas;salt;onion;cakes;grapes;bread
+3243,toothpaste;grapes;bananas;juice;apples
+3244,bread;cakes;onion;rice;salt;yogurt;bananas
+3245,butter;potatoes;soap;eggs
+3246,cookies;cakes;cereal;oranges;soap;milk
+3247,flour;salt;rice;coffee;grapes;detergent
+3248,yogurt;eggs;bananas;detergent
+3249,pens;cereal
+3250,pens;toothpaste;tea
+3251,rice;milk
+3252,juice;butter
+3253,cookies;soap
+3254,cookies;apples;bread;rice
+3255,detergent;napkins;shampoo;toothpaste;cookies;bread
+3256,eggs;onion;oranges
+3257,butter;cakes;potatoes;oranges;soap
+3258,peanut butter;yogurt;bread;olive oil;salt;coffee
+3259,sugar;pens;potatoes;tomatoes;apples;cookies;cereal
+3260,milk;chocolate;napkins;detergent;pencil;bread;cereal
+3261,kiwi;sugar;bread
+3262,toothpaste;bananas
+3263,peanut butter;eggs;yogurt;tea;chocolate
+3264,bananas;rice;soap;flour
+3265,chocolate;coffee;butter;napkins;tomatoes;potatoes;kiwi
+3266,grapes;tomatoes;cakes;onion;potatoes;cereal;soap
+3267,peanut butter;olive oil;grapes;flour
+3268,kiwi;chocolate;cookies;butter;tea;bread;pencil
+3269,butter;coffee;milk
+3270,juice;coffee;bananas;peanut butter;cakes
+3271,cereal;tea;onion
+3272,bread;salt;shampoo;tea;juice;onion
+3273,flour;potatoes;soap;juice;bananas;toothpaste;tea
+3274,toothpaste;olive oil;chocolate;shampoo;soap;juice
+3275,juice;onion;cookies;peanut butter;bananas;salt
+3276,onion;napkins;kiwi;oranges;olive oil;salt;yogurt
+3277,bananas;pens;oranges
+3278,olive oil;napkins
+3279,eggs;kiwi;toothpaste;olive oil
+3280,apples;rice;cereal;grapes;kiwi
+3281,pens;cookies;milk;apples
+3282,eggs;coffee;detergent
+3283,napkins;bread;chocolate;potatoes;pens;sugar;juice
+3284,pens;apples;shampoo;sugar;coffee;kiwi;onion
+3285,tea;milk;juice;oranges
+3286,oranges;cookies;peanut butter;kiwi
+3287,peanut butter;flour;cookies;onion;bread;cakes
+3288,grapes;milk;pens;onion
+3289,yogurt;cereal;olive oil
+3290,oranges;cakes;shampoo
+3291,coffee;pens;oranges;tomatoes
+3292,bananas;peanut butter;milk;pens
+3293,bananas;chocolate;salt;apples;eggs;soap;yogurt
+3294,napkins;soap;pencil
+3295,bananas;kiwi;cookies;milk;pencil
+3296,bananas;onion
+3297,cereal;chocolate
+3298,soap;tomatoes;grapes;eggs;potatoes
+3299,toothpaste;oranges;yogurt;chocolate;kiwi;juice;tomatoes
+3300,bread;coffee;tea
+3301,pencil;olive oil
+3302,rice;pencil;peanut butter;juice;cakes;salt
+3303,pencil;potatoes;cereal;bread;peanut butter
+3304,bananas;cookies;napkins;potatoes;shampoo;butter;apples
+3305,shampoo;onion;yogurt;potatoes;cookies;cakes
+3306,milk;pens;grapes;kiwi;cookies;salt;rice
+3307,cookies;juice;napkins;coffee;rice;flour
+3308,grapes;juice;bread;rice;peanut butter;shampoo;tea
+3309,peanut butter;rice
+3310,shampoo;bread
+3311,yogurt;soap;eggs;sugar;tea;peanut butter
+3312,pens;eggs;pencil;napkins;coffee;potatoes
+3313,toothpaste;tomatoes;shampoo;bread;potatoes;oranges
+3314,chocolate;eggs;salt;peanut butter;cookies;oranges
+3315,kiwi;peanut butter;grapes;olive oil
+3316,onion;rice;kiwi;flour
+3317,potatoes;pencil;soap;juice
+3318,grapes;detergent;potatoes;soap;cookies
+3319,pens;grapes;shampoo;rice;cereal
+3320,flour;salt;chocolate;cakes
+3321,milk;grapes;pens;detergent;potatoes;toothpaste
+3322,tea;pens
+3323,cookies;potatoes;shampoo;tea;peanut butter;sugar;cereal
+3324,grapes;potatoes;soap;tea
+3325,potatoes;pencil;coffee;milk;bananas;soap
+3326,eggs;olive oil;rice;cereal;salt;bananas
+3327,apples;detergent;pencil
+3328,potatoes;onion
+3329,salt;coffee;toothpaste;eggs;juice;milk
+3330,butter;soap;potatoes
+3331,sugar;olive oil;butter
+3332,bananas;grapes;pens;tomatoes;cakes;eggs;cookies
+3333,apples;olive oil
+3334,soap;eggs;oranges;juice;cookies
+3335,olive oil;onion;oranges;tomatoes;coffee
+3336,juice;oranges
+3337,juice;butter;tomatoes;peanut butter;oranges
+3338,salt;juice;flour;cereal;eggs;tomatoes;olive oil
+3339,onion;shampoo;salt;cereal;detergent;oranges
+3340,chocolate;flour
+3341,butter;olive oil;apples;shampoo;cakes;flour;pencil
+3342,peanut butter;soap;tomatoes;grapes;tea;flour
+3343,soap;pens;milk
+3344,milk;tea;apples;butter;soap;bananas
+3345,napkins;detergent;toothpaste;onion;grapes;tomatoes;peanut butter
+3346,oranges;bread;apples;onion;napkins;coffee;butter
+3347,oranges;onion;toothpaste;flour
+3348,milk;salt
+3349,yogurt;onion;tea;soap
+3350,toothpaste;tomatoes
+3351,apples;cereal;yogurt;kiwi;tomatoes
+3352,yogurt;apples;onion;juice;cookies;eggs
+3353,cakes;olive oil;salt;milk;toothpaste
+3354,tea;eggs;cookies;onion;cereal
+3355,oranges;peanut butter;sugar;bread;juice
+3356,yogurt;salt;grapes;oranges;pencil;onion;potatoes
+3357,bananas;kiwi;cereal;milk;potatoes;grapes
+3358,shampoo;cereal;bread
+3359,soap;detergent
+3360,kiwi;potatoes;shampoo;flour;chocolate;soap
+3361,olive oil;yogurt;rice;oranges;apples
+3362,tomatoes;napkins;rice
+3363,onion;bread
+3364,pens;yogurt;peanut butter;butter;napkins;chocolate
+3365,shampoo;flour;pencil;cakes;cookies
+3366,rice;salt;cereal;apples;yogurt;cookies
+3367,shampoo;grapes;cakes;soap;tea;peanut butter
+3368,pencil;soap;coffee;toothpaste;juice;flour
+3369,juice;soap;napkins;cakes;potatoes
+3370,chocolate;apples
+3371,potatoes;tomatoes;yogurt;rice;flour
+3372,tea;salt;coffee;tomatoes;bananas;onion;detergent
+3373,chocolate;apples;eggs;yogurt;butter;flour;juice
+3374,bread;soap;peanut butter;oranges;chocolate;bananas;olive oil
+3375,rice;oranges;peanut butter;napkins;yogurt;detergent;onion
+3376,bananas;butter;cakes;pencil;peanut butter
+3377,grapes;yogurt;oranges;shampoo;olive oil;pencil
+3378,bananas;flour;pencil;bread
+3379,peanut butter;milk;potatoes;shampoo;sugar;yogurt
+3380,olive oil;oranges;salt;bananas;potatoes;rice;flour
+3381,olive oil;toothpaste;detergent;soap;eggs;grapes;tea
+3382,shampoo;tomatoes;rice;toothpaste;napkins;cookies;butter
+3383,shampoo;eggs;detergent;onion;rice
+3384,shampoo;butter
+3385,oranges;toothpaste;napkins;eggs;potatoes
+3386,pencil;napkins;tea;olive oil;oranges;pens
+3387,salt;onion;napkins
+3388,bananas;salt;coffee;bread;apples;onion;napkins
+3389,cakes;chocolate;juice
+3390,butter;grapes;coffee;shampoo;pencil;rice;eggs
+3391,eggs;coffee;toothpaste;bananas;grapes
+3392,cookies;yogurt;milk;shampoo;butter;tomatoes;eggs
+3393,coffee;chocolate;milk;detergent;tomatoes;bread;onion
+3394,soap;onion;milk;tea;peanut butter
+3395,cakes;milk;butter
+3396,flour;onion;kiwi;coffee;soap
+3397,bread;tomatoes;salt
+3398,coffee;detergent;rice
+3399,eggs;yogurt;soap;flour
+3400,flour;coffee;bread;sugar;soap;napkins;rice
+3401,flour;olive oil
+3402,soap;chocolate
+3403,grapes;napkins;bread;eggs
+3404,salt;grapes;sugar;yogurt;eggs;cakes
+3405,peanut butter;bread;cookies;apples;kiwi;potatoes;salt
+3406,cookies;oranges;toothpaste;pens;juice;cakes
+3407,detergent;yogurt;grapes;kiwi;bread;pens
+3408,coffee;cakes;milk;soap;grapes;bananas;pens
+3409,cereal;soap;sugar;tomatoes
+3410,peanut butter;toothpaste;kiwi;salt
+3411,onion;kiwi;cereal;rice
+3412,cereal;pens;detergent;kiwi
+3413,pencil;shampoo;salt
+3414,grapes;butter
+3415,kiwi;peanut butter;tomatoes
+3416,tea;rice
+3417,eggs;cookies;detergent;juice;milk
+3418,apples;butter;chocolate;milk;cakes
+3419,tea;soap;tomatoes;shampoo;oranges;yogurt
+3420,pencil;pens;grapes;yogurt;olive oil;eggs
+3421,olive oil;pens;soap;eggs;flour;butter
+3422,butter;sugar;yogurt;milk;napkins
+3423,coffee;olive oil;chocolate;shampoo;napkins;milk;butter
+3424,coffee;pencil;detergent;rice;soap;napkins;yogurt
+3425,peanut butter;rice;bread;oranges;potatoes;sugar;juice
+3426,pencil;coffee
+3427,milk;apples
+3428,bananas;potatoes
+3429,chocolate;flour;oranges;cakes
+3430,cookies;salt;oranges
+3431,apples;salt;coffee
+3432,bananas;cereal;pencil;rice;kiwi
+3433,sugar;peanut butter;eggs;napkins
+3434,napkins;flour;pencil
+3435,shampoo;peanut butter;pens;potatoes;apples
+3436,chocolate;olive oil;yogurt
+3437,peanut butter;cereal;oranges;rice
+3438,kiwi;milk;olive oil;pens;bananas;oranges;detergent
+3439,potatoes;apples;salt;olive oil;sugar;bananas
+3440,eggs;apples
+3441,cakes;pens
+3442,napkins;yogurt;cereal;toothpaste
+3443,grapes;yogurt;detergent;soap
+3444,tomatoes;toothpaste;olive oil;soap;detergent;rice
+3445,toothpaste;salt;bread;chocolate;butter
+3446,milk;eggs;potatoes;bananas;salt
+3447,tomatoes;olive oil;toothpaste
+3448,cakes;kiwi;soap;juice;rice
+3449,shampoo;cookies;salt;cakes;tomatoes;bananas;flour
+3450,cereal;onion;flour;soap;tea;chocolate;kiwi
+3451,rice;grapes;yogurt;tomatoes;toothpaste;oranges
+3452,cereal;pens;shampoo;tomatoes;juice;chocolate
+3453,salt;oranges;sugar;cakes;potatoes
+3454,yogurt;salt;chocolate
+3455,cakes;cereal;yogurt;butter;potatoes;milk;napkins
+3456,napkins;toothpaste
+3457,napkins;flour;tomatoes;soap;onion;potatoes;cookies
+3458,coffee;bread
+3459,napkins;cookies;rice;shampoo
+3460,shampoo;apples;tomatoes;peanut butter;detergent;flour
+3461,yogurt;juice
+3462,cakes;toothpaste;napkins;cookies
+3463,napkins;salt;milk
+3464,cakes;milk;oranges;apples;soap;coffee
+3465,milk;chocolate
+3466,juice;onion;rice;bananas;bread
+3467,napkins;toothpaste;bread;detergent;olive oil;pencil
+3468,shampoo;tea;coffee;kiwi;napkins;chocolate
+3469,chocolate;tea;tomatoes;cookies;salt;butter;onion
+3470,bananas;onion
+3471,butter;sugar
+3472,eggs;tomatoes;salt
+3473,toothpaste;oranges
+3474,yogurt;cereal;tomatoes;grapes
+3475,yogurt;tea;grapes
+3476,sugar;onion
+3477,butter;olive oil;onion;juice;apples
+3478,pens;detergent;bananas;kiwi;coffee;peanut butter
+3479,tomatoes;cookies;potatoes;soap;juice
+3480,potatoes;olive oil;juice;kiwi;tomatoes;detergent;coffee
+3481,toothpaste;pens;flour;eggs;coffee;oranges;grapes
+3482,tomatoes;cookies
+3483,eggs;soap
+3484,milk;rice
+3485,cookies;bananas
+3486,milk;coffee;shampoo;cakes;onion
+3487,cereal;bananas;potatoes;peanut butter;kiwi;olive oil
+3488,coffee;cereal;apples;rice;toothpaste
+3489,sugar;kiwi;oranges;eggs;soap;potatoes;tomatoes
+3490,tomatoes;peanut butter
+3491,soap;milk
+3492,apples;salt;milk;potatoes
+3493,peanut butter;eggs;oranges;apples;pens;shampoo
+3494,onion;chocolate;detergent;rice;napkins;olive oil
+3495,apples;cereal
+3496,tea;milk;eggs;olive oil;peanut butter;cakes;pens
+3497,kiwi;flour
+3498,cookies;potatoes;butter;onion;pencil
+3499,salt;chocolate;eggs;sugar
+3500,cereal;grapes;bread
+3501,potatoes;grapes
+3502,detergent;juice;pencil
+3503,chocolate;yogurt
+3504,flour;napkins;butter;juice;yogurt
+3505,juice;shampoo;chocolate;detergent;bananas;cereal
+3506,grapes;pens;flour;milk;peanut butter
+3507,kiwi;coffee;yogurt;milk;pencil;tomatoes
+3508,apples;flour;tea;detergent;pencil;potatoes;grapes
+3509,juice;cookies;grapes
+3510,chocolate;soap;detergent;cakes;peanut butter;eggs
+3511,shampoo;chocolate;cereal;olive oil;soap;potatoes;sugar
+3512,chocolate;shampoo
+3513,tea;chocolate;potatoes;cereal;pens;tomatoes
+3514,bread;detergent;kiwi
+3515,bread;toothpaste;pencil
+3516,cookies;bananas
+3517,juice;cookies;soap;detergent;bread;olive oil
+3518,cereal;grapes
+3519,pens;flour;juice;napkins;onion;milk;eggs
+3520,napkins;yogurt
+3521,bananas;apples;kiwi;chocolate;shampoo
+3522,potatoes;grapes
+3523,kiwi;coffee;tea;grapes;flour;bananas;olive oil
+3524,bananas;pens;flour;juice;cookies;grapes
+3525,flour;coffee;tomatoes;juice;peanut butter
+3526,butter;napkins;sugar;onion
+3527,rice;cookies;onion;grapes;pencil
+3528,tea;shampoo;pencil
+3529,pencil;bread;cakes;apples;kiwi;juice;butter
+3530,coffee;onion
+3531,onion;soap;tomatoes;pens;napkins;flour;milk
+3532,soap;pencil;potatoes;tomatoes;tea
+3533,oranges;cakes;pens;olive oil;tea;pencil
+3534,grapes;bananas;juice;butter;soap
+3535,pencil;kiwi;sugar;coffee;grapes
+3536,cookies;juice
+3537,napkins;toothpaste;cookies;bread;bananas
+3538,bread;cakes
+3539,oranges;butter;peanut butter;apples;yogurt;cookies
+3540,oranges;salt;soap;tomatoes;grapes;milk;sugar
+3541,olive oil;bananas;soap;peanut butter;potatoes;salt
+3542,napkins;soap;olive oil;sugar;bread;cakes
+3543,flour;oranges;kiwi;olive oil;peanut butter;toothpaste;coffee
+3544,pens;eggs
+3545,peanut butter;kiwi;cereal;toothpaste;onion;juice
+3546,cereal;napkins;peanut butter
+3547,napkins;detergent
+3548,butter;cakes;cookies;pens;tomatoes;eggs
+3549,pencil;rice;cereal;olive oil
+3550,peanut butter;cookies;sugar;flour;soap;apples;bananas
+3551,bread;yogurt;shampoo;cereal;pencil;coffee;oranges
+3552,cereal;toothpaste
+3553,olive oil;toothpaste
+3554,yogurt;kiwi;bananas;cereal;grapes;pens
+3555,grapes;bread;kiwi
+3556,tomatoes;cakes;rice;coffee;tea;eggs
+3557,olive oil;shampoo;napkins;oranges;detergent;juice
+3558,shampoo;grapes
+3559,olive oil;peanut butter;toothpaste;coffee;bread;apples;pens
+3560,soap;bread
+3561,milk;yogurt;cookies;shampoo
+3562,olive oil;flour;shampoo;chocolate
+3563,apples;rice;juice;grapes;bread
+3564,bananas;pens;cakes;yogurt;detergent;coffee
+3565,rice;onion
+3566,tomatoes;sugar;soap;yogurt;olive oil
+3567,butter;yogurt;pencil;olive oil;potatoes
+3568,soap;detergent;juice;butter;bananas
+3569,tea;flour;olive oil;juice;milk;soap
+3570,pencil;cookies
+3571,pencil;bananas;napkins;cakes
+3572,napkins;peanut butter;flour
+3573,eggs;tea;kiwi;toothpaste
+3574,soap;rice;potatoes;salt;grapes;sugar
+3575,peanut butter;eggs;cakes;bread;pencil
+3576,butter;shampoo
+3577,sugar;potatoes;bananas;flour;apples;oranges
+3578,coffee;kiwi;onion;oranges;tomatoes;rice
+3579,cakes;pens;milk;butter;toothpaste;oranges
+3580,olive oil;flour
+3581,soap;olive oil;flour;bananas
+3582,milk;bread;soap;detergent;potatoes
+3583,shampoo;oranges;cereal;apples;sugar;pens
+3584,tomatoes;sugar
+3585,cereal;cookies
+3586,cakes;tea;coffee;eggs;sugar;salt
+3587,cereal;pens;kiwi
+3588,cereal;detergent;pens
+3589,coffee;rice
+3590,bananas;bread;salt
+3591,olive oil;kiwi;onion;yogurt;eggs;pens
+3592,grapes;yogurt;rice;toothpaste;milk;eggs;potatoes
+3593,potatoes;bread;cookies;kiwi;pencil
+3594,bananas;onion;peanut butter;butter
+3595,pens;soap
+3596,detergent;oranges
+3597,milk;bread;sugar;butter;peanut butter;eggs
+3598,bananas;apples;pencil;onion;flour;pens
+3599,potatoes;kiwi;milk;bananas;flour;detergent
+3600,kiwi;flour;salt;rice;soap
+3601,eggs;bread;butter;cereal;sugar;coffee;detergent
+3602,cakes;soap;tea;sugar;butter;flour
+3603,olive oil;eggs;sugar;tomatoes
+3604,coffee;bread;salt;juice
+3605,cookies;milk
+3606,rice;juice;pencil;coffee;eggs;cakes;olive oil
+3607,eggs;bananas;tea
+3608,oranges;detergent
+3609,pencil;juice
+3610,soap;cereal;pens
+3611,cakes;pens;milk;kiwi
+3612,bread;salt;rice;sugar;grapes;onion
+3613,apples;juice;grapes;sugar;milk
+3614,bread;rice;juice;peanut butter
+3615,eggs;butter;pencil;napkins;pens
+3616,salt;pencil
+3617,yogurt;apples;sugar;salt
+3618,chocolate;napkins;shampoo;coffee;grapes
+3619,shampoo;sugar;eggs;yogurt;cookies;kiwi
+3620,grapes;pencil;oranges;cookies;napkins;soap
+3621,bread;soap;eggs;milk
+3622,rice;pens;yogurt;tea;potatoes;grapes;juice
+3623,coffee;tea;flour;juice;apples
+3624,pencil;yogurt;olive oil;tomatoes;juice;toothpaste;oranges
+3625,rice;shampoo;pencil;detergent
+3626,detergent;sugar;onion;oranges;eggs;yogurt;napkins
+3627,eggs;grapes
+3628,tomatoes;rice
+3629,kiwi;tomatoes;chocolate;olive oil
+3630,eggs;juice;apples;kiwi
+3631,soap;detergent;napkins;milk;onion
+3632,rice;tea
+3633,apples;butter;shampoo;milk;pens
+3634,yogurt;pencil;oranges;potatoes
+3635,cookies;yogurt;grapes;kiwi;bread;milk;olive oil
+3636,detergent;coffee;cookies;cereal;rice;tea;peanut butter
+3637,eggs;juice;flour;butter;rice;pens;salt
+3638,chocolate;bread;olive oil
+3639,sugar;milk;cookies
+3640,flour;salt;shampoo;milk;rice;soap;eggs
+3641,juice;bananas;pencil;bread
+3642,chocolate;peanut butter;toothpaste;coffee
+3643,potatoes;onion;pencil;shampoo;bananas;juice;oranges
+3644,potatoes;shampoo;peanut butter
+3645,napkins;tomatoes;flour;detergent;shampoo;eggs
+3646,cereal;cakes;peanut butter;yogurt;napkins
+3647,grapes;onion;eggs
+3648,yogurt;oranges;shampoo;cakes;rice;tea;apples
+3649,juice;oranges;sugar;soap;onion;cookies;pens
+3650,bread;coffee
+3651,onion;bananas;olive oil;sugar;soap;cookies;yogurt
+3652,olive oil;potatoes;milk;sugar;shampoo;cookies;yogurt
+3653,sugar;apples;bananas
+3654,kiwi;oranges;tea;pencil;onion;flour;cakes
+3655,peanut butter;oranges;pens;cereal;rice;tomatoes
+3656,bread;chocolate;pencil;juice
+3657,cereal;chocolate;tea;bananas;cakes;sugar
+3658,cereal;shampoo;tea;soap;butter;juice
+3659,salt;cakes
+3660,cookies;potatoes;butter;flour;bread;shampoo;coffee
+3661,eggs;pencil;olive oil;potatoes
+3662,juice;sugar;yogurt;cakes;peanut butter;tea;oranges
+3663,kiwi;butter;shampoo;milk;bread
+3664,flour;bananas;tomatoes;eggs;bread
+3665,butter;milk;cereal
+3666,flour;shampoo;tomatoes;bread;cookies;napkins
+3667,kiwi;potatoes;juice;salt;coffee;butter
+3668,grapes;soap;yogurt;cereal;rice
+3669,olive oil;juice;tea;peanut butter;butter;kiwi
+3670,potatoes;cookies;bananas
+3671,apples;rice
+3672,rice;apples;grapes
+3673,eggs;toothpaste
+3674,eggs;cookies;bananas;grapes;olive oil
+3675,detergent;eggs;juice;apples;butter;bananas;pens
+3676,onion;chocolate;eggs;tomatoes
+3677,juice;cakes;peanut butter;salt
+3678,cakes;tomatoes;peanut butter;bread;eggs;grapes;soap
+3679,butter;pens;milk;onion;salt
+3680,pens;salt;kiwi;bananas
+3681,onion;grapes
+3682,soap;rice;apples;chocolate;butter
+3683,eggs;shampoo;oranges;coffee
+3684,bananas;pencil
+3685,eggs;pencil;butter;tomatoes;oranges
+3686,soap;chocolate
+3687,tomatoes;flour;peanut butter;apples
+3688,salt;kiwi;soap;butter;detergent
+3689,apples;chocolate
+3690,onion;pencil;cereal;butter;kiwi;potatoes
+3691,potatoes;eggs;butter;chocolate;peanut butter;shampoo
+3692,soap;yogurt;onion;sugar;flour;olive oil
+3693,flour;pencil
+3694,cookies;detergent;bread;coffee;toothpaste;salt
+3695,oranges;chocolate;grapes;pencil;rice
+3696,toothpaste;oranges;eggs;grapes
+3697,cakes;milk;apples;bananas;oranges;cereal;tea
+3698,toothpaste;rice;eggs;apples
+3699,tomatoes;apples;chocolate;milk
+3700,toothpaste;chocolate
+3701,olive oil;salt;cookies;toothpaste
+3702,toothpaste;peanut butter;tomatoes;milk;napkins
+3703,eggs;rice;oranges;kiwi
+3704,potatoes;butter;bananas;sugar;tea;peanut butter
+3705,milk;pencil;butter;rice;yogurt
+3706,detergent;coffee;olive oil
+3707,oranges;shampoo;grapes;soap;tea;milk
+3708,chocolate;butter;toothpaste;oranges;juice;pens;napkins
+3709,peanut butter;chocolate;napkins;bananas
+3710,pencil;olive oil;milk;apples
+3711,potatoes;milk;pencil;detergent;rice;cakes
+3712,grapes;juice
+3713,soap;flour
+3714,coffee;pens;milk;grapes;flour;tomatoes;kiwi
+3715,butter;detergent;rice
+3716,yogurt;salt;shampoo;chocolate;detergent;soap
+3717,apples;juice;tomatoes;napkins
+3718,rice;yogurt;tea;milk;detergent;flour
+3719,tomatoes;milk;pens
+3720,eggs;chocolate
+3721,detergent;oranges
+3722,tea;juice
+3723,cookies;chocolate
+3724,rice;toothpaste
+3725,tomatoes;salt
+3726,pencil;tomatoes;bananas
+3727,chocolate;flour;detergent;pens;pencil;soap;napkins
+3728,milk;onion
+3729,bananas;toothpaste
+3730,pencil;salt
+3731,apples;olive oil;detergent;cakes;milk;tea;pens
+3732,tomatoes;sugar;butter;tea;yogurt;toothpaste;potatoes
+3733,potatoes;toothpaste;pens
+3734,cereal;pens;rice;oranges;sugar;milk
+3735,detergent;cookies;pens;tomatoes
+3736,olive oil;potatoes;cakes;kiwi;soap;napkins
+3737,tomatoes;cereal;shampoo;eggs;chocolate;toothpaste
+3738,bananas;bread
+3739,bananas;potatoes;tea;soap
+3740,rice;oranges;toothpaste
+3741,cereal;chocolate;shampoo;bread
+3742,cakes;coffee;pencil;toothpaste;oranges;cereal
+3743,juice;soap;pencil;milk;butter;cereal
+3744,pencil;shampoo
+3745,flour;bread;sugar
+3746,olive oil;onion;butter;potatoes;tomatoes;yogurt
+3747,eggs;sugar;soap
+3748,juice;coffee;shampoo
+3749,butter;juice;soap;chocolate;shampoo
+3750,coffee;tea;bananas;rice;onion;tomatoes
+3751,rice;apples;bananas
+3752,coffee;salt;juice;grapes;cakes;napkins
+3753,sugar;grapes;coffee;olive oil;juice;cookies;shampoo
+3754,kiwi;toothpaste
+3755,eggs;kiwi;sugar;coffee;apples;oranges
+3756,peanut butter;shampoo;eggs;juice
+3757,rice;yogurt;salt;apples;onion;tea;sugar
+3758,flour;salt;butter;tomatoes
+3759,rice;apples;shampoo;bananas;coffee;oranges;tomatoes
+3760,salt;tea;juice;apples;yogurt
+3761,juice;tomatoes;salt;cookies;coffee
+3762,rice;tea;bread
+3763,coffee;bananas;shampoo;peanut butter;napkins
+3764,shampoo;onion
+3765,toothpaste;juice;tea
+3766,chocolate;grapes;toothpaste;cookies;coffee;eggs;pens
+3767,juice;apples
+3768,peanut butter;cereal;sugar;apples;cookies
+3769,butter;tea
+3770,bananas;cereal;pencil
+3771,olive oil;peanut butter
+3772,oranges;sugar
+3773,kiwi;flour;salt;yogurt;shampoo;sugar;pencil
+3774,tea;cakes;chocolate
+3775,coffee;potatoes;grapes;rice;onion;bananas;detergent
+3776,pens;napkins
+3777,apples;grapes;onion;peanut butter;cereal;pens
+3778,juice;oranges;butter;onion;tea;flour
+3779,bread;bananas;cakes;detergent;olive oil
+3780,milk;cereal;onion;peanut butter
+3781,chocolate;flour;grapes;apples
+3782,napkins;toothpaste;eggs;yogurt;coffee
+3783,apples;cereal;yogurt;tea
+3784,oranges;napkins
+3785,eggs;salt;bread
+3786,soap;rice;peanut butter
+3787,toothpaste;bread
+3788,juice;rice;potatoes
+3789,flour;sugar;coffee
+3790,oranges;apples
+3791,bananas;olive oil;salt;shampoo;toothpaste;cereal;pens
+3792,bananas;tea;cookies;apples;salt;eggs;butter
+3793,pens;bread;cookies;apples;oranges;juice
+3794,eggs;soap
+3795,flour;milk;apples;peanut butter;coffee
+3796,coffee;shampoo;salt;rice;tomatoes
+3797,pencil;sugar;yogurt
+3798,bananas;flour;cakes;pens;rice
+3799,potatoes;toothpaste
+3800,tea;rice;oranges;bread
+3801,toothpaste;grapes;milk;apples;shampoo
+3802,tomatoes;tea
+3803,flour;apples;rice
+3804,pencil;yogurt;kiwi
+3805,yogurt;oranges;rice;toothpaste;bread;soap;juice
+3806,napkins;apples;coffee;rice;peanut butter;juice
+3807,kiwi;cookies;olive oil;pencil;cereal
+3808,chocolate;coffee;butter;detergent;bananas;olive oil
+3809,salt;toothpaste;tea;cakes;tomatoes;detergent
+3810,kiwi;eggs;butter;bread;grapes;tea;shampoo
+3811,cakes;detergent;cereal;oranges
+3812,eggs;potatoes;bread;toothpaste;peanut butter;cakes
+3813,olive oil;butter;coffee
+3814,juice;kiwi;olive oil;milk
+3815,detergent;yogurt;apples
+3816,rice;cereal
+3817,peanut butter;milk;salt;toothpaste;pens;cookies
+3818,potatoes;juice;bread
+3819,butter;napkins
+3820,cereal;milk;cookies;oranges
+3821,chocolate;onion;apples;milk;bananas
+3822,cereal;juice;milk;toothpaste;tea;shampoo;oranges
+3823,milk;shampoo;napkins
+3824,milk;kiwi;cakes;chocolate
+3825,onion;bananas;shampoo;eggs;toothpaste;oranges;bread
+3826,pens;coffee
+3827,pens;bread
+3828,onion;apples;juice;tea;flour
+3829,toothpaste;tea;soap;kiwi;flour
+3830,oranges;grapes;yogurt
+3831,tomatoes;pens;coffee;shampoo;napkins;detergent
+3832,oranges;detergent;potatoes;onion;pencil;sugar;grapes
+3833,cereal;cookies;grapes
+3834,cakes;butter;oranges;eggs
+3835,yogurt;potatoes;tomatoes;onion;cookies
+3836,napkins;apples;olive oil;juice;chocolate
+3837,chocolate;pens;soap;toothpaste;bananas
+3838,flour;soap;potatoes;tomatoes;olive oil
+3839,chocolate;juice;sugar;peanut butter;bread
+3840,bananas;shampoo;pencil;soap
+3841,sugar;onion;flour
+3842,pens;tea;apples;potatoes;salt;sugar
+3843,yogurt;toothpaste;onion;milk;eggs
+3844,pencil;cookies;tomatoes
+3845,potatoes;bread;cereal;pens
+3846,milk;coffee;detergent;salt;butter;tea;yogurt
+3847,potatoes;kiwi;olive oil;bananas
+3848,napkins;kiwi;chocolate;sugar;cereal;oranges
+3849,cakes;sugar;toothpaste;pens;tea;bananas;coffee
+3850,eggs;bread;cookies;kiwi;butter;yogurt
+3851,milk;peanut butter;toothpaste
+3852,chocolate;juice;cakes
+3853,cakes;bread;onion
+3854,cakes;oranges
+3855,chocolate;napkins
+3856,grapes;chocolate;butter;toothpaste;eggs
+3857,butter;napkins;yogurt;soap;flour;onion;peanut butter
+3858,butter;coffee;detergent;kiwi;rice;cookies;cereal
+3859,detergent;butter;soap;eggs
+3860,olive oil;eggs;detergent;soap;bananas;cereal;kiwi
+3861,milk;tomatoes;rice;coffee
+3862,chocolate;grapes;apples;coffee
+3863,sugar;tomatoes;pens;yogurt;napkins;eggs
+3864,potatoes;salt;chocolate;eggs;soap
+3865,shampoo;rice;cookies;cakes
+3866,toothpaste;butter
+3867,cakes;chocolate;cookies
+3868,rice;eggs;cookies;peanut butter
+3869,bread;onion
+3870,yogurt;pens;cookies
+3871,salt;sugar;cereal;juice
+3872,pens;flour;toothpaste;kiwi;grapes
+3873,cookies;napkins
+3874,tea;yogurt;oranges;toothpaste;juice;bananas
+3875,shampoo;tomatoes;butter;salt
+3876,cereal;chocolate;butter
+3877,rice;pencil;shampoo;detergent;bread;soap;flour
+3878,butter;napkins;juice;cookies
+3879,onion;yogurt;grapes;pens;coffee
+3880,potatoes;flour;shampoo;napkins;toothpaste;detergent;oranges
+3881,pencil;soap;coffee;yogurt;cereal;kiwi
+3882,toothpaste;apples;cookies
+3883,juice;bananas;tea;potatoes
+3884,oranges;grapes;chocolate;salt;bananas
+3885,grapes;potatoes
+3886,rice;milk;oranges;sugar;salt
+3887,onion;cookies;pencil;grapes;sugar
+3888,cookies;cereal;soap
+3889,tomatoes;napkins;olive oil;toothpaste;grapes;kiwi
+3890,onion;eggs
+3891,tea;olive oil;napkins;oranges;bread;eggs
+3892,rice;grapes;napkins;cakes;tea
+3893,chocolate;tea;cereal
+3894,potatoes;yogurt;shampoo
+3895,onion;rice;apples
+3896,chocolate;detergent;flour;tea
+3897,milk;flour;pencil
+3898,tomatoes;olive oil;tea;bananas;detergent
+3899,tomatoes;juice;toothpaste;bananas;olive oil
+3900,eggs;napkins;cookies
+3901,yogurt;onion;napkins;grapes;juice;apples
+3902,cookies;potatoes;soap;kiwi;tea
+3903,flour;rice;tea;bananas;pencil;cakes;coffee
+3904,pencil;bread;butter;olive oil;milk;eggs;onion
+3905,onion;salt;shampoo;bread;milk
+3906,cereal;potatoes;yogurt
+3907,olive oil;grapes;salt;juice;eggs;sugar;potatoes
+3908,potatoes;tea;rice;soap
+3909,eggs;rice
+3910,coffee;cereal;rice;salt;grapes;onion
+3911,detergent;cakes;oranges
+3912,cookies;juice;milk;onion;coffee;soap;cakes
+3913,kiwi;cakes;apples;napkins
+3914,salt;flour;pencil;butter;potatoes;eggs;juice
+3915,salt;potatoes;apples;shampoo;coffee;bananas;cookies
+3916,rice;soap;juice;olive oil;peanut butter
+3917,soap;flour;peanut butter;pens;chocolate;cakes;coffee
+3918,eggs;oranges;salt;butter
+3919,bananas;chocolate;salt;bread;oranges
+3920,oranges;chocolate;tomatoes
+3921,butter;oranges;coffee;pencil;grapes
+3922,tomatoes;eggs;peanut butter;kiwi;detergent;yogurt
+3923,napkins;tea;rice;juice;detergent
+3924,milk;grapes
+3925,yogurt;pencil;apples;oranges
+3926,napkins;kiwi;oranges;chocolate;coffee;bananas
+3927,sugar;oranges;onion
+3928,cakes;pencil;shampoo;sugar;onion;flour
+3929,toothpaste;soap;grapes;peanut butter;bread;cakes
+3930,oranges;yogurt;pencil
+3931,detergent;flour;tomatoes;rice;milk
+3932,eggs;grapes;toothpaste;coffee;detergent
+3933,pens;tea;cookies;olive oil;salt;kiwi;shampoo
+3934,sugar;onion;juice;olive oil;bananas;salt;eggs
+3935,coffee;sugar;onion;grapes;olive oil
+3936,coffee;rice;cookies;juice;oranges;grapes;tomatoes
+3937,oranges;tea
+3938,tea;napkins
+3939,butter;peanut butter;toothpaste;detergent;apples
+3940,juice;apples;oranges;cereal;butter;flour;onion
+3941,sugar;pencil;napkins;soap
+3942,shampoo;sugar;tomatoes;pens
+3943,eggs;tea;pencil
+3944,bananas;bread;pencil;yogurt;grapes;apples;cereal
+3945,tea;salt;flour
+3946,onion;bananas;eggs;butter;pencil
+3947,rice;toothpaste;flour;bananas;juice;salt
+3948,tea;milk;peanut butter;olive oil;onion;cookies
+3949,cereal;juice;chocolate;toothpaste
+3950,apples;rice;napkins;detergent;juice;tomatoes;bread
+3951,toothpaste;pens;cereal
+3952,sugar;cakes;tomatoes;salt;peanut butter
+3953,coffee;soap;rice;toothpaste;potatoes;cereal
+3954,pencil;cakes;potatoes;yogurt;eggs;milk;detergent
+3955,flour;sugar;tea;milk;soap;bananas;shampoo
+3956,cookies;soap;cakes;bread
+3957,shampoo;peanut butter;flour;butter
+3958,bread;grapes;yogurt;potatoes;flour
+3959,coffee;olive oil
+3960,milk;detergent;cereal;butter;kiwi
+3961,yogurt;kiwi;apples
+3962,shampoo;milk;grapes;tea;tomatoes;juice
+3963,bananas;detergent;salt;sugar;tea
+3964,peanut butter;pens;chocolate
+3965,detergent;milk;bananas;cakes
+3966,bananas;sugar
+3967,pencil;sugar;eggs;oranges
+3968,flour;juice;grapes
+3969,tea;kiwi;milk
+3970,cereal;toothpaste
+3971,soap;tea;onion;coffee
+3972,coffee;detergent;napkins;apples;butter;cereal
+3973,cereal;oranges
+3974,chocolate;sugar;onion;bread
+3975,salt;soap;onion;cookies;bananas;shampoo;toothpaste
+3976,chocolate;juice;shampoo;kiwi;potatoes;tomatoes
+3977,pens;yogurt;milk
+3978,cakes;onion
+3979,toothpaste;peanut butter;rice;bread
+3980,cereal;kiwi;grapes;sugar;flour
+3981,shampoo;pens;bread;chocolate;tea;coffee;soap
+3982,soap;grapes;napkins;butter;olive oil;salt;yogurt
+3983,potatoes;butter;onion;eggs;peanut butter;grapes;oranges
+3984,tomatoes;napkins;flour;shampoo;potatoes;bananas;detergent
+3985,onion;bananas;sugar;cereal
+3986,juice;potatoes;flour;chocolate
+3987,yogurt;butter
+3988,soap;coffee;rice;shampoo;yogurt
+3989,onion;milk;potatoes
+3990,flour;apples;oranges;napkins;detergent;yogurt
+3991,kiwi;cereal;apples;flour;grapes
+3992,onion;bread;pens
+3993,shampoo;oranges;cookies;pencil;toothpaste
+3994,apples;shampoo;pencil;potatoes
+3995,tea;salt;cakes;juice;rice
+3996,chocolate;cereal;juice;tomatoes
+3997,flour;bread;napkins
+3998,cakes;grapes;cereal
+3999,milk;bananas;peanut butter;toothpaste
+4000,grapes;tomatoes
